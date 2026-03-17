@@ -16,7 +16,7 @@ Usage (after adding client code)
 1) Copy `.env.example` to `.env` and set `PERPLEXITY_API_KEY`.
 2) Paste your client boilerplate into `px_client.py` (replace the stub).
 3) Option A: run one prompt
-   - `python 05_prompts/perplexity_runner/run_one.py 05_prompts/research/A1_problem_landscape_immigrant_service_access.txt`
+   - `python 05_prompts/perplexity_runner/run_one.py 05_prompts/research/A1_problem_landscape_mbe_contracting.txt`
 4) Option B: run all prompts in a folder
    - `python 05_prompts/perplexity_runner/run_all.py 05_prompts/research`
 
@@ -28,7 +28,6 @@ Notes
 - Do not ask the model to include URLs in the text. Parse accurate URLs from the API response metadata (see docs in `docs/`).
 - Prefer using built-in API search parameters (e.g., `search_domain_filter`) instead of instruction-based filtering.
 - Keep prompts Richmond-specific and label Findings as Verified (with sources), Inference, or Unknown.
-- For this pillar: privacy considerations should be flagged in all research output.
 
 Per-prompt configuration
 - You can override `config.yaml` per prompt using either:
@@ -38,14 +37,14 @@ Per-prompt configuration
      preset: pro-search
      instructions: |
        You are a Richmond-focused research assistant...
-     search_domain_filter: ["help1rva.com", "rva.gov", "dss.virginia.gov"]
+     search_domain_filter: ["mvendor.cgieva.com", "rva.gov"]
      web_search_options:
        search_context_size: high
      ---
      <prompt text continues here>
 
   2) A sibling YAML file with the same basename, e.g.:
-     `A1_problem_landscape_immigrant_service_access.yaml`
+     `A1_problem_landscape_mbe_contracting.yaml`
      with any subset of the same keys as `config.yaml`.
 
 Precedence

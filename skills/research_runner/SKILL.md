@@ -16,11 +16,11 @@ Purpose: Execute research prompts and collect findings with sources.
 - Brief findings summary per prompt with Richmond-specific sources.
 - Consolidated evidence log with links and short notes.
 - Saved raw outputs to `05_prompts/perplexity_runner/research-output/` (if approved).
-- Privacy implications flagged for any finding with data collection relevance.
 
 ## Process
 1) Confirm prompts to run and any overrides; verify API key availability.
 2) Run prompts via the runner; capture responses and source links.
 3) Extract key evidence; note contradictions, gaps, and red flags.
 4) Produce a concise summary; point to saved artifacts if writing was approved.
-5) Flag any eligibility/legal/privacy claims and escalate to `risk_review` if needed.
+5) Flag any eligibility/legal claims and escalate to `risk_review` if needed.
+

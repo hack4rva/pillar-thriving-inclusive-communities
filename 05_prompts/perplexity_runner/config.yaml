@@ -13,9 +13,8 @@ instructions: |
 search_domain_filter: []
   # - rva.gov
   # - virginia.gov
-  # - help1rva.com
-  # - dss.virginia.gov
-  # - data.census.gov
+  # - planrva.org
+  # - rvaopendata.org
 
 web_search_options:
   search_context_size: high
