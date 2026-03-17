@@ -1,0 +1,26 @@
+Data D2 — Community Organization Directories That May Be Accessible
+
+Identify existing directories or lists of community organizations serving immigrant and refugee residents in Richmond that a hackathon team could use as a starting point.
+
+Sources to investigate:
+1. United Way of Greater Richmond and Petersburg — partner/agency directory
+2. Richmond Community Foundation — grantee list with focus areas
+3. Virginia State Refugee Program / Office of New Americans — partner organization list
+4. Catholic Charities of Eastern Virginia — public program listings
+5. World Relief Richmond (if present) — public service listings
+6. Richmond City School District — community resource lists for families
+7. VCU Health community benefit reports — listed partner organizations
+8. The Valentine Museum or other Richmond cultural institutions — immigrant community documentation
+9. Local media coverage (Richmond Times-Dispatch, RVA Mag) — mentions of organizations serving immigrant communities
+10. 211 Virginia partner directory — Richmond area
+
+For each source:
+- Is a structured list available (CSV, table, directory page)?
+- What fields are included?
+- How current is the information?
+- What are the access conditions?
+
+Output:
+- Ranked list of data sources by usability for a hackathon team
+- Which sources could be combined to create a starting 20–30 organization list
+- Gaps: what types of organizations are likely missing from all of these sources

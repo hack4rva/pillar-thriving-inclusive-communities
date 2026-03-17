@@ -1,0 +1,24 @@
+Users B4 — Stakeholder Map for Thriving and Inclusive Communities
+
+Map all stakeholders involved in or affected by immigrant and refugee service access in Richmond.
+
+For each stakeholder category, describe:
+- Their role in the current service ecosystem
+- Their interests (what they want to see happen)
+- Their concerns (what they are worried about)
+- Their capacity to participate in a hackathon prototype or its continuation
+
+Stakeholder categories to map:
+1. Immigrant and refugee residents (primary beneficiaries)
+2. Nonprofit case managers and social workers
+3. Trusted community organizations (faith, cultural, advocacy)
+4. City of Richmond social services and housing staff
+5. Workforce development programs (YMCA, community colleges, workforce boards)
+6. Help1RVA platform operators
+7. FindHelp / UniteUs platform representatives
+8. Legal aid organizations serving immigrant residents
+9. Healthcare providers serving immigrant and refugee communities
+10. Potential hackathon champions (ReEstablish Richmond, YMCA, NCS — as identified in rubric materials)
+
+Output: A stakeholder table with columns: Stakeholder, Role, Interests, Concerns, Hackathon participation potential.
+Then: "Top 3 stakeholders a hackathon team should try to reach during the weekend."

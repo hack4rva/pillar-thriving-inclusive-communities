@@ -1,0 +1,21 @@
+Services C1 — Help1RVA: What It Is, How It Works, Its Limitations
+
+Research Help1RVA (help1rva.com) as the primary service directory infrastructure for Richmond's immigrant and refugee communities.
+
+Questions to answer:
+1. What is Help1RVA? Who owns and operates it? When was it created? How is it funded?
+2. How many organizations and services are listed? What are the main service categories?
+3. What is the user interface like for a resident with limited English? What barriers does the interface create?
+4. Is there a public API or structured data export? What data format is available?
+5. Does Help1RVA have multilingual support? If so, which languages?
+6. What is the process for organizations to add or update their listings? How current is the data?
+7. Is there a mobile app or SMS interface?
+8. What privacy statement or data handling disclosure is present?
+9. How does Help1RVA relate to FindHelp/Aunt Bertha and UniteUs? Are they the same data, different data, or competing systems?
+10. Has Help1RVA been the subject of any evaluation or improvement planning that is publicly documented?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Assessment: what can a hackathon team build using Help1RVA data vs. what requires going around it?
+- What a hackathon team should verify before demo (phone number accuracy, language flags, service currency)

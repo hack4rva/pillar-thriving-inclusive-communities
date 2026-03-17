@@ -1,0 +1,22 @@
+Risks G1 — The Risk of False Safety: Tools That Give Immigrants False Confidence
+
+Investigate the specific risk that a service discovery or navigation tool could give immigrant residents false confidence about their safety — leading them to take actions that expose them to harm they would have avoided without the tool.
+
+Risk scenarios to analyze:
+1. A tool says "we don't collect your information" but actually logs IP addresses, device fingerprints, or session data that could be linked to an individual under legal process
+2. A tool displays "no papers required" for an organization without verifying that the organization's current policy actually guarantees this
+3. A tool presents itself as "safe" through visual design choices (green checkmarks, shield icons) that imply a level of protection the tool does not actually provide
+4. A tool claims anonymity but is hosted on infrastructure owned by an entity subject to law enforcement data requests (government cloud, third-party analytics)
+5. A tool uses an AI chatbot that is inconsistently accurate, giving some residents correct guidance and others incorrect guidance based on query phrasing
+6. A tool is shared through WhatsApp and forwarded to communities that misinterpret its scope ("this tool can help you with your immigration case")
+
+For each scenario:
+- What is the specific harm mechanism?
+- What design or process change prevents it?
+- Is this risk avoidable with weekend-scale resources, or does it require legal review and infrastructure decisions?
+
+Output:
+- Risk register for false safety scenarios
+- Design guardrails for each risk
+- Minimum viable safety review before a tool is shared with vulnerable community members
+- Language for a responsible disclaimer in the tool itself

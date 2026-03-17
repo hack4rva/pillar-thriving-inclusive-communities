@@ -1,0 +1,26 @@
+Opportunities F1 — Ranked Solution Opportunities
+
+Based on the research across sections A through E, rank the solution opportunities for this pillar from most to least promising for a Richmond hackathon team.
+
+Evaluate each opportunity against:
+1. Problem clarity (is the user and pain point well-defined?)
+2. Data availability (can the team get usable data in 2–3 hours?)
+3. Weekend feasibility (can a working demo exist by Sunday?)
+4. Privacy safety (does the approach avoid collecting vulnerable data?)
+5. Post-hackathon potential (is there a realistic continuation path?)
+6. Alignment with rubric (does it directly address the targeted problem statements?)
+
+Opportunities to evaluate:
+A. Privacy-first service finder (anonymous browsing, plain language, no login)
+B. Multilingual help resource tool (Spanish + other languages, voice-friendly)
+C. Trusted community messenger distribution system (WhatsApp/SMS via ambassadors)
+D. Case manager coordination helper (staff-facing referral reference tool)
+E. Cross-agency service pathway map (visual map of services and handoffs)
+F. Help1RVA interface improvement prototype (redesigned front end)
+G. Language access audit tool (surfaces language access gaps in current service ecosystem)
+
+Output:
+- Ranked list with scores on each dimension
+- Recommended primary choice with rationale
+- Recommended secondary choice (if team wants a complement)
+- What each opportunity explicitly does NOT address (so teams are honest about scope)

@@ -1,0 +1,26 @@
+Opportunities F3 — How to Build a Useful MVP With No Cross-Agency Data Access
+
+This prompt addresses the hardest design challenge in this pillar: building a useful tool for Statement 2 (cross-agency navigation) when the D3=1 constraint means no cross-agency dataset exists.
+
+Design challenge:
+The problem is real — residents do get lost between agencies and have to repeat their story. But the data that would make a navigation tool powerful (cross-agency intake records, referral outcomes, capacity information) is behind HIPAA walls and organizational silos.
+
+Explore the following approaches:
+1. The "pathway map" approach: build a visual representation of the service ecosystem using public information about each organization, without any client-level data. This tells residents and case managers what exists and in what order to approach organizations.
+
+2. The "intake guide" approach: build a reference tool for case managers that documents the intake requirements of each organization — so managers can prepare clients before calls and avoid surprise rejections.
+
+3. The "service taxonomy" approach: build a tool that helps residents (or case managers on their behalf) describe their need and receive a prioritized list of relevant organizations with intake notes. No cross-agency data required.
+
+4. The "gap visibility" approach: build a tool that visualizes the known gaps in the service ecosystem — not to route residents, but to make the problem visible to advocates, funders, and policymakers.
+
+For each approach:
+- What data does it require?
+- What is the user flow?
+- What can a team build in 48 hours?
+- What would judges find credible and useful?
+
+Output:
+- Comparison of the four approaches
+- Recommended approach for a hackathon team with a clear rationale
+- What to tell judges about the D3=1 constraint honestly

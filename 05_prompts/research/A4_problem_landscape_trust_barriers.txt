@@ -1,0 +1,23 @@
+Problem Landscape A4 — Why Trust Is the Core Issue, Not Just Information Access
+
+Investigate the trust dimension of service access for immigrant and refugee communities. This prompt focuses on why trust barriers persist even when services are available and information is theoretically accessible.
+
+Research questions:
+1. What research exists on how undocumented immigrants or recently arrived refugees assess whether it is safe to contact a service organization? What factors increase or decrease perceived safety?
+
+2. What specific design or interaction patterns cause immigrant residents to abandon service-seeking behavior? (Examples: forms that ask for address, websites that look like government applications, services that share data with other agencies)
+
+3. What is the documented relationship between immigration enforcement climate and service access behavior? How do policy changes at the federal or state level affect whether residents seek help?
+
+4. What have trusted community organizations (faith communities, cultural organizations, immigrant advocacy groups) done that government and nonprofits have not been able to replicate in terms of trust-building?
+
+5. What communication patterns signal trustworthiness to immigrant communities? (Who delivers the message, how it is formatted, what language it uses)
+
+6. Are there documented examples of digital tools that successfully earned trust from immigrant or refugee communities? What design choices made them trusted?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Key design principles that emerge from the research
+- What a hackathon tool can do in 48 hours to begin earning trust
+- What trust-building requires beyond technology (human relationships, time, community endorsement)

@@ -1,0 +1,34 @@
+Demo Strategy I1 — Demo Archetypes for Thriving and Inclusive Communities
+
+Describe the strongest demo archetypes for this pillar and what makes each one compelling to judges.
+
+Archetype 1: The Empathy Opener
+Start with the user journey. Show a specific resident's situation (from Journey 1 or Journey 2 in user_journeys.md) before showing the tool. Make judges feel the friction before showing the solution.
+
+Why it works: Judges score on D5 (population and impact). Grounding the demo in a specific, real-feeling person's experience makes the impact tangible.
+
+Archetype 2: The Side-by-Side Contrast
+Show the current experience (Help1RVA, Google search in Spanish, a dead phone number) alongside the prototype. Make the contrast visual and immediate.
+
+Why it works: Communicates the problem and solution simultaneously without requiring the judge to imagine the problem on their own.
+
+Archetype 3: The Trust Demonstration
+Open with the privacy statement. Explain why it matters. Show that the entire user flow requires zero personal information. Make trust the product.
+
+Why it works: For this pillar specifically, trust is the defining constraint. A team that demonstrates they understood this will score higher on D8 (accessibility) and stand out from teams that built generic service finders.
+
+Archetype 4: The Pathway Walk
+For cross-agency navigation tools, walk through the pathway map step by step. Name the friction points. Show what data is missing and what the tool does with what exists.
+
+Why it works: Demonstrates sophistication about the D3=1 constraint. Judges respect teams that name hard problems honestly.
+
+For each archetype:
+- What does the demo sequence look like?
+- What should be on screen at each point?
+- What is the single most compelling moment?
+- What is the likely judge question and how to answer it?
+
+Output:
+- Four archetype descriptions with demo sequence outlines
+- Recommendation: which archetype for which MVP shape
+- How to combine archetypes for a 5-minute demo

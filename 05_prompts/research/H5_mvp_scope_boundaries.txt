@@ -1,0 +1,37 @@
+MVP Feasibility H5 — Scope Boundaries and What to Cut
+
+Define clear scope boundaries for each MVP shape to prevent over-building and ensure a functional demo by Sunday.
+
+This prompt is for teams that are over-scoped and need to make hard cuts.
+
+Decision framework for scope cuts:
+1. Does cutting this feature affect the core user value proposition? (If yes, it may be non-negotiable)
+2. Does cutting this feature affect privacy or safety? (If yes, it is non-negotiable — do not cut it)
+3. Can this feature be faked or mocked for the demo? (If yes, mock it and build it post-hackathon)
+4. Can this feature be described verbally rather than shown? (If yes, cut it from the build)
+
+Non-negotiable features (never cut these):
+- Privacy statement on landing page
+- At least one complete user flow from landing to organization contact
+- Mobile-responsive layout
+- Honest labeling of data quality and limitations
+- At least 10 verified organization entries in the service directory
+
+Features that should be cut before Sunday if behind:
+- Real-time data sync with Help1RVA or any external API
+- User accounts or personalization
+- Full multilingual translation of all content (keep category labels + privacy statement minimum)
+- Advanced search or filtering beyond basic category browsing
+- Audio/TTS implementation
+- Analytics dashboard
+- Admin interface for content updates (demo it as a future feature verbally)
+
+Features that can be mocked for demo:
+- Multilingual content beyond Spanish (show the toggle UI, explain it works the same way)
+- "Current capacity" status for organizations (show a placeholder; explain it would require organization cooperation)
+- Referral confirmation (show a mockup UI; explain it's the post-hackathon roadmap item)
+
+Output:
+- Priority grid: must-have / nice-to-have / demo-fake / cut entirely
+- Decision rules for scope cuts under time pressure
+- What to say in the demo about features that are mocked or absent

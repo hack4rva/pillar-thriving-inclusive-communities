@@ -1,0 +1,29 @@
+MVP Feasibility H3 — Building a Useful MVP for Cross-Agency Navigation With No Cross-Agency Data
+
+The D3=1 constraint means there is no cross-agency intake dataset for Richmond. This prompt explores how to build a credible, useful prototype for Statement 2 despite that constraint.
+
+The constraint:
+- No anonymized intake data
+- No service directory export from Help1RVA/FindHelp/UniteUs in structured format
+- No process map of how a resident moves between agencies
+- HIPAA walls prevent accessing case-level data
+
+Viable approaches (from F3 research):
+1. Pathway map using public information only — build a visual representation of the service ecosystem using publicly available program descriptions
+2. Intake guide for case managers — document intake requirements of each organization from their public-facing materials
+3. Service taxonomy tool — help case managers describe a client's need and receive relevant organization information
+
+For each approach, provide:
+- What the team needs to build
+- What data they need and how to get it without crossing HIPAA walls
+- What the demo will show
+- What the honest limitations are
+
+The "honest demo" framing:
+How does a team present a cross-agency navigation prototype that is genuinely useful without overclaiming? The answer is to make the data gap itself visible — showing that the gap exists and demonstrating what a navigator would look like once the gap is filled.
+
+Output:
+- Recommended approach for a cross-agency MVP with D3=1 constraint
+- Data acquisition plan (what public information to compile)
+- Demo script outline
+- How to frame the limitations honestly and constructively for judges

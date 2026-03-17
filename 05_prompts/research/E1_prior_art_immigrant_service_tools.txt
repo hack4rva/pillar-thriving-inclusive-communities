@@ -1,0 +1,27 @@
+Prior Art E1 — National Tools for Immigrant Service Access
+
+Research national tools, platforms, and approaches that have been built to help immigrant and refugee populations access services. Focus on what works, what doesn't, and what is directly replicable for a Richmond hackathon.
+
+Tools to research:
+1. NYC Immigrant Services portal (nyc.gov/immigrants)
+2. USCRI (US Committee for Refugees and Immigrants) digital tools
+3. IRC (International Rescue Committee) digital products
+4. Welcoming America community tools
+5. World Relief digital resource tools
+6. Any Virginia-specific immigrant service navigation tools
+
+For each tool, assess:
+- Target population
+- Core functionality
+- Technology approach (web, SMS, WhatsApp, app)
+- Language support
+- Privacy approach
+- Evidence of adoption or effectiveness
+- What made it succeed or fail
+- What is directly replicable in a weekend hackathon
+
+Output:
+- Comparative table: Tool, Population, Features, Technology, Privacy, Evidence, Replicability
+- Top 3 design patterns that work for this population
+- Top 3 design anti-patterns that should be avoided
+- Recommendation for Richmond hackathon teams: which patterns to replicate

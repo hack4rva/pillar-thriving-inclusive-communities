@@ -1,0 +1,36 @@
+Opportunities F5 — What NOT to Build
+
+This prompt identifies solution directions that should be avoided — either because they require data or infrastructure that doesn't exist, create unacceptable risk for vulnerable users, or have been tried elsewhere and failed.
+
+DO NOT BUILD: CATEGORY 1 — PII and Immigration Status Collection
+- Tools that require residents to enter name, address, phone, or email to access service information
+- Tools that ask about immigration status, household composition, or income to "personalize" results
+- Tools that create user accounts or profiles linked to individual residents
+- Tools that log search queries in ways that could be tied to an individual
+
+Why: This data could be subpoenaed. Even if the developer intends to protect it, legal processes, data breaches, or organizational changes could expose it. The harm to a vulnerable resident could be life-altering.
+
+DO NOT BUILD: CATEGORY 2 — Eligibility Determination
+- Tools that tell residents whether they qualify for a specific program
+- Tools that filter services based on eligibility criteria entered by the resident
+- Tools that use rules engines to match residents to benefit programs
+
+Why: Eligibility rules are complex, change frequently, and require trained caseworkers to apply correctly. An incorrect eligibility determination from a software tool could cause a resident to miss a critical benefit or be wrongly turned away.
+
+DO NOT BUILD: CATEGORY 3 — Agency System Integration
+- Tools that claim to integrate with City DSS, Housing, or workforce program databases
+- Tools that attempt to read or write to internal agency case management systems
+- Tools that propose to share resident data between agencies without existing data sharing agreements
+
+Why: HIPAA, state law, and organizational policy create walls around this data. Any "integration" that a hackathon team builds in a weekend would be either fake or a serious compliance risk.
+
+DO NOT BUILD: CATEGORY 4 — Automated Decision Making for Vulnerable Residents
+- Tools that make referral decisions without human review
+- Chatbots that give specific legal, immigration, or benefits advice
+- AI systems that route residents to services without disclosing the AI's limitations
+
+Why: The consequences of an incorrect automated decision are serious. Residents in crisis need reliable guidance, not a high-confidence wrong answer.
+
+Output:
+- Explanation of each category with rationale
+- For each category, a "what to build instead" alternative that addresses the same underlying need without the risk

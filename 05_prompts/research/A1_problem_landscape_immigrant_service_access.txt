@@ -1,0 +1,16 @@
+Problem Landscape A1 — Immigrant and Refugee Service Access Reality
+
+Investigate the real-world shape of the service access problem for immigrant and refugee residents in Richmond, Virginia. Using only verifiable public information and clearly labeled inferences, explain where the difficulty actually occurs: finding relevant services, understanding what is available, navigating intake requirements, or making contact with organizations safely.
+
+Focus on:
+- The specific barriers that cause residents to not seek help even when they need it
+- How trust and fear of data exposure function as primary access barriers (not just information gaps)
+- The difference between "services exist" and "services are accessible" for this population
+- What happens when a resident gives up on seeking help — what are the downstream consequences?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified publicly)
+- Assessment of primary friction points in service discovery
+- Which friction points are addressable by a software tool vs. require human or policy intervention

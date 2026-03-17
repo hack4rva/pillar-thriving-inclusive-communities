@@ -1,0 +1,23 @@
+Opportunities F4 — Where Software Helps and Where It Doesn't
+
+Assess the boundary between problems that software can meaningfully address and problems that require human intervention, policy change, or community relationship-building.
+
+For each challenge in this pillar, assess: is this a software problem, a human problem, or both?
+
+1. Language barrier to service access — software can help (translation, multilingual UI) but doesn't replace human interpretation for complex situations
+2. Trust barrier — software can signal safety (privacy statement, anonymous browsing) but cannot build trust from scratch; trust is earned through human relationships
+3. Fragmented service information — software can aggregate and present clearly; but keeping it current requires human maintenance
+4. Cross-agency data sharing — software cannot solve this without policy and legal change; but software can visualize the problem
+5. Cultural barriers and navigation complexity — software can provide structure but cannot replace a community navigator who understands cultural context
+6. Case manager coordination overhead — software can reduce lookup time and provide templates; but cannot replace the relationships case managers build with counterparts at other organizations
+7. Communication channel gaps — software can distribute information through WhatsApp/SMS; but cannot reach residents who don't use those channels or who distrust any digital tool
+
+The trust paradox for software in this pillar:
+- The residents most at risk are often the least likely to use a digital tool
+- The residents most comfortable with technology are often those who need the service less urgently
+- Software tools may increase access for moderately-served residents but miss the most underserved
+
+Output:
+- Framework: software helps / software doesn't help / software helps but only with human support
+- Where is the highest-leverage opportunity for a weekend prototype?
+- How should a hackathon team frame what their tool does and does not do?

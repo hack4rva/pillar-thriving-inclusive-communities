@@ -1,0 +1,27 @@
+Data D3 — ACS and Census Data on Richmond Immigrant Populations
+
+Research and extract relevant Census and American Community Survey data for Richmond's immigrant and refugee population.
+
+Data to find:
+1. Total foreign-born population in Richmond city and the Richmond MSA (most recent ACS 5-year estimates)
+2. Countries of origin — top 10 for Richmond city
+3. Language spoken at home — distribution of non-English languages
+4. English language proficiency levels (speaks English "less than very well") by language community
+5. Year of entry — how many arrived in the past 5 years vs. longer-established residents
+6. Geographic distribution within Richmond — which zip codes or neighborhoods have the highest immigrant population concentrations?
+7. Socioeconomic indicators — income, poverty rate, employment for foreign-born residents vs. native-born
+
+Sources:
+- data.census.gov (ACS 5-year, Table B05001 nativity, B16001 language, B05011 year of entry)
+- Virginia Department of Health or planning department analysis if available
+- PlanRVA regional planning data
+
+For language specifically:
+- What are the top 5 non-English languages spoken in Richmond?
+- Which communities have the lowest English proficiency rates?
+
+Output:
+- Key statistics with source citations (table number, year, geographic level)
+- A simple demographic context table for hackathon teams
+- Caveats on data currency and geographic precision
+- Links to specific Census data tables for teams to explore further

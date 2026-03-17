@@ -1,0 +1,28 @@
+MVP Feasibility H1 — 48-Hour Build Framework for Thriving and Inclusive Communities
+
+Provide a practical framework for scoping an MVP in the Thriving and Inclusive Communities pillar that can be built and demoed in 48 hours.
+
+Framing questions:
+1. Given the trust and privacy constraints, what is the maximum scope that can be responsibly built in a weekend? What corners should NOT be cut?
+2. What is the minimum viable prototype that demonstrates the core insight of this pillar — that trust is the barrier, not information?
+3. How should a team allocate 48 hours across research/data prep, build, and polish/demo prep?
+
+Recommended time allocation for a 3-5 person team:
+- Friday evening (3–4 hours): Problem selection, team skill mapping, data source identification, initial data collection
+- Saturday morning (4 hours): Data prep and curation, core build begins
+- Saturday afternoon (4 hours): Core build continues, privacy statement drafted, first functional prototype
+- Saturday evening (3 hours): Integration, multilingual content (if applicable), risk review
+- Sunday morning (3 hours): Polish, testing on mobile, demo preparation
+- Sunday noon: Demo ready
+
+For each time block, provide:
+- Primary task
+- Who on the team should own it
+- What done looks like
+- What to skip if behind
+
+Output:
+- Hour-by-hour framework
+- Decision rules for scope cuts (what to sacrifice, what is non-negotiable)
+- The single most important thing to finish by Saturday night
+- Signs that a team is over-scoped and needs to cut

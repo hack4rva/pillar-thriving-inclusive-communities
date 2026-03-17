@@ -1,0 +1,20 @@
+Users B2 — Nonprofit Case Manager or Social Worker
+
+Build a detailed, evidence-grounded persona for the case manager or social worker who serves immigrant and refugee residents at a Richmond-area nonprofit.
+
+Profile the following:
+1. Role and scope: What does a case manager at an organization like ReEstablish Richmond, YMCA, or NCS actually do day-to-day? What is a typical caseload size? What is the mix of administrative vs. client-facing time?
+
+2. Information needs: What information does a case manager need to do their job that they currently cannot easily access? (Service availability, language capacity at providers, intake requirements, referral outcomes)
+
+3. Technology use: What tools do case managers currently use? (Case management systems, spreadsheets, Help1RVA, FindHelp, phone calls, WhatsApp) What are the pain points with each?
+
+4. Time allocation: How much time per week does a case manager spend on coordination and referral activities that could be reduced with better tools? What evidence exists for this estimate?
+
+5. Trust and privacy: What constraints do case managers operate under regarding client data? (HIPAA, organizational policy, client consent) What can and cannot be shared with other organizations?
+
+6. Success definition: What would a successful coordination tool look like from a case manager's perspective?
+
+Use verifiable sources where possible (NASW research, IRC reports, workforce studies). Label inferences clearly.
+
+Output: A 1-page persona brief, followed by source citations, followed by: "Top 3 features a case manager coordination tool should have based on this research."

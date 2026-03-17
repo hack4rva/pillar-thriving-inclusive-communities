@@ -1,0 +1,27 @@
+Risks G3 — Mistranslation Risks in Multilingual Tools
+
+Investigate the specific risks of deploying low-quality multilingual content in a service navigation tool for immigrant and refugee communities.
+
+Risk scenarios:
+1. Machine-translated service descriptions that misrepresent eligibility requirements — resident contacts wrong organization, wastes time and trust
+2. Machine-translated phone numbers or addresses that are formatted incorrectly — resident cannot call or navigate to the correct location
+3. Machine translation that produces culturally inappropriate or offensive language — erodes trust in the tool and the organization behind it
+4. Machine translation of legal or procedural language that is technically inaccurate — resident makes decisions based on incorrect guidance
+5. Translation that does not account for regional variation in Spanish (Castellano vs. Latin American Spanish varieties) — content is technically correct but feels foreign to the target community
+
+Research:
+1. What are documented cases of civic or social service tool harm from mistranslation?
+2. What accuracy level does Google Translate, DeepL, or similar tools achieve for Spanish, Arabic, Nepali, and Burmese in civic/service contexts? What error types are most common?
+3. What is the minimum human review process that would make machine-translated content acceptably accurate for this use case?
+4. What types of content should never be machine-translated without human review? (Eligibility requirements, legal rights, emergency contacts)
+
+Practical guidance for hackathon teams:
+1. What is the minimum viable multilingual approach that is responsible?
+2. How should machine-translated content be labeled in the UI?
+3. Who should review translations before a tool is shown to community members?
+
+Output:
+- Risk register for translation failures
+- Required vs. nice-to-have human review steps
+- Content categories ranked by translation risk level
+- Recommended disclaimers for machine-translated content

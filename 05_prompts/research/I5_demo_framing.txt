@@ -1,0 +1,28 @@
+Demo Strategy I5 — Framing and Narrative Structure
+
+Provide guidance on the overall narrative framing for a Thriving and Inclusive Communities demo. This prompt focuses on how to tell the story in a way that is honest, compelling, and scored well by rubric dimensions.
+
+Rubric alignment for demo framing:
+- D1 (Clarity): Open with a specific, named problem and a specific user. Not "immigrant communities" — a specific person in a specific situation.
+- D2 (Scope): Be explicit about what is in scope and what is not. Judges reward teams that know what they didn't build.
+- D3 (Data Readiness): Name your data sources and their limitations. A team that says "we manually verified 25 phone numbers" is more credible than one that says "we used Help1RVA data."
+- D4 (Champion): Name your potential champion and what commitment (however informal) exists.
+- D5 (Population/Impact): Use a specific, sourced statistic. Not "lots of immigrants in Richmond" — a census number with a year.
+- D6 (Operating Environment): Show that the tool works in the real world — on a phone, without WiFi, in Spanish.
+- D7 (Success Criteria): State what success would look like for a real user. Not "improve access" — "a resident finds the right organization and makes a call within 5 minutes."
+- D8 (Accessibility): Demonstrate accessibility — mobile, multilingual, no-login.
+
+Narrative structure:
+1. The person (not the problem) — specific, human, believable
+2. The trust barrier — what stops them from getting help
+3. The insight — why this problem is harder than it looks (trust is the barrier, not information)
+4. The prototype — what you built and what it does
+5. The evidence — what data you used and what you verified
+6. The limitations — what you didn't build and why
+7. The path forward — who could take this next and what they'd need
+
+Output:
+- Narrative structure outline with time allocations
+- Opening sentence options for different MVP shapes
+- Closing sentence options that land on post-hackathon potential
+- What not to say (phrases that undermine credibility or overclaim)

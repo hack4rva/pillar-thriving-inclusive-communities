@@ -1,0 +1,22 @@
+Users B1 — Primary Persona: Recent Immigrant or Refugee Seeking Services
+
+Build a detailed, evidence-grounded persona for the primary user of a service discovery tool in the Thriving and Inclusive Communities pillar.
+
+Profile the following:
+1. Demographics and arrival context: What is the range of situations? (Formally resettled refugee vs. asylum seeker vs. undocumented economic migrant vs. family reunification) How do these situations affect their relationship to service providers?
+
+2. Technology access and literacy: What devices do people in this situation typically have? What apps are installed? How comfortable are they with web browsing vs. WhatsApp vs. phone calls vs. in-person?
+
+3. Language profile: What level of English proficiency is typical at 3 months, 12 months, 36 months? How does literacy in one's native language affect digital tool use?
+
+4. Trust profile: What are the primary fears when considering contacting a service organization? How have those fears been shaped by experience in country of origin and in the US?
+
+5. Information-seeking behavior: How do people in this situation currently find out about services? Who do they ask first? What causes them to stop looking?
+
+6. Barriers to action: Beyond finding a service, what prevents someone from making contact? (Fear, language, phone anxiety, childcare, transportation, ID requirements)
+
+7. Success definition: What would a successful service connection look like from this person's perspective?
+
+Use verifiable sources where possible (UNHCR, Pew Research, IRC reports, academic studies on immigrant technology use). Label inferences clearly.
+
+Output: A 1-page persona brief with all fields populated or labeled Unknown, followed by source citations.

@@ -1,0 +1,29 @@
+Demo Strategy I2 — Service Discovery Pitch Script
+
+Draft a 4-minute demo script for a team that built a privacy-first service discovery tool (Shape A or B).
+
+The script should:
+- Open with the user situation (30 seconds) — not a statistic, a person
+- Name the specific trust barrier (30 seconds)
+- Show the tool being used in a realistic scenario (90 seconds)
+- Explain three specific design decisions that address trust (60 seconds)
+- State the honest scope and what the team did not build (30 seconds)
+- Name the continuation path and potential champion (30 seconds)
+
+Include:
+- Suggested spoken text for each section
+- Notes on what to show on screen
+- Points where the presenter should pause for judge reaction
+- Fallback text if live demo fails (show screenshot backup)
+
+Language guidelines:
+- Avoid jargon: "undocumented residents" not "illegals"; "immigrant community" not "foreign nationals"; "limited English proficiency" not "can't speak English"
+- Avoid overclaiming: "could help" not "will solve"; "a starting point" not "a complete solution"
+- Be specific: use a real organization name (with permission) or a clearly labeled example
+
+Judge-facing framing:
+- D1 (Clarity): "Our user is [specific person]. Their problem is [specific fear]."
+- D5 (Population/Impact): "Richmond has approximately [X] foreign-born residents, including [Y] with limited English proficiency."
+- D8 (Accessibility): "We designed this specifically for a phone screen, without requiring English, without requiring login."
+
+Output: A complete 4-minute demo script with stage directions.

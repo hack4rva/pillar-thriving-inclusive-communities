@@ -1,0 +1,24 @@
+Problem Landscape A3 — Comparing the Two Targeted Problem Statements
+
+Compare the two targeted problem statements for the Thriving and Inclusive Communities pillar:
+
+Statement 1: Help Residents Safely Discover and Connect to Trusted Support Services (Score 24/32 — Strong)
+Statement 2: Helping Residents Navigate the Right Support Services Without Repeating Their Story (Score 22/32 — Needs work; D3=1 critical data gap)
+
+For each statement, assess:
+1. Clarity of the user: Who exactly is the primary user? How well-defined is their problem?
+2. Data availability: What data exists that a hackathon team could actually use? What is missing?
+3. Software-shapedness: Can software meaningfully address this problem without requiring policy change, data integration, or replacing human relationships?
+4. Weekend feasibility: What is the most ambitious but realistic MVP achievable in 48 hours?
+5. Post-hackathon path: What would need to happen for a prototype to become a real tool used by real residents?
+
+Then compare the two statements:
+- Which one is stronger for a hackathon?
+- Which one has more post-hackathon potential if a champion is identified?
+- Is there a single prototype concept that credibly addresses both?
+
+Output:
+- Side-by-side comparison table
+- Recommendation with rationale
+- One MVP concept that addresses the stronger statement
+- One MVP concept that addresses both statements partially

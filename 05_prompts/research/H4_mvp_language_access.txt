@@ -1,0 +1,34 @@
+MVP Feasibility H4 — Adding Multilingual Support in 48 Hours
+
+Practical guide for adding meaningful multilingual support to a service discovery or navigation prototype within a 48-hour hackathon.
+
+Scope decisions:
+1. Languages: Should a hackathon team attempt Spanish only, or Spanish + one other language?
+2. Coverage: Full translation of all content, or priority content only (category labels, privacy statement, top 10 organizations)?
+3. Quality: Human review of all translated content, review of only high-risk content, or machine translation with disclosure?
+4. Interface: Text toggle button, browser language detection, or both?
+
+Translation approach options ranked by risk:
+A. Professional translation service (e.g., Gengo, Rev) — highest quality but takes 24–48 hours and costs money; book in advance
+B. Bilingual team member reviews machine translation — good quality if reviewer is available
+C. Community organization review — ideal but requires advance coordination
+D. AI translation (GPT-4, DeepL) with manual spot-check — acceptable for demo if clearly labeled
+E. Google Translate with no review — not recommended for this population; misleading health/social service content is a real risk
+
+What content must be human-reviewed:
+- Any statement about privacy or data handling
+- Any statement about eligibility or required documentation ("no papers required")
+- Emergency contact information
+- Descriptions of legal aid or immigration services
+
+What can be machine-translated for demo:
+- Category labels and navigation
+- Organization names and general descriptions
+- Button labels and UI text
+
+Output:
+- Recommended multilingual approach for a 48-hour build
+- Minimum content coverage for a credible multilingual demo
+- Translation checklist with content categories and required vs. acceptable review level
+- How to label machine-translated content honestly in the UI
+- Cost estimate for professional translation of minimum viable content set

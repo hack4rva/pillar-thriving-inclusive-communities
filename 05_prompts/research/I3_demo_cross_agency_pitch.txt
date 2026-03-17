@@ -1,0 +1,25 @@
+Demo Strategy I3 — Cross-Agency Navigation Pitch Script
+
+Draft a 4-minute demo script for a team that built a tool addressing cross-agency navigation (Statement 2), given the D3=1 constraint.
+
+The challenge for this pitch:
+- The data doesn't exist for a fully functional cross-agency navigation tool
+- The team must demonstrate insight about the problem while being honest about what can be built
+- The best pitch for this problem shows the gap clearly and demonstrates a credible path forward
+
+Script structure:
+- Open with the case manager journey (30 seconds) — the 3-hour coordination story from user_journeys.md
+- Name the data wall (30 seconds) — "No cross-agency dataset exists. This is the D3=1 problem."
+- Show what the team built with public information (90 seconds) — pathway map, intake guide, or service taxonomy
+- Explain what the tool does for case managers or residents today (60 seconds)
+- Name the data gap explicitly and what would fill it (30 seconds)
+- State the continuation path (30 seconds)
+
+The "honest gap" framing:
+A team that says "here is the problem we couldn't fully solve, here is what we built with what exists, and here is what the path forward looks like" is more credible than a team that pretends the gap doesn't exist.
+
+Judge-facing framing:
+- D3 (Data Readiness): Acknowledge D3=1 directly. "The cross-agency data we need doesn't exist yet. We built with what does exist."
+- D7 (Success Criteria): Define success as "a case manager can use this to prepare for 5 referral calls in 30 minutes vs. 3 hours"
+
+Output: A complete 4-minute demo script with stage directions and judge Q&A preparation.

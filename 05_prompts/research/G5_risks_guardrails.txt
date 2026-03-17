@@ -1,0 +1,33 @@
+Risks G5 — Privacy-by-Design Principles, Consent, and Transparency
+
+Synthesize privacy-by-design principles for tools serving immigrant and refugee communities. This prompt provides the actionable guardrail framework for all prototype work in this pillar.
+
+Privacy-by-design principles (research and adapt for this context):
+1. Proactive not reactive — privacy is designed in from the start, not bolted on
+2. Privacy as the default — the most protective settings are the defaults
+3. Privacy embedded into design — not separated as a legal add-on
+4. Full functionality — privacy does not require sacrificing functionality
+5. End-to-end security — data protected throughout its lifecycle
+6. Visibility and transparency — users know what is collected and why
+7. Respect for user privacy — user-centric design
+
+For each principle, provide:
+- What it means in the specific context of a Richmond service navigation tool
+- A concrete design decision that implements the principle
+- A common anti-pattern to avoid
+
+Consent in this context:
+1. What does meaningful consent look like for a resident with limited English proficiency, limited digital literacy, and potential fear of the tool itself?
+2. Is consent to data collection even appropriate for this population, or should the better design be "collect nothing at all"?
+3. How do you get consent for content updates in a messenger tool (ambassador subscribes; resident receives message)?
+
+Transparency requirements:
+1. What must a privacy statement for this type of tool include?
+2. How should the privacy statement be displayed — full text, summary, or layered?
+3. What language level is appropriate for the primary user?
+
+Output:
+- Privacy-by-design checklist for hackathon teams
+- Draft privacy statement (plain language, 200 words maximum, English and Spanish)
+- Consent model recommendation for each MVP shape
+- What requires legal review before deployment

@@ -1,0 +1,24 @@
+Data D5 — Data Quality and the D3=1 Challenge for Cross-Agency Navigation
+
+Investigate the specific data quality and availability challenges that create the D3=1 (lowest data readiness) score for Statement 2 (Cross-Agency Navigation).
+
+Questions to answer:
+1. What would a minimum viable dataset for cross-agency navigation actually contain? (Service provider names, intake requirements, referral relationships, capacity, contact information)
+2. Why doesn't this dataset exist? What organizational, legal, or technical barriers prevent its creation?
+3. What anonymized or aggregate data could substitute for individual-level intake data in a hackathon prototype?
+4. Can a useful cross-agency navigation tool be built without any cross-agency data? What would it look like?
+5. What data do individual organizations publish publicly that could be compiled into a useful reference for case managers?
+
+The D3=1 problem in depth:
+- A score of D3=1 means the evaluators found essentially no usable data for this problem statement
+- Specifically missing: mock/anonymized intake dataset, service directory export from Help1RVA/FindHelp/UniteUs, process map showing how a resident moves between agencies
+- What would it take to generate even a rough version of this missing data in 48 hours?
+
+For hackathon teams:
+- What is the most credible approach to a cross-agency navigation prototype given the data wall?
+- What should a team explicitly acknowledge about data limitations in their demo?
+
+Output:
+- Analysis of the D3=1 constraint and what it means practically
+- Three approaches to building a useful prototype despite the data gap
+- What to tell judges about the data limitations honestly and confidently

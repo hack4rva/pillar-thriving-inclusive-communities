@@ -1,0 +1,17 @@
+Services C4 — Fragmentation Between Organizations and Data Siloing
+
+Investigate the fragmentation problem in Richmond's immigrant and refugee service ecosystem. Focus on how data siloing, lack of interoperability, and organizational autonomy create friction for residents and case managers.
+
+Questions to answer:
+1. What service categories have the most fragmentation in Richmond — where residents must contact multiple organizations without a clear coordination structure?
+2. How do Help1RVA, FindHelp, and UniteUs co-exist in Richmond? Which organizations use which platforms? Is there duplication or gaps?
+3. What happens when a referral is made from one organization to another? How is the outcome tracked? How does the referring organization know if the resident connected?
+4. What are the specific organizational or contractual barriers that prevent data sharing? (HIPAA, funder requirements, organizational autonomy, lack of shared technology standards)
+5. What are the human costs of fragmentation — for residents (repeating story, lost time, missed benefits) and for case managers (coordination overhead, burnout)?
+6. What have Richmond or comparable cities done to reduce service fragmentation without requiring full integration?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Fragmentation map: which gaps are most harmful and most addressable?
+- What a hackathon team can do to surface or reduce fragmentation without requiring cross-agency data access

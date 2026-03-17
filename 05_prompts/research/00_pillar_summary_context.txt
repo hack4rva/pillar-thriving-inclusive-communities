@@ -1,0 +1,34 @@
+Pillar Summary Context — Thriving and Inclusive Communities
+
+This file provides framing context for all research prompts in this directory. Read this before running any prompt to understand the constraints and goals.
+
+Pillar: 5 — Thriving and Inclusive Communities
+Hackathon: Richmond Civic Hackathon, March 27–29, 2026, VCU Snead Hall
+Working session: March 6, 2026
+
+Core problem space:
+Richmond has a growing immigrant and refugee population. Many residents struggle to safely discover and access community support services because of language barriers, fear of data exposure, and fragmented information. Services exist — the gap is safe, accessible, navigable delivery.
+
+Two targeted problem statements:
+1. Help Residents Safely Discover and Connect to Trusted Support Services (24/32 — Strong)
+2. Helping Residents Navigate the Right Support Services Without Repeating Their Story (22/32 — Needs work; D3=1 critical data gap)
+
+Defining constraint for all research:
+Privacy and trust are the primary barriers, not lack of services. Any research finding that recommends collecting personal data from immigrant or refugee residents must be flagged as high-risk.
+
+Key organizations in Richmond for this pillar:
+- Help1RVA: Community resource directory (help1rva.com)
+- ReEstablish Richmond: Refugee resettlement
+- YMCA of Greater Richmond: Workforce and community programming
+- Neighborhood Community Services (NCS): Community support coordination
+- FindHelp / Aunt Bertha: National service directory platform
+- UniteUs: Closed-loop referral platform
+
+Priority languages (unverified — research should confirm):
+Spanish, Arabic, Nepali, Burmese
+
+Output standards for all prompts:
+- Facts: labeled Verified with source title and URL
+- Inferences: labeled Inference with rationale
+- Unknowns: labeled Unknown — do not invent data to fill gaps
+- Privacy implications: flag any finding that has data collection or exposure implications

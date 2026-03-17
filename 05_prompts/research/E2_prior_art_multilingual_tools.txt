@@ -1,0 +1,20 @@
+Prior Art E2 — Multilingual Civic Technology Tools
+
+Research multilingual civic technology tools that have successfully served populations with limited English proficiency. Focus on approaches that work at civic or community scale.
+
+Questions to answer:
+1. What multilingual civic tools have been built in the US that achieved meaningful adoption among immigrant communities? (Beyond NYC — include mid-size cities)
+2. What translation approaches have been used? (Professional translation, community-reviewed translation, machine translation with review, machine translation only) What were the outcomes of each?
+3. What languages have been prioritized, and how were priority languages selected?
+4. What interface design approaches reduce language burden? (Images, icons, audio, simplified vocabulary, visual navigation)
+5. What is the minimum viable multilingual approach for a hackathon prototype? (Spanish only? Category labels only? Full translation?)
+6. What are the documented risks of deploying machine-translated civic content? Are there examples of harm from mistranslation?
+7. How have successful tools handled the ongoing maintenance of multilingual content as services change?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Recommended multilingual approach for a Richmond hackathon team with 48 hours
+- Minimum viable translation checklist
+- Risk flags for low-quality translation approaches
+- What "good enough" looks like for a demo vs. what is required for production deployment

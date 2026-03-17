@@ -1,0 +1,24 @@
+Prior Art E4 — Tools That Failed Due to Trust and Privacy Issues
+
+Research documented cases of civic or social service tools that failed — specifically due to trust, privacy, or community adoption failures — in immigrant and refugee contexts. Learning from failure is as important as learning from success.
+
+Failure patterns to investigate:
+1. Tools that required account creation or personal information and saw dramatically lower adoption among undocumented or status-uncertain immigrants
+2. Tools that used machine translation and delivered inaccurate or harmful guidance to users
+3. Tools that were built without community input and were rejected or ignored by the communities they were meant to serve
+4. Tools that collected data that was later accessed by law enforcement (even if unintentionally), eroding community trust
+5. Tools that were built for a hackathon or pilot and then abandoned, leaving communities without resources they had come to depend on
+6. Tools that positioned themselves as eligibility checkers and delivered incorrect guidance
+7. Government-sponsored tools that were perceived as surveillance or data collection by immigrant communities
+
+For each documented failure:
+- What was the tool?
+- What was the failure mode?
+- What was the community impact?
+- What design or process change could have prevented it?
+
+Output:
+- Documented failure cases (labeled as Verified, Inference, or Unknown)
+- Common failure patterns with explanations
+- Design and process guardrails that address each failure pattern
+- Questions a hackathon team should ask themselves to avoid these failures

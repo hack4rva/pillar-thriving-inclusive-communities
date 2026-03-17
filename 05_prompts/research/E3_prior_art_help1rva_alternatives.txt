@@ -1,0 +1,32 @@
+Prior Art E3 — FindHelp Competitors, 211, and Similar Service Directory Platforms
+
+Research the national landscape of community resource directory platforms that could serve as alternatives to, improvements of, or complements to Help1RVA.
+
+Platforms to research:
+1. 211.org / United Way 211 (including Virginia 211)
+2. FindHelp / Aunt Bertha (findhelp.org)
+3. UniteUs
+4. NowPow (now part of UniteUs)
+5. CareDx / CareMore
+6. Healthify (now merged with WellSky Social Determinants)
+7. Expound (if relevant)
+8. Open Referral / HSDS (Human Service Data Specification) standard
+
+For each:
+- What is the platform and who uses it?
+- Is it used in Richmond or Virginia?
+- What does the resident-facing experience look like for a non-English speaker?
+- What is the privacy model?
+- Is there public API access?
+- Is it interoperable with other platforms?
+- What does it cost for an organization to participate?
+
+Open Referral / HSDS specifically:
+- What is the Open Referral initiative? What problem does it solve?
+- Has Help1RVA adopted HSDS or any common data standard?
+- Could a hackathon team use HSDS-formatted data if it exists?
+
+Output:
+- Comparison table of platforms
+- What a hackathon team could realistically use in 48 hours from each platform
+- The interoperability gap and what solving it would require

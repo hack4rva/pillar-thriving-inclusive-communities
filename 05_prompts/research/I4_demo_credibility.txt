@@ -1,0 +1,27 @@
+Demo Strategy I4 — Establishing Credibility When Community Trust Is the Product
+
+For the Thriving and Inclusive Communities pillar, the tool's value proposition is that it is trustworthy. This creates a paradox: how do you demonstrate trustworthiness to a judge in 5 minutes, for a population that isn't in the room?
+
+Research and advise on:
+1. What signals of trustworthiness are legible to judges who are not from the target community?
+2. How can a team demonstrate that they understood the trust barrier — not just intellectually, but in their design decisions?
+3. What does it mean to have "community validation" of a prototype, and can any version of this be achieved in a weekend?
+4. How should a team handle the question "have you tested this with actual community members?"
+5. What endorsements or partnerships — even informal — add credibility to the demo?
+6. How can the design itself communicate trustworthiness? (Visual design, language choices, what the tool explicitly does not ask for)
+
+Credibility signals for judges:
+- Citing the rubric working session findings (community-sourced insights)
+- Using real Richmond organization names and verified contact information
+- Naming a specific community organization the team spoke with during the hackathon
+- Showing the privacy statement prominently and explaining the design decisions behind it
+- Acknowledging what the team doesn't know (data gaps, unverified translation) rather than papering over it
+
+The humility advantage:
+For this pillar specifically, teams that demonstrate humility about the limits of technology in community contexts are more credible than teams that overclaim. Judges in this space have seen civic tech tools fail due to hubris.
+
+Output:
+- Credibility checklist for the demo
+- Language for handling "have you tested with community members?"
+- How to name a community champion or endorsement authentically
+- The one thing that will most distinguish a credible demo from a generic one

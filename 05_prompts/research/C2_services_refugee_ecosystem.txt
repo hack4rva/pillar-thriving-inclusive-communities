@@ -1,0 +1,32 @@
+Services C2 — The Richmond Refugee and Immigrant Service Ecosystem
+
+Map the organizations that provide services to immigrant and refugee residents in Richmond, Virginia. Use only publicly available information.
+
+For each organization category, identify:
+- Key organizations in Richmond
+- Primary services offered
+- Languages served
+- Whether immigration documentation is required
+- Public contact information
+- Public notes on intake or eligibility
+
+Organization categories to research:
+1. Refugee resettlement agencies (ReEstablish Richmond, others)
+2. Legal aid organizations serving immigrant residents
+3. Healthcare providers with immigrant/refugee focus
+4. ESL and literacy programs
+5. Workforce development programs serving this population (YMCA, community colleges, workforce boards)
+6. Housing and rental assistance programs
+7. Food assistance programs
+8. Mental health and trauma-informed services
+9. Faith-based organizations with publicly listed immigrant services
+10. Cultural and community associations that provide navigation support
+
+For Richmond specifically:
+- What organizations are listed on Help1RVA for immigrant/refugee-relevant services?
+- What organizations are mentioned in the rubric working session materials?
+
+Output:
+- Organization list organized by category
+- Gaps: which service categories appear underserved in Richmond's public-facing ecosystem?
+- Language capacity map: which communities (Spanish, Arabic, Nepali, Burmese) have more or less coverage?

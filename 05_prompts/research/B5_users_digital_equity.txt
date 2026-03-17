@@ -1,0 +1,23 @@
+Users B5 — Digital Equity: Device Access, WhatsApp vs. Web, Literacy Levels
+
+Investigate the digital access and literacy landscape for immigrant and refugee populations in Richmond and comparable US contexts.
+
+Research questions:
+1. What types of devices do recently arrived immigrant and refugee households typically have? (Smartphone vs. feature phone, iOS vs. Android, tablet, computer) What is the distribution of device ownership in low-income immigrant households nationally?
+
+2. What is the typical data plan situation for recent immigrants? Are they likely to have unlimited data, pay-as-you-go, or limited monthly data? How does this affect which types of tools are usable?
+
+3. How does app usage pattern differ between web browsing and messaging apps for immigrant populations? Is WhatsApp more reliably available than a web browser on typical devices in this population?
+
+4. What does limited digital literacy look like in practice for this population? (Difficulty with form fields, navigation menus, URL typing, account creation, password management) What interaction patterns work better?
+
+5. What evidence exists that voice interfaces, audio playback, or image-based navigation reduce barriers for low-literacy users in civic tech contexts?
+
+6. What are the connectivity realities in Richmond neighborhoods with high immigrant and refugee populations? Are there dead zones or limited infrastructure areas?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Design recommendations for a team building for this population in 48 hours
+- Platform recommendations: which delivery channels (WhatsApp, SMS, web) to prioritize and why
+- What to avoid (features that add friction for this population)

@@ -1,0 +1,28 @@
+Data D4 — Virginia Refugee Resettlement Data and ORR Data
+
+Research available data on refugee resettlement in Virginia and Richmond specifically.
+
+Data to find:
+1. Annual refugee arrivals to Virginia — how many per year for the past 5 years?
+2. Where in Virginia do refugees resettle? What share goes to the Richmond area?
+3. Which resettlement agencies operate in Richmond and what are their capacities?
+4. What countries of origin are most represented among Virginia refugees in recent years?
+5. What services are mandated for refugees in the first 90 days of arrival? (Reception and Placement, Matching Grant, other ORR programs)
+6. What is the Office of Refugee Resettlement (ORR) data on Virginia? What is publicly available at the federal level?
+
+Sources:
+- Virginia Department of Social Services — Office of New Americans (ons.virginia.gov or dss.virginia.gov)
+- US Department of Health and Human Services / Office of Refugee Resettlement (acf.hhs.gov/orr)
+- Refugee Processing Center (wrapsnet.org) — public data on arrivals by state
+- State Refugee Coordinator reports (if public)
+
+For Richmond specifically:
+- What resettlement agencies are publicly listed as operating in Richmond?
+- Is ReEstablish Richmond the primary agency? Are there others?
+- What capacity do Richmond-area agencies have?
+
+Output:
+- Available data with source citations
+- Data gaps (what would require direct contact with Virginia DSS or a FOIA request)
+- Population estimates a hackathon team can cite in their demo
+- Caveats on the difference between "refugees" (formal resettlement program) and the broader immigrant population

@@ -1,0 +1,26 @@
+Risks G2 — PII Collection Risks, HIPAA, and Immigration Enforcement Risks
+
+Provide a detailed analysis of the data collection and exposure risks relevant to tools built for immigrant and refugee communities in Richmond.
+
+PII exposure risks:
+1. What constitutes PII in the context of a service navigation tool for immigrants? (Name, address, phone — obvious; IP address, device fingerprint, location — less obvious but equally risky for this population)
+2. What legal frameworks govern data collection from this population? (HIPAA for health services, FERPA for education, Virginia Consumer Data Protection Act, general privacy law)
+3. Under what circumstances could data collected by a civic tech tool be accessed by law enforcement? (Subpoena, warrant, FOIA, platform data requests)
+4. What is the specific risk to undocumented residents if their service-seeking behavior is logged? (ICE enforcement, employment consequences, family separation risk)
+5. How does the current federal immigration enforcement climate affect the risk calculus for data collection?
+
+HIPAA specifically:
+1. What does HIPAA cover? Does it protect data collected by a civic tech service directory tool?
+2. What does HIPAA require of health service providers that participate in a service directory?
+3. What health-adjacent data types (behavioral health, substance abuse, reproductive health) have additional legal protections beyond HIPAA?
+
+Privacy-by-design requirements:
+1. What is the minimum privacy architecture for a tool serving this population?
+2. What hosting and infrastructure choices reduce exposure risk?
+3. What analytics tools are acceptable vs. unacceptable for this use case?
+
+Output:
+- Risk assessment organized by risk type
+- Minimum privacy requirements for a responsible tool in this context
+- Specific technology recommendations (hosting, analytics, data handling)
+- What must be reviewed by a lawyer before deployment to real users

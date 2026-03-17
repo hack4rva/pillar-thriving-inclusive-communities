@@ -1,0 +1,23 @@
+Opportunities F2 — Service Discovery Opportunity Space
+
+Deep dive on the service discovery opportunity — building a tool that helps immigrant and refugee residents safely find services.
+
+Map the full opportunity space:
+1. What is the minimum viable version of a service discovery tool that would be genuinely useful to a resident with limited English proficiency and privacy concerns?
+2. What features add the most value per hour of build time? (Prioritize ruthlessly)
+3. What is the ideal information architecture? How should services be categorized to match how residents think about their needs vs. how agencies categorize their programs?
+4. How should the privacy statement be worded to be both legally accurate and intuitively trustworthy to a resident who reads it?
+5. What signals of trustworthiness (beyond words) can a service finder communicate? (Organizational logos, endorsements, visual design)
+6. How should the tool handle "no results"? What should it show when a category has limited Richmond coverage?
+7. What is the simplest multilingual approach for a hackathon prototype? Spanish-first? Image-based categories? Audio labels?
+
+Compare approaches:
+- Static JSON + simple frontend vs. live Help1RVA data sync
+- Category browsing vs. free-text search vs. guided question flow
+- Showing all organizations vs. filtering to "most trusted" or "no papers required"
+
+Output:
+- Recommended information architecture
+- Recommended feature set for MVP (must-have vs. nice-to-have)
+- Recommended tech approach with rationale
+- Privacy statement draft (200 words maximum, plain language)

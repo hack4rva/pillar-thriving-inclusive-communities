@@ -1,0 +1,23 @@
+Top 10 Research Questions — Thriving and Inclusive Communities
+
+For each question, provide a brief answer using verifiable public sources. Label each finding as Verified (with source), Inference, or Unknown.
+
+1. How many foreign-born residents live in Richmond, Virginia, and what are the top 5 countries of origin? What percentage have limited English proficiency?
+
+2. How many refugees were resettled in the Richmond metro area in each of the past 5 years? Which resettlement agencies operate in Richmond?
+
+3. What is Help1RVA? How does it work? What categories of services does it list? Is there a public API or data export available?
+
+4. What languages does the City of Richmond provide translation or interpretation services in, and for which departments?
+
+5. What communication tools and channels are most commonly used by Spanish-speaking immigrant communities in mid-size Southern US cities for sharing community information?
+
+6. What are the HIPAA and state privacy law constraints on sharing client intake data between City agencies and nonprofit service providers in Virginia?
+
+7. What national tools or platforms have successfully served immigrant and refugee populations with service discovery, and what design patterns made them work?
+
+8. What is the current status of FindHelp (Aunt Bertha) and UniteUs in Richmond? Which local organizations use them? Are they interoperable with Help1RVA?
+
+9. What is the City of Richmond's current language access policy? Does it meet requirements under Title VI of the Civil Rights Act?
+
+10. What data about service usage or unmet need exists for immigrant and refugee residents in Richmond? What organizations collect it?

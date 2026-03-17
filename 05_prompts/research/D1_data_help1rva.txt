@@ -1,0 +1,26 @@
+Data D1 — Help1RVA Data: What Is Accessible, How to Extract, Format
+
+Investigate what data is available from Help1RVA and how a hackathon team would access it.
+
+Technical investigation:
+1. Does Help1RVA have a public API? If so, what endpoints are available and what format do they return?
+2. Is there a bulk data export or download function?
+3. What data fields are present for each organization listing? (Name, address, phone, categories, hours, languages, eligibility notes, description)
+4. How is the data structured? (Flat list, hierarchical categories, geographic indexing)
+5. What is the data quality like? (Completeness of phone numbers, currency of listings, accuracy of language flags)
+6. Are there any terms of service that would restrict scraping or re-use of Help1RVA data?
+
+Alternative access paths:
+1. If no API is available, what is the minimum viable manual scraping process for a hackathon team?
+2. What subset of the Help1RVA data would be most valuable for a 20–30 organization curated list focused on immigrant/refugee services?
+3. Is there a CSV or JSON export of community resources from the City of Richmond Open Data portal that covers similar content?
+
+For the hackathon:
+1. What is the fastest path to a usable dataset of 20–30 relevant Richmond services?
+2. What fields must be manually verified (phone numbers, language capacity, intake requirements)?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Step-by-step data acquisition plan for a hackathon team (2-3 hours maximum)
+- Data quality risks and verification steps

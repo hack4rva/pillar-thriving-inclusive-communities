@@ -1,0 +1,29 @@
+Master Research Prompt — Thriving and Inclusive Communities Pillar
+
+You are a civic researcher helping a hackathon team understand the immigrant and refugee service access problem in Richmond, Virginia. Use only verifiable public information. Label all outputs as Verified (with source title), Inference, or Unknown.
+
+Research the following in sequence:
+
+1. Population context
+How large is the immigrant and refugee population in Richmond, Virginia? What are the primary countries of origin and languages spoken? What neighborhoods have the highest concentration of recent arrivals? Use Census ACS data and any available Virginia refugee resettlement data.
+
+2. Service landscape
+What community services exist in Richmond specifically for immigrant and refugee residents? Focus on: housing assistance, food access, legal aid, English language learning, workforce development, and healthcare. Which organizations operate Help1RVA-listed services for this population?
+
+3. Access barriers
+What barriers prevent immigrant and refugee residents in Richmond (or comparable mid-size Southern cities) from accessing services they need? Focus on: language, digital access, trust concerns, fear of data exposure, and navigation complexity.
+
+4. Communication channels
+What communication channels do immigrant and refugee communities use to share information and find services? Focus on: WhatsApp, SMS, Facebook groups, faith community networks, and in-person word of mouth. What is known about channel usage patterns in Richmond?
+
+5. Existing tools
+What tools currently exist (Help1RVA, FindHelp, Virginia 211) that serve this population in Richmond? What are their known limitations for non-English speakers and privacy-sensitive users?
+
+6. Cross-agency navigation
+What is known about how residents navigate between City of Richmond Social Services, housing programs, workforce programs, and nonprofit partners? Where do residents typically get lost or have to repeat their story?
+
+Output format:
+- Section headers matching the 6 topics above
+- Each finding labeled Verified, Inference, or Unknown
+- Source titles with URLs for all Verified findings
+- A final section: "Top 5 research gaps for hackathon teams to investigate further"

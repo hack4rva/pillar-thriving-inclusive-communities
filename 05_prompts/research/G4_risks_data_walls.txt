@@ -1,0 +1,28 @@
+Risks G4 — Cross-Agency Data Sharing Walls (HIPAA, Policy, Technical)
+
+Analyze the specific barriers to cross-agency data sharing in Virginia that create the D3=1 constraint for Statement 2.
+
+Legal barriers:
+1. HIPAA: What does HIPAA protect? How does it apply to data sharing between City social services, health programs, and nonprofit providers?
+2. 42 CFR Part 2: What additional protections apply to substance use disorder treatment records? Why are these particularly relevant for reentry services?
+3. FERPA: How does it affect data sharing when school-age children are part of the client household?
+4. Virginia state law: Does Virginia have state-level privacy laws that affect social service data sharing beyond federal requirements?
+5. Confidentiality of public assistance information: What Virginia code provisions govern DSS client data confidentiality?
+
+Policy and organizational barriers:
+1. What organizational policies at City DSS, Housing, and workforce programs limit data sharing with nonprofits?
+2. What is the typical data sharing agreement process between Richmond City agencies and nonprofit partners? How long does it take?
+3. What contractual obligations from program funders (HUD, HHS, workforce development funding) restrict data sharing?
+
+Technical barriers:
+1. What case management systems do Richmond-area organizations use? Are they compatible?
+2. What would technical interoperability between Help1RVA, FindHelp, and UniteUs require?
+
+For hackathon teams:
+1. Which of these barriers can a hackathon prototype work around entirely?
+2. Which barriers require advocacy or policy change — and how should a team frame this?
+
+Output:
+- Categorized barrier analysis (legal, policy, technical)
+- What a hackathon team can build without crossing any of these walls
+- How to talk about these barriers credibly in a demo without being either dismissive or defeatist

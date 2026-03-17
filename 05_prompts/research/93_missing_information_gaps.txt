@@ -1,0 +1,46 @@
+Missing Information Gaps — Thriving and Inclusive Communities
+
+This prompt maps what information is currently missing and needed for hackathon teams to build well. For each gap, assess: how critical it is, whether it can be filled by research, and what the team should do if it cannot be filled.
+
+GAPS TO ASSESS:
+
+1. Help1RVA data structure and export
+- What format is Help1RVA data available in?
+- Is there an API or structured export?
+- What fields are included for each organization listing?
+- Criticality: HIGH — affects all service directory tools
+
+2. Priority languages for Richmond immigrant population
+- What languages beyond Spanish are most common among Richmond's immigrant and refugee population?
+- Which languages do Richmond service organizations actually serve?
+- Criticality: HIGH — affects multilingual tool design
+
+3. Communication channel usage patterns
+- Which communication channels (WhatsApp, SMS, Facebook, in-person) are most commonly used by each language community in Richmond?
+- Who are the trusted information intermediaries in each community?
+- Criticality: HIGH — affects trusted messenger tool design
+
+4. Organizations that explicitly serve undocumented residents
+- Which Richmond-area organizations have explicit policies about not requiring immigration documentation?
+- Where is this documented publicly?
+- Criticality: HIGH — affects "no papers required" content flags
+
+5. Cross-agency referral pathway
+- What is the actual sequence of organizations a resident visits when navigating housing, workforce, and reentry support?
+- Where do handoffs happen and where do residents get lost?
+- Criticality: CRITICAL for Statement 2, but no dataset exists — must conceptualize without data
+
+6. Help1RVA improvement roadmap
+- Is Help1RVA actively planning multilingual improvements?
+- Who owns Help1RVA and is that person interested in hackathon collaboration?
+- Criticality: MEDIUM — affects framing of Concept 6 (interface improvement)
+
+7. Current service capacity and wait times
+- Which organizations are currently accepting new clients?
+- What are typical wait times for housing, workforce, and legal services?
+- Criticality: MEDIUM — affects usefulness of case manager coordination tool
+
+For each gap, provide:
+- Current state of available information
+- Whether research can partially fill the gap
+- What the team should assume or do if the gap cannot be filled before demo

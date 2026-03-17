@@ -1,0 +1,22 @@
+Problem Landscape A2 — How Residents Get Lost Between Agencies
+
+Investigate the cross-agency navigation problem for Richmond residents seeking housing stability, workforce support, or reentry services. Focus specifically on the experience of immigrant and refugee residents who must interact with multiple organizations.
+
+Research:
+1. What agencies and organizations are typically involved in the support ecosystem for a recently arrived refugee or immigrant family in Richmond? (City DSS, Housing, workforce programs, nonprofit partners, reentry services)
+2. What are the documented hand-off points where residents typically get stuck or have to repeat their story?
+3. What intake requirements does each major agency type impose? (ID requirements, appointment systems, eligibility documentation)
+4. What is the current state of data sharing between Richmond City agencies and nonprofit partners? What legal barriers exist?
+5. How does the "repeating your story" problem manifest for immigrant and refugee residents specifically? (Language barriers, distrust, retraumatization)
+
+National context:
+- What have other mid-size cities done to reduce cross-agency navigation friction for immigrant populations?
+- What approaches have failed and why?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Unknowns (what cannot be verified publicly)
+- A simple text-based map of the typical service pathway (e.g., Organization A → Organization B → Organization C)
+- Key friction points and their causes
+- What a hackathon team can realistically address vs. what requires multi-year infrastructure work

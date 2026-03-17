@@ -1,0 +1,23 @@
+Problem Landscape A5 — Language and Literacy Barriers in Richmond Service Delivery
+
+Investigate the language and literacy barriers that prevent immigrant and refugee residents in Richmond from accessing services. Go beyond "they don't speak English" to understand the specific mechanisms of exclusion.
+
+Research questions:
+1. What are the documented language access requirements for service providers in Virginia? Does Title VI of the Civil Rights Act apply to Richmond City services? What about nonprofit organizations that receive federal funding?
+
+2. What is the distribution of language communities among Richmond's immigrant and refugee population? What languages beyond Spanish are significantly represented? (Focus on: Arabic, Nepali, Burmese, and any other languages documented in Virginia refugee resettlement data)
+
+3. What does "limited English proficiency" mean in practice for service access? How does it interact with digital literacy, phone literacy, and in-person interaction capacity?
+
+4. What are the documented harms from machine translation in civic service contexts? What accuracy standards are minimally required before deploying multilingual content in a service directory?
+
+5. What is the state of interpreter and translation services in Richmond? Which organizations have staff who speak non-English languages? What phone interpreter services are available?
+
+6. What voice and audio interface approaches have been used in low-literacy civic technology contexts? What works at a weekend-prototype scale?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Language gap map: which communities have the least support in Richmond's service ecosystem
+- Practical recommendations for a hackathon team adding multilingual support with limited time and budget
+- Risk flags for low-quality translation approaches

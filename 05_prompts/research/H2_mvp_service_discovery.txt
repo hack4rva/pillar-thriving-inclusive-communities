@@ -1,0 +1,36 @@
+MVP Feasibility H2 — Building a Privacy-First Service Discovery Tool in 48 Hours
+
+Detailed build guide for Shape A (Privacy-First Service Finder) and Shape B (Multilingual Help Resource Tool).
+
+Scope definition:
+1. What is the minimum feature set for a useful service finder demo?
+   - Privacy statement on landing (required)
+   - Category browsing (required)
+   - Organization cards with name, phone, languages, brief description (required)
+   - "No papers required" flag (required)
+   - Spanish language toggle (required for Shape B, stretch for Shape A)
+   - Mobile-responsive layout (required)
+   - Audio/TTS (stretch goal)
+   - Live data sync (out of scope — use static JSON)
+   - Account creation (out of scope — never build this)
+
+2. What data does the team need, and how long will it take to collect?
+   - 20–30 organizations from Help1RVA (2–3 hours manual research)
+   - Phone number verification for at least 5–10 organizations (1 hour)
+   - Language capacity flags (30 minutes research + assumptions labeled)
+   - Spanish translations for category labels and top organizations (1–2 hours with human review)
+
+3. What technology decisions maximize demo reliability?
+   - Static hosting (Netlify/Vercel) over dynamic server
+   - JSON data file over database
+   - Mobile-first CSS over complex responsive framework
+   - Tested on real Android device before demo
+
+4. What are the three things most likely to go wrong and how to prevent them?
+
+Output:
+- Feature checklist with required/stretch labels
+- Data preparation steps with time estimates
+- Technology stack recommendation
+- Pre-demo testing checklist
+- "If we only finish one thing" priority decision

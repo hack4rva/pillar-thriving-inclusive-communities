@@ -1,0 +1,23 @@
+Users B3 — Trusted Community Organization
+
+Profile the role of trusted community organizations in serving as intermediaries between immigrant and refugee residents and formal service providers.
+
+Research questions:
+1. What types of organizations function as trusted intermediaries in immigrant communities? (Faith organizations, cultural associations, ethnic business organizations, community health workers, peer navigators) What makes each type trusted?
+
+2. How do trusted community organizations currently share information about services with their members? What channels do they use? What content formats work?
+
+3. What capacity do these organizations have? (Staff, volunteers, budget, technical capacity) What tools can they realistically use and maintain?
+
+4. What do trusted community organizations need from a tool that supports their information-sharing role? What would make them willing to participate in a messenger distribution system?
+
+5. What are the risks of formalizing or digitizing the trusted intermediary role? How do you support human relationships without turning community leaders into unpaid service workers?
+
+6. In the Richmond context specifically: which organizations are publicly known to serve as trusted intermediaries for immigrant and refugee communities? (Faith communities, cultural organizations, etc. — use publicly available information only)
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Persona brief for a "trusted community ambassador" who might use a messenger distribution system
+- Design requirements for a tool that supports this role without overwhelming the person
+- Risks to avoid

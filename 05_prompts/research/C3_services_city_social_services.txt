@@ -1,0 +1,22 @@
+Services C3 — City of Richmond Social Services, DSS, and Housing Programs
+
+Research the City of Richmond's public-facing social services and housing programs, with a focus on what is accessible to immigrant and refugee residents.
+
+Questions to answer:
+1. What services does the City of Richmond Department of Social Services (DSS) offer? Which are accessible to non-citizens or residents without documentation?
+2. What housing assistance programs does the City of Richmond operate or fund? What are the eligibility requirements?
+3. What is the City of Richmond's language access policy? Does it have a Language Access Plan under Title VI? What languages are translation services offered in?
+4. How does a resident contact City social services? (Phone, in-person, online) What is the typical experience for someone with limited English?
+5. What City of Richmond programs are specifically mentioned in the hackathon rubric materials as part of the cross-agency navigation pathway?
+6. What are the referral relationships between City departments and the nonprofit organizations serving immigrant and refugee residents?
+7. Is there publicly available data on service utilization or unmet need from City programs for this population?
+
+Office of Community Wealth Building:
+- What does the City of Richmond's Office of Community Wealth Building do?
+- Are there programs specifically relevant to immigrant and refugee residents?
+
+Output:
+- Facts (with URLs to rva.gov and virginia.gov pages)
+- Inferences (clearly labeled)
+- What a hackathon team can use from City programs vs. what requires cross-agency data access
+- Key City contact information relevant to this pillar

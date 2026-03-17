@@ -1,0 +1,29 @@
+Services C5 — FindHelp (Aunt Bertha) and UniteUs: Landscape and Interoperability Issues
+
+Research the FindHelp and UniteUs platforms as they relate to Richmond's service ecosystem.
+
+FindHelp (findhelp.org / Aunt Bertha):
+1. What is FindHelp? How does it work? What is its business model?
+2. What is the extent of FindHelp's coverage in Richmond, Virginia?
+3. Which Richmond-area organizations use FindHelp? Is it used by City agencies, health systems, or nonprofits?
+4. What does FindHelp's API look like? Is it accessible for hackathon use?
+5. How does FindHelp handle multilingual content? What languages are supported for Richmond area listings?
+6. What privacy protections does FindHelp offer residents who use it to search for services?
+
+UniteUs:
+1. What is UniteUs? How does it differ from FindHelp?
+2. Is UniteUs used in Richmond? By which organizations?
+3. What does the "closed-loop referral" concept mean in practice? How does it work?
+4. What data sharing and HIPAA considerations come with UniteUs adoption?
+5. What are the costs and implementation requirements for new organizations to join UniteUs?
+
+Interoperability:
+1. Can Help1RVA, FindHelp, and UniteUs exchange data? Are there any known integration efforts?
+2. What is the national landscape of service directory interoperability? Has this problem been solved anywhere?
+3. What would it take to make Richmond's service directories interoperable?
+
+Output:
+- Facts (with URLs)
+- Inferences (clearly labeled)
+- Assessment of what a hackathon team can realistically use from these platforms in 48 hours
+- The interoperability gap: what it is and why it matters for residents

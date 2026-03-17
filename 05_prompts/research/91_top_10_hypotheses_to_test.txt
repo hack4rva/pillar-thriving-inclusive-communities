@@ -1,0 +1,23 @@
+Top 10 Hypotheses to Test — Thriving and Inclusive Communities
+
+For each hypothesis, assess whether it is Supported, Unsupported, or Inconclusive based on available public evidence. Cite sources for any evidence found.
+
+1. WhatsApp is the dominant digital communication channel for Spanish-speaking immigrant communities in Richmond, more so than email, Facebook, or dedicated apps.
+
+2. Residents who know their immigration status is not required to access a service are significantly more likely to contact that service than residents who are uncertain.
+
+3. The primary barrier to service access for immigrant residents in Richmond is not lack of services but inability to find and navigate to the right service safely.
+
+4. Help1RVA's current interface is not accessible to residents with limited English proficiency or limited digital literacy without assistance from a navigator.
+
+5. Most Richmond-area service providers that serve immigrant and refugee populations have Spanish-speaking staff, but fewer than 25% have staff who speak Arabic, Nepali, or Burmese.
+
+6. Case managers at Richmond nonprofits spend a significant portion of their working hours on coordination and referral activities that could be reduced with better information tools.
+
+7. Cross-agency client data sharing between City departments in Richmond is blocked primarily by HIPAA and organizational policy, not by technical limitations.
+
+8. Immigrant and refugee residents in Richmond are more likely to act on service information received from a trusted community member than from a website or government communication.
+
+9. Tools designed for general populations (Help1RVA, 211) fail to signal privacy protections prominently enough for residents with precarious immigration status to feel safe using them.
+
+10. A simple, no-login, multilingual service finder with an explicit privacy statement would meaningfully increase service access among Richmond's immigrant and refugee population if promoted through community ambassadors.

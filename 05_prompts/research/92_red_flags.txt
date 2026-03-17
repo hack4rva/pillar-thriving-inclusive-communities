@@ -1,0 +1,28 @@
+Red Flags — Thriving and Inclusive Communities
+
+This prompt identifies risks that should trigger concern during research, design, and build. For each red flag category, describe the specific risks in the Richmond immigrant/refugee service access context and how to avoid them.
+
+KEY RISK AREAS TO INVESTIGATE:
+
+1. FALSE SENSE OF SAFETY
+What are the risks of tools that give immigrant residents false confidence about the privacy or safety of their engagement? Examples: a tool that says "no papers required" but actually logs IP addresses; a tool that uses "anonymous" in marketing but still transmits identifiable metadata; a tool hosted by an entity that could receive law enforcement data requests. What design patterns prevent this?
+
+2. PII EXPOSURE AND DATA COLLECTION
+What are the specific risks of collecting personal information from undocumented or recently arrived immigrant residents? What types of data (IP address, device fingerprint, location, search queries linked to sensitive topics) could create exposure risk even if not "personally identifiable" in the traditional sense? What legal frameworks (FERPA, HIPAA, state law) govern data handling for this population?
+
+3. MISTRANSLATION AND LANGUAGE QUALITY
+What are the documented harms from low-quality machine translation in civic service contexts? What types of errors are most dangerous (eligibility misrepresentation, wrong phone number format, inaccurate intake requirement)? What verification process is minimally sufficient before deploying multilingual content?
+
+4. DATA WALLS AND CROSS-AGENCY SHARING
+What legal and policy barriers prevent cross-agency client data sharing in Virginia? How do HIPAA, state DSS regulations, and organizational policy interact? What can a hackathon team realistically access versus what requires a multi-year policy effort?
+
+5. TRUST EROSION THROUGH BAD DESIGN
+What design patterns erode trust with immigrant communities even if the tool is technically safe? Examples: forms that look like government applications; too many required fields; language that implies surveillance ("we track your progress"); branding that resembles law enforcement agencies.
+
+6. OVER-CLAIMING IMPACT
+What are the risks of tools that claim to solve service access at scale from a weekend prototype? How should teams frame the demo to be honest about limitations without undermining confidence in the work?
+
+Output: For each risk area, provide:
+- Description of the specific risk
+- Real-world example if available (national or Richmond)
+- Design or process guardrail that mitigates the risk

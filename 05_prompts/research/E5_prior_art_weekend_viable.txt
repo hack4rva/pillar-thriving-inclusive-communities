@@ -1,0 +1,20 @@
+Prior Art E5 — Weekend-Viable Approaches from Civic Hackathons
+
+Research civic hackathon projects that successfully built tools for immigrant and refugee communities in a weekend and were either adopted or led to real impact.
+
+Questions to answer:
+1. What civic hackathon projects related to immigrant service access, multilingual resources, or community navigation have achieved post-hackathon adoption nationally?
+2. What technical approaches worked best for hackathon-built immigrant community tools? (Static sites, simple APIs, WhatsApp integrations, Google Sheets backends)
+3. What hackathon-built tools addressed the service directory or navigation problem specifically?
+4. What post-hackathon adoption patterns exist — did any tools get picked up by a community organization or City agency?
+5. What distinguishes hackathon projects that lead somewhere from those that stall immediately after the event?
+
+Code for America, Hack for LA, and similar networks:
+- Have Code for America brigades worked on immigrant service navigation tools?
+- Are there reusable open-source components from prior hackathon work that a Richmond team could adapt?
+
+Output:
+- List of relevant prior hackathon projects with links if available
+- Technology patterns that work at hackathon scale for this problem type
+- What a Richmond team should borrow vs. build from scratch
+- The single most important factor in whether a hackathon project has lasting impact (based on the evidence)
