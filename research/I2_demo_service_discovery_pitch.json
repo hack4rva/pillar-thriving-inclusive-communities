@@ -1,0 +1,123 @@
+{
+  "run_id": "trun_3cad0ebea15c480e929dec871a409367",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "U.S. Census Bureau QuickFacts: Richmond city, Virginia",
+      "url": "https://www.census.gov/quickfacts/fact/table/richmondcityvirginia/PST045224"
+    },
+    {
+      "title": "Richmond, VA - Profile data - Census Reporter",
+      "url": "http://censusreporter.org/profiles/16000US5167000-richmond-va/"
+    },
+    {
+      "title": "Richmond city, VA - Profile data - Census Reporter",
+      "url": "http://censusreporter.org/profiles/05000US51760-richmond-city-va/"
+    },
+    {
+      "title": "Richmond, VA | Data USA",
+      "url": "https://datausa.io/profile/geo/richmond-va/"
+    },
+    {
+      "title": "Immigrant Engagement | Richmond",
+      "url": "https://www.rva.gov/immigrant-engagement"
+    },
+    {
+      "title": "About | Richmond",
+      "url": "https://www.rva.gov/immigrant-engagement/about"
+    },
+    {
+      "title": "404 Page Not Found | Richmond",
+      "url": "https://www.rva.gov/immigrant-engagement/about-oire"
+    },
+    {
+      "title": "Mayor Danny Avula on federal immigration activities | Richmond",
+      "url": "https://rva.gov/press-releases-and-announcements/news/mayor-danny-avula-federal-immigration-activities"
+    },
+    {
+      "title": "Language Access | Richmond",
+      "url": "https://www.rva.gov/immigrant-engagement/language-access"
+    },
+    {
+      "title": "Refugee Resettlement  | Commonwealth Catholic Charities | Virginia| Richmond | Roanoke | Hampton Roads",
+      "url": "https://www.cccofva.org/refugees"
+    },
+    {
+      "title": "Commonwealth Catholic Charities (Richmond Office)",
+      "url": "https://www.immigrationadvocates.org/nonprofit/legaldirectory/organization.810948-Commonwealth_Catholic_Charities_Richmond_Office"
+    },
+    {
+      "title": "Serving Richmond, VA | cccofva",
+      "url": "https://www.cccofva.org/locations/richmond"
+    },
+    {
+      "title": "Immigration Resources \u2014 ReEstablish Richmond",
+      "url": "https://www.reestablishrichmond.org/immigration-support"
+    },
+    {
+      "title": "Home - Sacred Heart Center",
+      "url": "https://shcrichmond.org/"
+    },
+    {
+      "title": "Richmond city, Virginia - Census Bureau Profile",
+      "url": "https://data.census.gov/profile/Richmond_city,_Virginia?g=050XX00US51760"
+    },
+    {
+      "title": "S1601: Percent speak English ... in 2023 - Census Bureau Map",
+      "url": "https://data.census.gov/map?q=Pamplin+City+town,+Virginia+Populations+and+People&tid=ACSST5Y2023.S1601&layer=VT_2023_160_V2_PY_D1&loc=43.3751,-113.1138,z1.4027"
+    },
+    {
+      "title": "S1601: Language Spoken at Home - Census Bureau Table",
+      "url": "https://data.census.gov/table/ACSST5Y2024.S1601?tid=ACSST5Y2024.S1601"
+    },
+    {
+      "title": "Census Bureau Data",
+      "url": "https://data.census.gov/"
+    },
+    {
+      "title": "S1601: Language Spoken at Home - Census Bureau Table",
+      "url": "https://data.census.gov/table/ACSST5Y2024.S1601?g=0500000US51760"
+    },
+    {
+      "title": "S1601: Language Spoken at Home - Census Bureau Table",
+      "url": "https://data.census.gov/table/ACSST5Y2024.S1601?g=1600000US5167000"
+    },
+    {
+      "title": "Population with Limited English Proficiency",
+      "url": "https://sparkmap.org/data-info/population-with-limited-english-proficiency/"
+    },
+    {
+      "title": "ACS code lookup table \u2014 acscodes_df \u2022 ccesMRPprep",
+      "url": "https://www.shirokuriwaki.com/ccesMRPprep/reference/acscodes_df.html"
+    },
+    {
+      "title": "2020-2024 ACS 5-Year Estimates",
+      "url": "https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2024/5-year.html"
+    },
+    {
+      "title": "S1601: Population 5 years and ... - Census Bureau Bar Chart",
+      "url": "https://data.census.gov/chart/ACSST1Y2024.S1601?q=language%26"
+    },
+    {
+      "title": "S1601: Language Spoken at Home - Census Bureau Table",
+      "url": "https://data.census.gov/table/ACSST5Y2023.S1601"
+    },
+    {
+      "title": "Census Data API: /data/2024/acs/acs1/subject",
+      "url": "https://api.census.gov/data/2024/acs/acs1/subject/variables/S1601_C06_021EA.html"
+    },
+    {
+      "title": "Census Data API: /data/2015/acs/acs1/subject",
+      "url": "https://api.census.gov/data/2015/acs/acs1/subject/variables/S1601_C05_001M.html"
+    },
+    {
+      "title": "Guide to the ACS API Updates to Character and Numeric ...",
+      "url": "https://www.census.gov/data/developers/data-sets/acs-1year/ACS-examples-guide.html"
+    },
+    {
+      "title": "Census Data API: /data/2020/acs/acs5/subject/groups/S1601",
+      "url": "https://api.census.gov/data/2020/acs/acs5/subject/groups/S1601.html"
+    }
+  ]
+}

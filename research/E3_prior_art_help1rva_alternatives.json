@@ -1,0 +1,219 @@
+{
+  "run_id": "trun_3cad0ebea15c480e96d66628e80a5019",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "HSDS is now interoperable with FHIR\u00ae \u2013 Open Referral",
+      "url": "https://openreferral.org/hsds-is-now-interoperable-with-fhir/"
+    },
+    {
+      "title": "Subscriptions for Individual United Way & 211 Organizations",
+      "url": "https://company.findhelp.com/pricing/united-way-211/"
+    },
+    {
+      "title": "Privacy Policy \u2014 211 Virginia",
+      "url": "https://211virginia.org/privacy-policy/"
+    },
+    {
+      "title": "2021-2022 211 Virginia Annual Report",
+      "url": "https://211virginia.org/wp-content/uploads/2025/01/2021-2022-211-Virginia-Annual-Report-FINAL.pdf"
+    },
+    {
+      "title": "Get Help with 211 Virginia: Housing, Food, Healthcare, and More \u2014 211 Virginia",
+      "url": "https://211virginia.org/"
+    },
+    {
+      "title": "Which taxonomies to use - Technical - Open Referral community forum",
+      "url": "https://forum.openreferral.org/t/which-taxonomies-to-use/156"
+    },
+    {
+      "title": "homeless programs in Richmond, va | findhelp.org",
+      "url": "https://www.auntbertha.com/search/text?term=homeless&postal=23224"
+    },
+    {
+      "title": "\n        Social Services in richmond, va 23219\n    ",
+      "url": "https://www.findhelp.org/search_results/23219"
+    },
+    {
+      "title": "Pricing for Findhelp\u2019s Products & Services - Findhelp",
+      "url": "https://company.findhelp.com/pricing/"
+    },
+    {
+      "title": "Findhelp\u2019s APIs in Action: Our Partnership with Single Stop - Findhelp",
+      "url": "https://company.findhelp.com/blog/2024/07/10/findhelps-apis-in-action/"
+    },
+    {
+      "title": "findhelp.org by Findhelp - Search and Connect to Social Care",
+      "url": "https://www.findhelp.org/"
+    },
+    {
+      "title": "financial assistance programs in Richmond, va",
+      "url": "https://www.findhelp.org/money/financial-assistance--washington-dc?postal=23236"
+    },
+    {
+      "title": "Aunt Bertha",
+      "url": "https://www.auntbertha.com/widget/660x234?c=2F8BC5&d=connectva"
+    },
+    {
+      "title": "Jira Service Management",
+      "url": "https://auntbertha.atlassian.net/plugins/servlet/servicedesk/customer/confluence/shim/spaces/CUST/pages/2561507405/Integrations+Overview"
+    },
+    {
+      "title": "prescription assistance programs in Richmond, va | findhelp.org",
+      "url": "https://www.findhelp.org/health/prescription-assistance--richmond-va"
+    },
+    {
+      "title": "Unite Us: Connecting Communities, Data, & Care",
+      "url": "https://uniteus.com/"
+    },
+    {
+      "title": "Payments Data & Exchange Standards: Gravity Project Discovery Findings",
+      "url": "https://uniteus.com/report/payments-data-and-exchange-standards/"
+    },
+    {
+      "title": "NowPow scooped up by Unite Us to broaden its reach in health market | Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/tech/unite-us-scoops-up-nowpow-to-broaden-its-reach-social-determinants-health-tech-market"
+    },
+    {
+      "title": "UChicago Spin-Out NowPow Acquired by Unite Us to Scale, Add Greater Value to More Consumers - Polsky Center for Entrepreneurship and Innovation",
+      "url": "https://polsky.uchicago.edu/2021/09/23/uchicago-spinout-nowpow-acquired-by-unite-us/"
+    },
+    {
+      "title": "SDOH and the Gravity Project - SDOH Clinical Care v3.0.0-ballot",
+      "url": "https://build.fhir.org/ig/HL7/fhir-sdoh-clinicalcare/sdoh_challenges_gravity.html"
+    },
+    {
+      "title": "EHR Integration with Social Care Technology",
+      "url": "https://uniteus.com/report/ehr-integration-report/"
+    },
+    {
+      "title": "National 211 Data Platform Agreement",
+      "url": "https://register.211.org/files/National%20211%20Data%20Platform%20Agreement.pdf"
+    },
+    {
+      "title": "NDP Documentation",
+      "url": "https://nationaldataplatform.org/documentation/"
+    },
+    {
+      "title": "Microsoft Azure API Management - developer portal: Home - 211",
+      "url": "https://apiportal.211.org/"
+    },
+    {
+      "title": "Terms of Use - NDP Documentation",
+      "url": "https://nationaldataplatform.org/documentation/policies/terms-of-use/"
+    },
+    {
+      "title": "How to Log Into the API Developer Portal!",
+      "url": "https://register.211.org/Home/LogIntoApiPortal"
+    },
+    {
+      "title": "About \u2014 Open Referral Data Specifications 3.0.1 documentation",
+      "url": "http://docs.openreferral.org/"
+    },
+    {
+      "title": "\n        Help1RVA Greater Richmond Resource Directory\n            | Accessibility\n    ",
+      "url": "https://help1rva.org/legal/accessibility"
+    },
+    {
+      "title": "Social Needs Navigation - YMCA of Greater Richmond",
+      "url": "https://www.ymcarichmond.org/resources/help1rva/"
+    },
+    {
+      "title": "Claim Programs, Help1RVA Greater Richmond Resource Directory, findhelp",
+      "url": "https://help1rva.org/claims"
+    },
+    {
+      "title": "The Open Referral API project \u2013 Open Referral",
+      "url": "https://openreferral.org/the-open-referral-api-project/"
+    },
+    {
+      "title": "Unite Virginia \u2013 Closed-Loop Coordinated Care Network | Unite Us",
+      "url": "https://uniteus.com/networks/virginia"
+    },
+    {
+      "title": "Sentara Healthcare Optima Health and Unite Us join forces",
+      "url": "https://www.sentara.com/aboutus/news/articles/sentara-healthcare-optima-health-and-unite-us-join-forces-to-connect-patients-and-members-with-local"
+    },
+    {
+      "title": "Optima Health, Unite Us and United ...",
+      "url": "https://unitedwayshr.org/optima-health-unite-us-and-united-way-of-south-hampton-roads-announce-coordinated-care-network/"
+    },
+    {
+      "title": "VHHA Solutions Enters Partnership with Unite Us to Strengthen Community-Based Health Care Coordination Across Virginia",
+      "url": "https://uniteus.com/press/vhha-solutions-enters-partnership-with-unite-us"
+    },
+    {
+      "title": "Virginia to Partner with Unite Us to Create Statewide Infrastructure Connecting Health and Social Services - uniteus.com",
+      "url": "https://uniteus.com/press/virginia-to-partner-with-unite-us-to-create-statewide-infrastructure-connecting-health-and-social-services-3/"
+    },
+    {
+      "title": "Richmond City Health District",
+      "url": "https://www.vdh.virginia.gov/richmond-city"
+    },
+    {
+      "title": "Unite Virginia \u2013 Closed-Loop Coordinated Care Network | Unite Us",
+      "url": "https://uniteus.com/networks/virginia/get-help/richmond-city-resources"
+    },
+    {
+      "title": "Add or Update Your Agency with 211 Virginia \u2014 211 Virginia",
+      "url": "https://211virginia.org/agency-resources/update-add-agency-portal/"
+    },
+    {
+      "title": "Improving Human Services with 211 Virginia Data \u2014 211 Virginia",
+      "url": "https://211virginia.org/data/"
+    },
+    {
+      "title": "Database Inclusion Policy",
+      "url": "https://211virginia.org/wp-content/uploads/2025/03/Inclusion-Exclusion-Policy-2025.pdf"
+    },
+    {
+      "title": "FAQs - UnitedStates211.WebApp",
+      "url": "https://register.211.org/Home/FAQs"
+    },
+    {
+      "title": "Updated Decoding the Directory",
+      "url": "https://211virginia.org/wp-content/uploads/2025/08/Updated-Decoding-the-Directory.pdf"
+    },
+    {
+      "title": "\n        Aunt Bertha | Privacy Policy\n    ",
+      "url": "https://www.findhelp.org/legal/privacy"
+    },
+    {
+      "title": "\n        Aunt Bertha | Terms of Service\n    ",
+      "url": "https://www.findhelp.org/legal/terms"
+    },
+    {
+      "title": "Online Customer Terms.docx",
+      "url": "https://go.findhelp.com/hubfs/OnlineCustomerTerms.pdf"
+    },
+    {
+      "title": "Terms for Organizations - Findhelp",
+      "url": "https://company.findhelp.com/cbo-terms/"
+    },
+    {
+      "title": "Data Privacy & Security",
+      "url": "https://cdn.prod.website-files.com/689a7050bcaad62da3ab17d0/68b75772ce18b1ab7e53068b_Data_Privacy_%2526_Security_Policy.pdf"
+    },
+    {
+      "title": "Unite Us Privacy Policy - uniteus.com",
+      "url": "https://uniteus.com/privacy-policy"
+    },
+    {
+      "title": "Terms of Service - uniteus.com",
+      "url": "https://uniteus.com/terms-of-service"
+    },
+    {
+      "title": "Get Help - uniteus.com",
+      "url": "https://uniteus.com/get-help/"
+    },
+    {
+      "title": "Unite Virginia \u2013 Closed-Loop Coordinated Care Network | Unite Us",
+      "url": "https://uniteus.com/networks/virginia/"
+    },
+    {
+      "title": "Privacy and Security",
+      "url": "https://uniteus.com/privacy/"
+    }
+  ]
+}

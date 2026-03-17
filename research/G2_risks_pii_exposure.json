@@ -1,0 +1,183 @@
+{
+  "run_id": "trun_3cad0ebea15c480eb3b93be093f539b4",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Code of Virginia Code - Chapter 53. Consumer Data Protection Act",
+      "url": "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+    },
+    {
+      "title": "Virginia Consumer Data Protection Act",
+      "url": "https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf"
+    },
+    {
+      "title": "\u00a7 59.1-576. Scope; exemptions",
+      "url": "https://law.lis.virginia.gov/vacode/title59.1/chapter53/section59.1-576/"
+    },
+    {
+      "title": "Virginia Privacy Law: A 2023 VCDPA Overview - ThompsonMcMullan, P.C.",
+      "url": "https://www.t-mlaw.com/commentary/virginia-privacy-law-a-2023-vcdpa-overview/"
+    },
+    {
+      "title": "What is the Virginia Consumer Data Privacy Act (VCDPA)?",
+      "url": "https://getterms.io/blog/virginia-consumer-data-privacy-act-vcdpa"
+    },
+    {
+      "title": "Use of Online Tracking Technologies by HIPAA Covered Entities and Business Associates | HHS.gov",
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/hipaa-online-tracking/index.html"
+    },
+    {
+      "title": "OCR Updates Guidance on Use of Online Tracking Technologies",
+      "url": "https://www.mofo.com/resources/insights/240329-ocr-updates-guidance-on-use-of-online-tracking-technologies"
+    },
+    {
+      "title": "Office of Civil Rights Provides Updated Guidance on HIPAA and the Use of Tracking Technologies - Network for Public Health Law",
+      "url": "https://www.networkforphl.org/news-insights/office-of-civil-rights-provides-updated-guidance-on-hipaa-and-the-use-of-tracking-technologies/"
+    },
+    {
+      "title": "OCR Updates Online Tracking Technology Guidance for HIPAA Regulated Entities: \u201cClarified,\u201d But Not Clear | Insights | Ropes & Gray LLP",
+      "url": "https://www.ropesgray.com/en/insights/alerts/2024/03/ocr-updates-online-tracking-technology-guidance-for-hipaa-regulated-entities-clarified-but-not-clear"
+    },
+    {
+      "title": "OCR Updates Guidance Regarding Compliance with ...",
+      "url": "https://www.bassberry.com/news/ocr-updates-guidance-regarding-compliance-with-hipaa-in-use-of-online-tracking-technologies/"
+    },
+    {
+      "title": "The access right, health apps, & APIs | HHS.gov",
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html"
+    },
+    {
+      "title": "OCR Updates Guidance on the Use of Online Tracking Technologies by HIPAA Regulated Entities",
+      "url": "https://www.hipaajournal.com/ocr-updated-online-tracking-technology-guidance/"
+    },
+    {
+      "title": "HHS-OCR Revises its Guidance on Use of Online Tracking ...",
+      "url": "https://www.dentonshealthlaw.com/hhs-ocr-revises-its-guidance-on-use-of-online-tracking-technologies/"
+    },
+    {
+      "title": "In Updated Guidance on Use of Tracking Technologies by ...",
+      "url": "https://www.goodwinlaw.com/en/insights/publications/2024/03/alerts-practices-hltc-updated-guidance-tracking-technologies-hipaa-entities"
+    },
+    {
+      "title": "Fact Sheet 42 CFR Part 2 Final Rule | HHS.gov",
+      "url": "https://www.hhs.gov/hipaa/for-professionals/regulatory-initiatives/fact-sheet-42-cfr-part-2-final-rule/index.html"
+    },
+    {
+      "title": "\n    eCFR :: 42 CFR Part 2 -- Confidentiality of Substance Use Disorder Patient Records\n  ",
+      "url": "https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2"
+    },
+    {
+      "title": "Understanding Confidentiality of Substance Use Disorder (SUD) Patient Records or \u201cPart 2\u201d | HHS.gov",
+      "url": "https://www.hhs.gov/hipaa/part-2/index.html"
+    },
+    {
+      "title": "\n      Federal Register\n       :: \n      Confidentiality of Substance Use Disorder (SUD) Patient Records\n    ",
+      "url": "https://www.federalregister.gov/documents/2024/02/16/2024-02544/confidentiality-of-substance-use-disorder-sud-patient-records"
+    },
+    {
+      "title": "Understanding-and-Implementing-the-Updates-to-42-CFR- ...",
+      "url": "https://www.networkforphl.org/wp-content/uploads/2025/02/Understanding-and-Implementing-the-Updates-to-42-CFR-Part-2-Confidentiality-of-Substance-Use-Disorder-Patient-Records.pdf"
+    },
+    {
+      "title": "FERPA - Protecting Student Privacy - Department of Education",
+      "url": "https://studentprivacy.ed.gov/ferpa"
+    },
+    {
+      "title": "Frequently Asked Questions - Protecting Student Privacy",
+      "url": "https://studentprivacy.ed.gov/frequently-asked-questions"
+    },
+    {
+      "title": "Responsibilities of Third-Party Service Providers under FERPA",
+      "url": "https://studentprivacy.ed.gov/sites/default/files/resource_document/file/Vendor%20FAQ.pdf"
+    },
+    {
+      "title": "Directory Information | Protecting Student Privacy",
+      "url": "https://studentprivacy.ed.gov/content/directory-information"
+    },
+    {
+      "title": "What is an education record?",
+      "url": "https://studentprivacy.ed.gov/faq/what-education-record"
+    },
+    {
+      "title": "Code of Virginia Code - Chapter 37. Virginia Freedom of Information Act",
+      "url": "https://law.lis.virginia.gov/vacode/title2.2/chapter37/"
+    },
+    {
+      "title": "\u00a7 2.2-3700. Short title; policy",
+      "url": "https://law.lis.virginia.gov/vacode/title2.2/chapter37/section2.2-3700/"
+    },
+    {
+      "title": "Virginia Freedom of Information Advisory Council",
+      "url": "https://foiacouncil.dls.virginia.gov/Applicability_Exemptions/Records_Exemptions.htm"
+    },
+    {
+      "title": "\u00a7 2.2-3705.1. Exclusions to application of chapter; exclusions of general application to public bodies",
+      "url": "https://law.lis.virginia.gov/vacode/title2.2/chapter37/section2.2-3705.1/"
+    },
+    {
+      "title": "\u00a7 2.2-3705.5. Exclusions to application of chapter; health and social services records",
+      "url": "https://law.lis.virginia.gov/vacode/title2.2/chapter37/section2.2-3705.5/"
+    },
+    {
+      "title": "Overview of Governmental Action Under the Stored Communications Act (SCA) | Congress.gov | Library of Congress",
+      "url": "https://www.congress.gov/crs-product/LSB10801"
+    },
+    {
+      "title": "Stored Communications Act - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stored_Communications_Act"
+    },
+    {
+      "title": "Searching and Seizing Computers",
+      "url": "https://cyber.harvard.edu/practicallawyering/Week9DOJECPAExcerpt.pdf"
+    },
+    {
+      "title": "Searching and Seizing Computers and Obtaining ...",
+      "url": "https://www.justice.gov/d9/criminal-ccips/legacy/2015/01/14/ssmanual2009_002.pdf"
+    },
+    {
+      "title": "COMPLIANCE GUIDE FOR LAW ENFORCEMENT",
+      "url": "https://www.eff.org/files/filenode/social_network/yahoo_sn_leg-doj.pdf"
+    },
+    {
+      "title": "Enforcement Actions in or Near Protected Areas",
+      "url": "https://www.dhs.gov/publication/enforcement-actions-or-near-protected-areas"
+    },
+    {
+      "title": "Guidelines for Enforcement Actions in or Near Protected ...",
+      "url": "https://www.ice.gov/doclib/news/guidelines-civilimmigrationlaw10272021.pdf"
+    },
+    {
+      "title": "The Department of Homeland Security's \u201cProtected Areas\u201d ...",
+      "url": "https://www.nilc.org/wp-content/uploads/2021/11/Protected-Areas-Factsheet-2021-11-12.pdf"
+    },
+    {
+      "title": "DHS Protected Areas FAQs - Border Security",
+      "url": "https://www.cbp.gov/border-security/dhs-protected-areas-faqs"
+    },
+    {
+      "title": "Secretary Mayorkas Issues New Guidance for Enforcement Action at Protected Areas | Homeland Security",
+      "url": "https://www.dhs.gov/archive/news/2021/10/27/secretary-mayorkas-issues-new-guidance-enforcement-action-protected-areas"
+    },
+    {
+      "title": "Know Your Rights: Immigration Administrative Subpoenas",
+      "url": "https://assets.aclu.org/live/uploads/2025/04/ACLU-KYR-on-ICE-administrative-subpoenas-4.17.25.pdf"
+    },
+    {
+      "title": "The Immigration Subpoena Power",
+      "url": "https://larc.cardozo.yu.edu/cgi/viewcontent.cgi?params=/context/faculty-articles/article/1951/&path_info=January_2025_1_Nash.pdf"
+    },
+    {
+      "title": "ICE Administrative Subpoenas to Tech Companies for ...",
+      "url": "https://iptp-production.s3.amazonaws.com/media/documents/2022.08_Just_Futures_Law_-_ICE_Administrative_Subpoenas_to_Tech_Companies.pdf"
+    },
+    {
+      "title": "8 USC 1225: Inspection by immigration officers; expedited ...",
+      "url": "https://uscode.house.gov/view.xhtml?req=(title:8%20section:1225%20edition:prelim)"
+    },
+    {
+      "title": "8 USC 1357: Powers of immigration officers and employees",
+      "url": "https://uscode.house.gov/view.xhtml?req=(title:8%20section:1357%20edition:prelim)"
+    }
+  ]
+}

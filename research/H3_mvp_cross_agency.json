@@ -1,0 +1,175 @@
+{
+  "run_id": "trun_3cad0ebea15c480e82b0c7a07875d6d9",
+  "processor": "pro",
+  "status": "completed",
+  "citations": [
+    {
+      "title": "Social Services Main | Richmond",
+      "url": "https://www.rva.gov/social-services/social-services-main"
+    },
+    {
+      "title": "Get Help with 211 Virginia: Housing, Food, Healthcare, and More \u2014 211 Virginia",
+      "url": "https://211virginia.org/"
+    },
+    {
+      "title": "Social Needs Navigation - YMCA of Greater Richmond",
+      "url": "https://www.ymcarichmond.org/resources/help1rva/"
+    },
+    {
+      "title": "Unite Virginia \u2013 Closed-Loop Coordinated Care Network | Unite Us",
+      "url": "https://uniteus.com/networks/virginia/get-help/get-help-6/"
+    },
+    {
+      "title": "Benefits - Verification Requirements - Virginia Department of Social Services",
+      "url": "https://www.dss.virginia.gov/benefit/verification.cgi"
+    },
+    {
+      "title": "Housing Voucher - Richmond, Richmond Redevelopment and Housing Authority",
+      "url": "https://search.211virginia.org/search/18fe0f28-fb08-57bd-b698-b326e2f88faf"
+    },
+    {
+      "title": "Join the Network - Help1RVA",
+      "url": "https://help1rva.org/claims"
+    },
+    {
+      "title": "2-1-1 VIRGINIA - Virginia Department of Social Services",
+      "url": "https://www.dss.virginia.gov/community/211.cgi"
+    },
+    {
+      "title": "Case Management Toolkit \u2013 A Roadmap to Best Practices",
+      "url": "https://www.nyc.gov/assets/dycd/digital_toolkit/Case_Management_Toolkit/"
+    },
+    {
+      "title": "Case Management Activity Maps | Center for Violence Prevention",
+      "url": "https://violence.chop.edu/case-management-activity-maps"
+    },
+    {
+      "title": "Standards - Inform USA (formerly AIRS, the Alliance of Information and Referral Systems)",
+      "url": "https://www.informusa.org/standards"
+    },
+    {
+      "title": "CASE MANAGEMENT TOOLKIT:",
+      "url": "https://bettercarenetwork.org/sites/default/files/2022-08/case_management_toolkit_usaid_0.pdf"
+    },
+    {
+      "title": "Indexing with the AIRS/INFO LINE Taxonomy of Human ...",
+      "url": "https://211hsis.org/library/Indexing_with_the_Taxonomy_v2000.pdf"
+    },
+    {
+      "title": "Skeleton Screens 101 - NN/G",
+      "url": "https://www.nngroup.com/articles/skeleton-screens/"
+    },
+    {
+      "title": "Filling the Void: Designing for Data Visualization\u2019s Quiet Moments | by Prerna Shaurya | Medium",
+      "url": "https://medium.com/@prernashaurya1/filling-the-void-designing-for-data-visualizations-quiet-moments-ec7dff31b8f5"
+    },
+    {
+      "title": "Design pattern to display missing data in line/bar chart of a daily data feed - User Experience Stack Exchange",
+      "url": "https://ux.stackexchange.com/questions/69738/design-pattern-to-display-missing-data-in-line-bar-chart-of-a-daily-data-feed"
+    },
+    {
+      "title": "A Guide to the Six Types of Data Quality Dashboards | DataKitchen",
+      "url": "https://datakitchen.io/the-six-types-of-data-quality-dashboards/"
+    },
+    {
+      "title": "Skeleton screens - do we display them in case of lack ...",
+      "url": "https://ux.stackexchange.com/questions/135694/skeleton-screens-do-we-display-them-in-case-of-lack-of-content-or-lower-amount"
+    },
+    {
+      "title": "financial assistance programs in Richmond, va | findhelp.org",
+      "url": "https://www.findhelp.org/money/financial-assistance--richmond-va"
+    },
+    {
+      "title": "help fill out forms programs in Richmond, va | findhelp.org",
+      "url": "https://www.findhelp.org/care/help-fill-out-forms--richmond-va"
+    },
+    {
+      "title": "government benefits programs in Richmond, va | findhelp.org",
+      "url": "https://www.findhelp.org/money/government-benefits--richmond-va"
+    },
+    {
+      "title": "navigating the system programs in Richmond, va | findhelp.org",
+      "url": "https://www.findhelp.org/care/navigating-the-system--richmond-va"
+    },
+    {
+      "title": "help pay for healthcare programs in Richmond, va",
+      "url": "https://www.findhelp.org/health/help-pay-for-healthcare--richmond-va"
+    },
+    {
+      "title": "Virginia Department of Social Services",
+      "url": "https://www.findhelp.org/provider/virginia-department-of-social-services--richmond-va/1975016?postal=23173"
+    },
+    {
+      "title": "help pay for housing programs in Richmond, va",
+      "url": "https://www.findhelp.org/housing/help-pay-for-housing--richmond-va"
+    },
+    {
+      "title": "help pay for school programs in Richmond, va",
+      "url": "https://www.findhelp.org/education/help-pay-for-school--richmond-va"
+    },
+    {
+      "title": "Maryland Open Data Portal Site Analytics - Data Freshness | Open Data | opendata.maryland.gov",
+      "url": "https://opendata.maryland.gov/stories/s/Maryland-Open-Data-Portal-Site-Analytics-Data-Fres/qnxx-vcev/"
+    },
+    {
+      "title": "Validation | U.S. Web Design System (USWDS)",
+      "url": "https://designsystem.digital.gov/components/validation/"
+    },
+    {
+      "title": "Data Quality Guidelines | GSA",
+      "url": "https://www.gsa.gov/reference/reports/information-quality-guidelines/data-quality-guidelines"
+    },
+    {
+      "title": "Dataset Freshness Story - Catalog",
+      "url": "https://catalog.data.gov/dataset/dataset-freshness"
+    },
+    {
+      "title": "Alert | U.S. Web Design System (USWDS)",
+      "url": "https://designsystem.digital.gov/components/alert/"
+    },
+    {
+      "title": "CommonHelp - Virginia.gov",
+      "url": "https://commonhelp.virginia.gov/"
+    },
+    {
+      "title": "Supplemental Nutrition Assistance Program (SNAP) - Virginia Department of Social Services",
+      "url": "https://www.dss.virginia.gov/benefit/snap.cgi"
+    },
+    {
+      "title": "CommonHelp - Virginia Department of Social Services",
+      "url": "https://www.dss.virginia.gov/community/commonhelp/"
+    },
+    {
+      "title": "Temporary Assistance for Needy Families (TANF) - Virginia Department of Social Services",
+      "url": "https://www.dss.virginia.gov/benefit/tanf/"
+    },
+    {
+      "title": "SNAP Work Requirements and Expense Verification FAQs",
+      "url": "https://www.dss.virginia.gov/benefit/snap/SNAP_work_faqs.cgi"
+    },
+    {
+      "title": "Service Manual - GOV.UK",
+      "url": "https://www.gov.uk/service-manual"
+    },
+    {
+      "title": "Transparency and open data - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/transparency-and-open-data"
+    },
+    {
+      "title": "Service manual discovery findings - Data in government",
+      "url": "https://dataingovernment.blog.gov.uk/2015/09/16/service-manual-discovery-findings/"
+    },
+    {
+      "title": "Designing with data: an introduction - Service Manual",
+      "url": "https://www.gov.uk/service-manual/design/designing-with-data-an-introduction"
+    },
+    {
+      "title": "    Open Policy Making toolkit - Guidance - GOV.UK\n",
+      "url": "https://www.gov.uk/guidance/open-policy-making-toolkit"
+    },
+    {
+      "title": "Fetched web page",
+      "url": "https://help1rva.org/suggest-program"
+    }
+  ]
+}
