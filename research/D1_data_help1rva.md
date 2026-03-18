@@ -1,3 +1,26 @@
+---
+title: "Help1RVA Data, Fast: A 2–3 Hour Path to a Reliable Immigrant/Refugee Services Dataset"
+pillar: thriving-inclusive-communities
+section: D
+problem_statement: immigrant-service-access
+tags:
+  - Help1RVA data
+  - no API
+  - manual extraction
+  - service categories
+  - data sprint
+  - findhelp TOS
+summary: "Documents that Help1RVA has no public API or bulk data export and recommends a targeted manual extraction sprint as the legally safe path to a curated immigrant/refugee services dataset in 2–3 hours."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+privacy_sensitivity: high
+related_reports:
+  - C1_services_help1rva
+  - D2_data_community_org_directories
+  - D5_data_quality_gaps
+---
+
 # Help1RVA Data, Fast: A 2–3 Hour Path to a Reliable Immigrant/Refugee Services Dataset
 
 ## Executive Summary

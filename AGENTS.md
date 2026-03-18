@@ -175,6 +175,7 @@ Example:
 
 Skills available right now:
 
+Team skills:
 • repo_memory
 • problem_scoping
 • research_runner
@@ -185,6 +186,13 @@ Skills available right now:
 • demo_coach
 • repo_librarian
 • continuity_planner
+• research_search
+
+Research corpus skills:
+• research_corpus_navigation
+• cross_report_synthesis
+• evidence_grounded_answering
+• report_update_protocol
 
 ```
 
@@ -456,6 +464,117 @@ I can run the skill: problem_scoping
 Would you like me to analyze the Thriving and Inclusive Communities problem statements and suggest 3 buildable project directions?
 
 ```
+
+---
+
+# Research Corpus Navigation
+
+The `research/` directory contains 51 deep research reports organized into sections A through I, plus cross-cutting files (90–93) and a context file (00). These reports are the authoritative source for all factual claims about Richmond's immigrant service ecosystem.
+
+## What the Research Corpus Contains
+
+| Section | Topic | Key Use |
+|---------|-------|---------|
+| `00` | Context & Framing | Start here for full-pillar orientation |
+| `01` | Master Research | Comprehensive evidence base |
+| `90–93` | Cross-Cutting | Quick synthesis, red flags, gaps |
+| `A` | Problem Landscape | Trust gaps, service access barriers, language access |
+| `B` | Users & Stakeholders | Immigrant resident, case manager, CBO, digital equity |
+| `C` | Services & Programs | Help1RVA, refugee ecosystem, City services, fragmentation |
+| `D` | Data Sources | Help1RVA data constraints, org directories, census, refugee data |
+| `E` | Prior Art | Replicable patterns, multilingual tools, failure lessons |
+| `F` | Opportunities | Ranked prototypes, service discovery, cross-agency paths |
+| `G` | Risks & Guardrails | PII exposure, false safety, language quality, data walls |
+| `H` | MVP Feasibility | 48-hour framework, service finder, cross-agency, language MVP |
+| `I` | Demo Guidance | Demo archetypes, pitch scripts, credibility signals |
+
+## Files to Read First
+
+When Hackbot is asked a research question, it MUST read these navigation files before any research file:
+
+1. `research/index.json` — scan summaries and key_terms to identify relevant files
+2. `CORPUS_GUIDE.md` — orientation for the full corpus, source-of-truth hierarchy, and decision tree
+3. `manifest.json` — full repository inventory with types, tags, and read_after relationships
+4. `evidence_log.md` — **always check the Missing section** before asserting data is available
+
+## Question-to-Section Mapping
+
+| User Question Type | Read These Sections |
+|-------------------|-------------------|
+| What problems exist? | A (A1–A5) |
+| Who are the users? | B (B1–B5) |
+| What services exist? | C (C1–C5) |
+| What data is available? | D (D1–D5), `02_data/` |
+| What has been built elsewhere? | E (E1–E5) |
+| What should we build? | F (F1–F5) |
+| What could go wrong? | G (G1–G5) |
+| Is this feasible in a weekend? | H (H1–H5) |
+| How do we demo this? | I (I1–I5) |
+| Privacy/trust/PII concerns? | G2, G5, `03_artifacts/community_trust_framework.md` |
+| Known data gaps? | `evidence_log.md` Missing section, D5, `93_missing_information_gaps.md` |
+| Immigrant service discovery | A1, A4, B1, C1, D1, F2, H2 |
+| Cross-agency navigation | A2, D5, F3, G4, H3 |
+| Language access | A5, B5, E2, G3, H4 |
+
+## How to Use Index and Manifest Files
+
+**`research/index.json`**: Before reading any `.md` file, scan `key_terms` and `summary` fields to identify which files match the user's question. Do not answer from summaries alone — they are navigation aids.
+
+**`manifest.json`**: Use to understand the full scope of the repository. Each entry includes `type`, `recommended_audience`, `read_after`, and `source_of_truth` fields. Use `read_after` to sequence reading.
+
+**Navigation files are NOT sources of truth.** `README.md`, `research/INDEX.md`, `index.json`, and `manifest.json` help you find files. They are not authoritative for factual claims. Always read the source `.md` file before citing.
+
+## How to Avoid Partial Context
+
+Partial context is a primary failure mode for this pillar. Avoid it by:
+
+1. **Never answer from the first file you read.** Use `research_corpus_navigation` to build a reading list of 3–5 files before answering.
+2. **Check evidence_log.md Missing section before claiming data exists.** Five key datasets are documented as unavailable (E-M001 through E-M005).
+3. **Cross-reference privacy claims.** Any answer about what a tool should collect or store must be checked against `03_artifacts/community_trust_framework.md`.
+4. **State what you have not read.** If a question could be answered by files not yet loaded, say so explicitly.
+
+## Citation Format
+
+When presenting research findings, always cite the source:
+
+- Specific file: `(per research/A1_problem_landscape_immigrant_service_access.md)`
+- Verified claim: `(confirmed in evidence_log.md)`
+- Missing data: `[Missing per evidence_log.md E-M001: no Help1RVA bulk export available]`
+- Unverified: `[Unverified: not confirmed in files read in this session]`
+- Requires reading: `[Requires reading: research/D4_data_refugee_resettlement.md]`
+
+Never cite `index.json`, `manifest.json`, or `CORPUS_GUIDE.md` as sources for factual claims.
+
+## Cross-Report Synthesis Instructions
+
+When answering questions that span multiple reports:
+1. Run `research_corpus_navigation` to identify all relevant files
+2. Read each source file (not just index summaries)
+3. Map claims to their source files before writing the synthesis
+4. Note tensions or contradictions between reports explicitly
+5. Flag any gaps not covered by the reports read
+6. Use `cross_report_synthesis` skill for structured multi-file answers
+
+## Source-of-Truth vs. Convenience File Reference
+
+| File | Role | Authoritative For |
+|------|------|-------------------|
+| `research/[SECTION][N]_*.md` | Source of truth | Specific research claims |
+| `evidence_log.md` | Evidence tracker | Verified facts, documented gaps |
+| `03_artifacts/community_trust_framework.md` | Source of truth | Privacy design requirements |
+| `03_artifacts/research_notes.md` | Synthesized artifact | Promoted findings (secondary) |
+| `research/index.json` | Navigation aid | File discovery only |
+| `manifest.json` | Navigation aid | Repository inventory only |
+| `CORPUS_GUIDE.md` | Navigation aid | Corpus orientation only |
+
+## Missing Information Handling
+
+When a question requires information not present in the corpus:
+
+- State plainly: "This repository does not contain that information."
+- If a gap is documented in `evidence_log.md`: "This data is listed as missing in evidence_log.md (E-M00X)."
+- If a file might contain the answer but hasn't been read: "[Requires reading: filename]"
+- Never invent program names, service capabilities, datasets, or policy positions.
 
 ---
 

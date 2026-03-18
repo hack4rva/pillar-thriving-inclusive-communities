@@ -1,3 +1,25 @@
+---
+title: "Bridging Richmond’s Language & Privacy Gap: Strategies for Trusted Service Navigation"
+pillar: thriving-inclusive-communities
+section: context
+problem_statement: general
+tags:
+  - privacy-first
+  - language access
+  - trust barriers
+  - immigrant services
+  - ICE chilling effects
+  - AR 5.24
+summary: "Provides the overarching framing for the Thriving and Inclusive Communities pillar, showing how privacy anxiety and language barriers block service access for Richmond’s immigrant and refugee populations. Establishes that trust—not information supply—is the core bottleneck."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - A1_problem_landscape_immigrant_service_access
+  - A4_problem_landscape_trust_barriers
+  - A5_problem_landscape_language_accessibility
+---
+
 # Bridging Richmond’s Language & Privacy Gap: Strategies for Trusted Service Navigation
 
 ## Executive Summary

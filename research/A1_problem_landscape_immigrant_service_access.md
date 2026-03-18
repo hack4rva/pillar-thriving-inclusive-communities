@@ -1,3 +1,25 @@
+---
+title: "Richmond Immigrant Access: Trust Gaps, Not Service Gaps"
+pillar: thriving-inclusive-communities
+section: A
+problem_statement: immigrant-service-access
+tags:
+  - trust gaps
+  - public-charge
+  - chilling effects
+  - anonymous navigation
+  - ReEstablish Richmond
+  - eligibility barriers
+summary: "Establishes that trust and enforcement fear—not lack of services—are the primary barriers to service access for Richmond's immigrant and refugee residents. Documents public-charge chilling effects and the need for anonymous-first navigation tools."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - 00_pillar_summary_context
+  - A4_problem_landscape_trust_barriers
+  - F2_opportunities_service_discovery
+---
+
 # Richmond Immigrant Access: Trust Gaps, Not Service Gaps
 
 ## Executive summary — Trust and enforcement fears—not information—block access in Richmond

@@ -52,19 +52,27 @@ Do these first 15–30 minutes to get moving:
 
 ## Repo Map
 
-- Research hub: `research_notes.md`
-- Evidence tracker: `evidence_log.md`
-- Data index: `02_data/00_index.md`
-- Source inventory (CSV): `02_data/source_inventory.csv`
-- Artifacts: `03_artifacts/`
-  - Journeys: `03_artifacts/user_journeys.md`
-  - Prototype recommendations: `03_artifacts/prototype_recommendations.md`
-  - Benchmark scan: `03_artifacts/benchmark_scan.md`
-  - Continuation plan: `03_artifacts/continuation_plan.md`
-  - Community trust framework: `03_artifacts/community_trust_framework.md`
-- Build guides: `04_build_guides/`
-- Prompts + runners: `05_prompts/`
-- Templates: `99_templates/`
+| Directory / File | Purpose |
+|-----------------|---------|
+| `research/` | 51 deep research reports — the primary corpus (read `research/INDEX.md` first) |
+| `research_notes.md` | Research hub and promoted findings |
+| `evidence_log.md` | Verified claims and documented information gaps |
+| `02_data/` | Data source index and inventory CSV |
+| `03_artifacts/` | Synthesized artifacts (user journeys, prototype recs, trust framework) |
+| `04_build_guides/` | MVP shapes, architectures, demo advice |
+| `05_prompts/` | Research prompts and runners |
+| `99_templates/` | Team and project templates |
+| `skills/` | Hackbot skill definitions |
+
+### Navigation files
+
+| File | Purpose |
+|------|---------|
+| `CORPUS_GUIDE.md` | Canonical orientation for the research corpus — read before diving into reports |
+| `manifest.json` | Machine-readable index of all significant files with summaries and tags |
+| `research/index.json` | Machine-readable index of all 51 research reports with key_terms |
+| `research/INDEX.md` | Human-readable table of contents for the research directory |
+| `MAINTENANCE.md` | How to add, update, and synchronize reports and metadata |
 
 ---
 
@@ -262,8 +270,15 @@ Demo:
 You can use Hackbot to reconstruct context, run research, and shape an MVP.
 
 - Boot prompt: `HACKBOT_BOOT_PROMPT.md`
-- Skills: `skills/**/SKILL.md` (repo_memory, problem_scoping, research_runner, dataset_mapper, opportunity_mapper, mvp_designer, risk_review, demo_coach, repo_librarian, continuity_planner)
+- Corpus guide: `CORPUS_GUIDE.md`
+- Full file manifest: `manifest.json`
 - Team profile (recommended): `99_templates/team_profile_template.md`
+
+**Team skills** (`skills/**/SKILL.md`):
+repo_memory, problem_scoping, research_runner, dataset_mapper, opportunity_mapper, mvp_designer, risk_review, demo_coach, repo_librarian, continuity_planner, research_search
+
+**Research corpus skills** (`skills/**/SKILL.md`):
+research_corpus_navigation, cross_report_synthesis, evidence_grounded_answering, report_update_protocol
 
 Notes:
 - Hackbot never invents government programs or legal eligibility. It cites official sources and encourages verification.

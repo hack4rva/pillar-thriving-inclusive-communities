@@ -1,3 +1,25 @@
+---
+title: "Fastest Path to Impact: Ranking 7 Inclusive Service Access Prototypes for Richmond"
+pillar: thriving-inclusive-communities
+section: F
+problem_statement: general
+tags:
+  - opportunity ranking
+  - anonymous service finder
+  - Spanish-first
+  - prototype ranking
+  - OIRE
+  - weekend impact
+summary: "Ranks 7 prototype opportunities for the Thriving and Inclusive Communities pillar on speed, safety, and impact criteria. Anonymous-first service finder and Spanish-first multilingual tool emerge as top weekend-viable options."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+related_reports:
+  - F2_opportunities_service_discovery
+  - F3_opportunities_cross_agency
+  - H1_mvp_48hr_framework
+---
+
 # Fastest Path to Impact: Ranking 7 Inclusive Service Access Prototypes for Richmond
 
 ## Executive Summary

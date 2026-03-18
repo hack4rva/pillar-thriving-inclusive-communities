@@ -1,3 +1,26 @@
+---
+title: "Privacy by Design for Trust: Richmond's Immigrant Service Tool Playbook"
+pillar: thriving-inclusive-communities
+section: G
+problem_statement: general
+tags:
+  - privacy by design
+  - layered consent
+  - zero-PII defaults
+  - ADA accessibility
+  - WCAG 2.2
+  - trust design
+summary: "Provides a comprehensive privacy-by-design playbook for tools serving Richmond's immigrant and refugee communities, covering layered consent, audio-visual transparency, zero-data defaults, and ADA accessibility requirements."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+privacy_sensitivity: high
+related_reports:
+  - G2_risks_pii_exposure
+  - G1_risks_false_safety
+  - F5_opportunities_do_not_build
+---
+
 # Privacy by Design for Trust: Richmond's Immigrant Service Tool Playbook
 
 ## Executive Summary

@@ -1,0 +1,359 @@
+[
+  {
+    "id": "00_pillar_summary_context",
+    "section": "context",
+    "title": "Bridging Richmond's Language & Privacy Gap: Strategies for Trusted Service Navigation",
+    "summary": "Provides the overarching framing for the Thriving and Inclusive Communities pillar, showing how privacy anxiety and language barriers block service access for Richmond's immigrant and refugee populations. Establishes that trust—not information supply—is the core bottleneck.",
+    "key_terms": ["privacy-first", "language access", "trust barriers", "immigrant services", "ICE chilling effects", "AR 5.24"]
+  },
+  {
+    "id": "01_master_research_prompt",
+    "section": "master",
+    "title": "From Arrival to Access: How Richmond's Immigrants Navigate Services and Where They Get Stuck",
+    "summary": "Comprehensive research framework covering Richmond's immigrant service landscape from arrival through long-term access, with verified citations from Census Reporter and IRC Richmond. Establishes the foundational evidence base for the entire corpus.",
+    "key_terms": ["arrival", "service navigation", "IRC Richmond", "Census Reporter", "newcomer services", "access barriers"]
+  },
+  {
+    "id": "90_top_10_research_questions",
+    "section": "cross-cutting",
+    "title": "Building a Connected Safety Net for Richmond's Newcomers",
+    "summary": "Identifies the top 10 research questions that teams should answer before building, centered on Help1RVA's infrastructure, trust signals, and cross-agency coordination gaps. Emphasizes standardizing on existing platforms over building from scratch.",
+    "key_terms": ["research questions", "Help1RVA", "safety net", "cross-agency", "service directory", "findhelp platform"]
+  },
+  {
+    "id": "91_top_10_hypotheses_to_test",
+    "section": "cross-cutting",
+    "title": "Trust-first Service Access: What Will Actually Move Richmond's Immigrant Communities",
+    "summary": "Presents 10 testable hypotheses about what interventions will improve service uptake among Richmond's immigrant and refugee communities, with focus on trusted messenger models and community-based organization (CBO) mediation.",
+    "key_terms": ["hypotheses", "trust-first", "trusted messenger", "CBO mediation", "service uptake", "community trust"]
+  },
+  {
+    "id": "92_red_flags",
+    "section": "cross-cutting",
+    "title": "Red Flags Playbook for Immigrant-Service Tools in Richmond",
+    "summary": "Catalogs warning signs and failure modes that civic tech tools for immigrant services commonly exhibit, including PII collection risks, eligibility determination overreach, and approaches that undermine community trust.",
+    "key_terms": ["red flags", "PII risks", "eligibility overreach", "privacy violations", "hallucinated services", "civic tech failure"]
+  },
+  {
+    "id": "93_missing_information_gaps",
+    "section": "cross-cutting",
+    "title": "Unlocking RVA Service Tools: What to Research vs. What to Assume",
+    "summary": "Documents the critical unknowns and information gaps in the corpus, distinguishing between what can be researched and what must be assumed during a 48-hour hackathon. Highlights the D3=1 data readiness problem for cross-agency navigation.",
+    "key_terms": ["information gaps", "D3=1 constraint", "cross-agency data", "what to assume", "unknown data", "research gaps"]
+  },
+  {
+    "id": "A1_problem_landscape_immigrant_service_access",
+    "section": "A",
+    "title": "Richmond Immigrant Access: Trust Gaps, Not Service Gaps",
+    "summary": "Establishes that trust and enforcement fear—not lack of services—are the primary barriers to service access for Richmond's immigrant and refugee residents. Documents public-charge chilling effects and the need for anonymous-first navigation tools.",
+    "key_terms": ["trust gaps", "public-charge", "chilling effects", "anonymous navigation", "ReEstablish Richmond", "eligibility barriers"]
+  },
+  {
+    "id": "A2_problem_landscape_cross_agency_navigation",
+    "section": "A",
+    "title": "One Front Door, Many Doors: Fixing Cross-Agency Navigation for Immigrant and Refugee Richmonders",
+    "summary": "Analyzes the cross-agency navigation challenge where residents must repeatedly tell their story to multiple agencies. Identifies the absence of a shared referral pathway dataset as the core technical constraint (D3=1 score).",
+    "key_terms": ["cross-agency", "single story", "referral pathway", "D3=1", "intake fragmentation", "service coordination"]
+  },
+  {
+    "id": "A3_problem_landscape_compare_statements",
+    "section": "A",
+    "title": "Hackathon Readiness: Service Discovery vs. 'Don't Repeat Your Story' in Community Support",
+    "summary": "Compares the two targeted problem statements for this pillar on hackathon readiness criteria, scoring each on data availability, demo feasibility, and privacy risk. Recommends service discovery as the stronger hackathon direction.",
+    "key_terms": ["problem comparison", "service discovery", "repeat your story", "hackathon readiness", "rubric", "feasibility comparison"]
+  },
+  {
+    "id": "A4_problem_landscape_trust_barriers",
+    "section": "A",
+    "title": "Trust, Not Access: How Safety Signals Determine Immigrant Service Use",
+    "summary": "Deep-dives into the mechanisms by which trust and safety perceptions govern whether immigrant residents seek services. Covers enforcement climate, documentation requirements, and how co-branding with trusted CBOs can restore willingness to engage.",
+    "key_terms": ["trust signals", "enforcement climate", "documentation fear", "CBO co-branding", "safety perception", "service avoidance"]
+  },
+  {
+    "id": "A5_problem_landscape_language_accessibility",
+    "section": "A",
+    "title": "Closing the Gap: Concrete Language Access Wins for Richmond's Immigrant Communities",
+    "summary": "Surveys language access barriers specific to Richmond, with detail on priority languages (Spanish, Arabic, Nepali, Burmese) and the City's Language Access Policy AR 5.24. Identifies actionable translation and interpretation improvements for prototypes.",
+    "key_terms": ["language access", "AR 5.24", "LEP", "Spanish", "multilingual", "translation barriers"]
+  },
+  {
+    "id": "B1_users_immigrant_refugee_resident",
+    "section": "B",
+    "title": "Meet B1: The WhatsApp-first Newcomer Navigating 90-Day Windows and 180-Day Clocks",
+    "summary": "Defines the primary end-user persona for service discovery tools: a recently arrived immigrant or refugee who relies on WhatsApp, faces time-sensitive resettlement deadlines, and is deterred by documentation requirements at service intake.",
+    "key_terms": ["newcomer persona", "WhatsApp", "90-day window", "resettlement deadline", "low-literacy", "mobile-first"]
+  },
+  {
+    "id": "B2_users_case_manager",
+    "section": "B",
+    "title": "Richmond Refugee Case Managers: Time, Tools, and Trust—A Persona Built for Action",
+    "summary": "Profiles the case manager persona who serves as a key intermediary between immigrant residents and services, facing high caseloads and limited digital tooling. Tools that reduce lookup time and referral friction serve this persona directly.",
+    "key_terms": ["case manager", "referral friction", "caseload", "intermediary", "trusted messenger", "lookup time"]
+  },
+  {
+    "id": "B3_users_community_organization",
+    "section": "B",
+    "title": "Bridging Trust at Scale: Empowering Community Intermediaries for Immigrant Service Access (Richmond-focused)",
+    "summary": "Describes community-based organizations (CBOs) as trust infrastructure, outlining how they mediate between vulnerable residents and formal service systems. Identifies tools that could improve CBO capacity without displacing human relationships.",
+    "key_terms": ["community organizations", "CBO capacity", "trust infrastructure", "mediation", "human relationships", "service bridge"]
+  },
+  {
+    "id": "B4_users_stakeholders_map",
+    "section": "B",
+    "title": "Closing the Last-Mile Gap: A Richmond Stakeholder Map to Streamline Immigrant and Refugee Service Access",
+    "summary": "Maps the full stakeholder ecosystem including IRC Richmond, Commonwealth Catholic Charities, ReEstablish Richmond, YMCA, OIRE, and City agencies. Identifies decision-makers and potential champions for hackathon continuation.",
+    "key_terms": ["stakeholder map", "IRC Richmond", "Commonwealth Catholic Charities", "OIRE", "YMCA", "ReEstablish Richmond"]
+  },
+  {
+    "id": "B5_users_digital_equity",
+    "section": "B",
+    "title": "Designing for Richmond's Newcomers: Mobile-first, WhatsApp-led services that reduce literacy and affordability barriers",
+    "summary": "Addresses digital equity constraints facing Richmond's immigrant and refugee populations, including smartphone-only internet access, low English literacy, and affordability barriers. Establishes mobile-first and plain-language requirements for any prototype.",
+    "key_terms": ["digital equity", "mobile-first", "smartphone-only", "affordability", "plain language", "accessibility"]
+  },
+  {
+    "id": "C1_services_help1rva",
+    "section": "C",
+    "title": "Help1RVA as Richmond's Service Backbone — What Works, What Breaks, What To Build Next",
+    "summary": "Analyzes Help1RVA's role as Richmond's primary public-facing service directory, identifying its strengths (breadth, community verification) and weaknesses (no public API, limited language support, data maintenance lag). Central reference for any service discovery prototype.",
+    "key_terms": ["Help1RVA", "service directory", "findhelp platform", "no public API", "language gaps", "program verification"]
+  },
+  {
+    "id": "C2_services_refugee_ecosystem",
+    "section": "C",
+    "title": "Richmond's Immigrant and Refugee Services: What Works, What's Missing, What to Do Next",
+    "summary": "Surveys the full ecosystem of immigrant and refugee services in Richmond, covering resettlement agencies, health providers, legal aid, employment support, and faith-based organizations. Documents eligibility requirements and intake process details.",
+    "key_terms": ["refugee ecosystem", "resettlement agencies", "health providers", "legal aid", "eligibility requirements", "faith-based"]
+  },
+  {
+    "id": "C3_services_city_social_services",
+    "section": "C",
+    "title": "Richmond Social Services Access for Immigrant and Refugee Residents: What Works Now and What Needs Integration",
+    "summary": "Examines City of Richmond social services available to immigrant and refugee residents, documenting what is accessible without immigration status verification and what integration barriers remain. Covers DSS, RRHA, and related City agencies.",
+    "key_terms": ["city social services", "DSS", "RRHA", "status verification", "integration barriers", "City agencies"]
+  },
+  {
+    "id": "C4_services_gaps",
+    "section": "C",
+    "title": "Closing the Loops: Reducing Fragmentation in Richmond's Immigrant Services",
+    "summary": "Identifies specific gaps and fragmentation points in Richmond's immigrant service ecosystem where residents fall through the cracks. Documents failure patterns at handoff points between agencies and categories of unmet need.",
+    "key_terms": ["service gaps", "fragmentation", "handoff failures", "unmet need", "coordination gaps", "service loops"]
+  },
+  {
+    "id": "C5_services_findhelp_uniteus",
+    "section": "C",
+    "title": "Richmond's Social Care Stack: Making FindHelp, Help1RVA, and Unite Us Work Together",
+    "summary": "Examines the relationship and interoperability between FindHelp, Help1RVA, and Unite Us platforms in Richmond's social care technology stack. Identifies where these platforms complement or conflict and what a prototype can realistically leverage.",
+    "key_terms": ["FindHelp", "Unite Us", "social care stack", "interoperability", "platform relationship", "HIPAA compliance"]
+  },
+  {
+    "id": "D1_data_help1rva",
+    "section": "D",
+    "title": "Help1RVA Data, Fast: A 2–3 Hour Path to a Reliable Immigrant/Refugee Services Dataset",
+    "summary": "Documents that Help1RVA has no public API or bulk data export and recommends a targeted manual extraction sprint as the legally safe path to a curated immigrant/refugee services dataset in 2–3 hours. Identifies key service categories and record counts.",
+    "key_terms": ["Help1RVA data", "no API", "manual extraction", "service categories", "data sprint", "findhelp TOS"]
+  },
+  {
+    "id": "D2_data_community_org_directories",
+    "section": "D",
+    "title": "Fast-Track Sources for a Richmond Immigrant & Refugee Org Directory",
+    "summary": "Surveys publicly accessible directories of immigrant and refugee organizations in Richmond, including VirginiaNavigator, IRC Richmond, and faith-based networks. Provides a fast-track path to a manually assembled org directory for a hackathon prototype.",
+    "key_terms": ["org directory", "VirginiaNavigator", "community directories", "publicly accessible", "org data", "fast-track sources"]
+  },
+  {
+    "id": "D3_data_census_immigrants",
+    "section": "D",
+    "title": "Richmond's Immigrant Landscape 2024: Where, Who, and What to Build Next",
+    "summary": "Provides Census-derived data on Richmond's immigrant population: demographics, geographic distribution, language spoken, and socioeconomic profile. Grounds prototype target-user assumptions in verified public data.",
+    "key_terms": ["census data", "immigrant demographics", "geographic distribution", "LEP population", "ACS", "population data"]
+  },
+  {
+    "id": "D4_data_refugee_resettlement",
+    "section": "D",
+    "title": "Virginia refugee resettlement 2021–2026: Richmond's footprint, services, and data playbook",
+    "summary": "Covers Virginia refugee resettlement program data from 2021–2026, including Richmond's annual arrival numbers, country-of-origin breakdown, and which agencies receive federal resettlement funding. Provides a data playbook for teams building tools around this population.",
+    "key_terms": ["refugee resettlement", "Virginia data", "arrival numbers", "country of origin", "federal funding", "resettlement agencies"]
+  },
+  {
+    "id": "D5_data_quality_gaps",
+    "section": "D",
+    "title": "Turning D3=1 Into Momentum: A standards-first playbook for cross-agency navigation prototypes in 48 hours",
+    "summary": "Directly addresses the D3=1 data readiness problem for cross-agency navigation, providing a standards-first playbook for building useful prototypes despite the absence of shared intake data. Recommends schema-first design and curated stub datasets.",
+    "key_terms": ["D3=1 constraint", "data quality", "schema-first", "stub datasets", "cross-agency standards", "data readiness"]
+  },
+  {
+    "id": "E1_prior_art_immigrant_service_tools",
+    "section": "E",
+    "title": "What Works for Immigrant Service Access — Replicable Patterns for a Richmond Hackathon",
+    "summary": "Surveys national examples of successful immigrant service access tools, extracting patterns replicable in a Richmond hackathon context. Covers anonymous search, multilingual UX, and trusted-messenger distribution models.",
+    "key_terms": ["prior art", "replicable patterns", "anonymous search", "national examples", "immigrant tools", "successful models"]
+  },
+  {
+    "id": "E2_prior_art_multilingual_tools",
+    "section": "E",
+    "title": "Multilingual Civic Tech That Works: Proven Patterns from 311, Chatbots, and City Portals",
+    "summary": "Documents proven multilingual civic tech implementations from 311 systems, chatbots, and city portals. Extracts what makes multilingual tools reliable and identifies common failure patterns in machine translation quality.",
+    "key_terms": ["multilingual tools", "311 systems", "chatbots", "machine translation", "language quality", "civic tech patterns"]
+  },
+  {
+    "id": "E3_prior_art_help1rva_alternatives",
+    "section": "E",
+    "title": "Virginia's Social Care Tech Stack: How to Leverage Unite Us and Close the Interoperability Gap in 2026",
+    "summary": "Examines alternatives and complements to Help1RVA in Virginia's social care tech stack, with focus on how Unite Us is deployed and what interoperability gaps remain. Identifies what can realistically be leveraged without proprietary access.",
+    "key_terms": ["Unite Us", "Virginia social care", "interoperability gap", "Help1RVA alternatives", "tech stack", "2026 landscape"]
+  },
+  {
+    "id": "E4_prior_art_failures",
+    "section": "E",
+    "title": "Trust Lessons from Failure: Avoiding Privacy and Adoption Pitfalls in Immigrant-Serving Tech",
+    "summary": "Documents civic tech failures in immigrant-serving tools, focusing on privacy breaches, adoption failures, and loss of community trust. Provides actionable anti-patterns for hackathon teams.",
+    "key_terms": ["failure modes", "privacy breaches", "adoption failure", "community trust loss", "anti-patterns", "lessons learned"]
+  },
+  {
+    "id": "E5_prior_art_weekend_viable",
+    "section": "E",
+    "title": "Weekend-to-Impact: Proven Hackathon Patterns for Immigrant Service Tools",
+    "summary": "Identifies hackathon project patterns specifically validated for weekend-viability in the immigrant services domain. Covers time-boxing techniques, demo-able scope definitions, and how prior hackathon winning entries were structured.",
+    "key_terms": ["weekend-viable", "hackathon patterns", "demo scope", "time-boxing", "winning patterns", "48-hour build"]
+  },
+  {
+    "id": "F1_opportunities_ranked",
+    "section": "F",
+    "title": "Fastest Path to Impact: Ranking 7 Inclusive Service Access Prototypes for Richmond",
+    "summary": "Ranks 7 prototype opportunities for the Thriving and Inclusive Communities pillar on criteria of speed, safety, and impact. Anonymous-first service finder (Help1RVA-based) and Spanish-first multilingual tool emerge as top weekend-viable options.",
+    "key_terms": ["opportunity ranking", "anonymous service finder", "Spanish-first", "prototype ranking", "OIRE", "weekend impact"]
+  },
+  {
+    "id": "F2_opportunities_service_discovery",
+    "section": "F",
+    "title": "Privacy-First, Bilingual Service Discovery for Richmond's Newcomers",
+    "summary": "Deep-dives on the service discovery opportunity, specifying a privacy-first, bilingual (English/Spanish) service finder built on Help1RVA data. Covers data sourcing, privacy design, and demo path for this specific MVP shape.",
+    "key_terms": ["service discovery", "privacy-first", "bilingual", "English Spanish", "MVP spec", "demo path"]
+  },
+  {
+    "id": "F3_opportunities_cross_agency",
+    "section": "F",
+    "title": "Building Navigation Without Sharing Data — Four MVP Paths That Work Under D3=1",
+    "summary": "Proposes four concrete MVP shapes for cross-agency navigation that work despite the D3=1 data readiness constraint, using curated pathway maps, decision trees, and referral checklists instead of live data integrations.",
+    "key_terms": ["cross-agency navigation", "D3=1 workaround", "pathway maps", "decision trees", "referral checklists", "no live data"]
+  },
+  {
+    "id": "F4_opportunities_where_software",
+    "section": "F",
+    "title": "Software's Edge in Human Services: Where Code Helps—and Where People Matter",
+    "summary": "Analyzes which parts of the immigrant service access problem are genuinely software-shaped vs. relationship-dependent. Helps teams avoid building tools that replace trust relationships and focus code where it reduces friction without substituting for human judgment.",
+    "key_terms": ["software limits", "relationship-dependent", "friction reduction", "human judgment", "where code helps", "tool boundaries"]
+  },
+  {
+    "id": "F5_opportunities_do_not_build",
+    "section": "F",
+    "title": "Safer Civic Tech: Steering Innovation Away from High-Risk Pitfalls",
+    "summary": "Documents solution categories that should not be built for this pillar, with explanations of why each is harmful or infeasible. Covers PII collection systems, eligibility determination tools, and approaches that could endanger vulnerable residents.",
+    "key_terms": ["do not build", "high-risk pitfalls", "PII collection", "eligibility determination", "harmful patterns", "resident safety"]
+  },
+  {
+    "id": "G1_risks_false_safety",
+    "section": "G",
+    "title": "False Comfort Traps: Designing Immigrant-Safe Service Tools That Don't Backfire",
+    "summary": "Identifies ways that service tools can create false sense of safety for immigrant users, such as implying official status, overstating confidentiality, or presenting eligibility certainty. Provides design interventions to prevent false comfort.",
+    "key_terms": ["false safety", "false comfort", "eligibility overstatement", "confidentiality claims", "design guardrails", "backfire risks"]
+  },
+  {
+    "id": "G2_risks_pii_exposure",
+    "section": "G",
+    "title": "Richmond Immigrant Data: Minimizing PII Exposure under HIPAA, Part 2, and ICE Access",
+    "summary": "Covers the legal and ethical framework for minimizing PII exposure in tools used by immigrant and refugee residents, including HIPAA constraints, 42 CFR Part 2 for substance use data, and the risk of ICE subpoenas or data requests.",
+    "key_terms": ["PII exposure", "HIPAA", "42 CFR Part 2", "ICE subpoena", "data minimization", "privacy law"]
+  },
+  {
+    "id": "G3_risks_language_quality",
+    "section": "G",
+    "title": "Preventable Harm: Managing Mistranslation Risks in Multilingual Service Tools",
+    "summary": "Documents how poor translation quality in multilingual civic tools can cause real harm to immigrant users, including missed appointments, incorrect eligibility conclusions, and erosion of trust. Provides quality assurance practices for hackathon teams.",
+    "key_terms": ["mistranslation risk", "language quality", "translation harm", "QA practices", "multilingual safety", "civic translation"]
+  },
+  {
+    "id": "G4_risks_data_walls",
+    "section": "G",
+    "title": "Breaking Virginia's Data Silos: How to Build (and Not Break the Law)",
+    "summary": "Examines Virginia-specific legal constraints on sharing social services data across agencies, including FOIA exemptions, HIPAA restrictions, and data-sharing agreement requirements. Guides teams on what they can build without hitting legal data walls.",
+    "key_terms": ["data silos", "Virginia law", "FOIA exemptions", "data sharing agreements", "legal constraints", "cross-agency data"]
+  },
+  {
+    "id": "G5_risks_guardrails",
+    "section": "G",
+    "title": "Privacy by Design for Trust: Richmond's Immigrant Service Tool Playbook",
+    "summary": "Provides a comprehensive privacy-by-design playbook for tools serving Richmond's immigrant and refugee communities, covering layered consent, audio-visual transparency, zero-data defaults, and ADA accessibility requirements.",
+    "key_terms": ["privacy by design", "layered consent", "zero-PII defaults", "ADA accessibility", "WCAG 2.2", "trust design"]
+  },
+  {
+    "id": "H1_mvp_48hr_framework",
+    "section": "H",
+    "title": "48-Hour Trust-First MVP Playbook for Inclusive Communities",
+    "summary": "Defines the framework for scoping and building an MVP in 48 hours for this pillar, with trust-first principles, zero-PII architecture defaults, feature freeze timing, and resource allocation guidance for hackathon teams.",
+    "key_terms": ["48-hour MVP", "trust-first", "feature freeze", "zero-PII architecture", "resource allocation", "hackathon framework"]
+  },
+  {
+    "id": "H2_mvp_service_discovery",
+    "section": "H",
+    "title": "48-Hour Playbook: Launching a Privacy-First Service Finder That Actually Demos",
+    "summary": "Step-by-step 48-hour playbook for building the privacy-first service discovery MVP, including data preparation, UI requirements, Spanish translation approach, and demo script structure. Covers what must be done by Friday night vs. Saturday.",
+    "key_terms": ["service finder playbook", "48-hour steps", "Friday night prep", "demo script", "Spanish translation", "privacy-first UX"]
+  },
+  {
+    "id": "H3_mvp_cross_agency",
+    "section": "H",
+    "title": "Building a Honest-Value Navigator MVP in Richmond Without PHI",
+    "summary": "Defines the cross-agency navigation MVP scope that avoids protected health information (PHI) while still demonstrating meaningful value. Covers curated pathway mockups, referral checklists, and honest framing for what the tool can and cannot do.",
+    "key_terms": ["cross-agency MVP", "no PHI", "pathway mockups", "referral checklists", "honest framing", "scope boundaries"]
+  },
+  {
+    "id": "H4_mvp_language_access",
+    "section": "H",
+    "title": "48-Hour Multilingual MVP: Ship Spanish You Can Trust",
+    "summary": "Provides a focused playbook for building a Spanish-language MVP component that meets quality standards a team can stand behind. Covers human review processes, machine translation guardrails, and how to frame language quality honestly in the demo.",
+    "key_terms": ["multilingual MVP", "Spanish quality", "human review", "machine translation limits", "language honesty", "translation guardrails"]
+  },
+  {
+    "id": "H5_mvp_scope_boundaries",
+    "section": "H",
+    "title": "Sunday-Ready MVP: Ruthless Scope Cuts with a Credible Demo",
+    "summary": "Defines the minimum Sunday-ready scope for each viable MVP shape, with explicit cut lists and rationale. Helps teams resist scope creep and maintain a credible, demonstrable product by the end of the hackathon.",
+    "key_terms": ["scope cuts", "Sunday-ready", "cut list", "scope creep", "minimum viable demo", "credible product"]
+  },
+  {
+    "id": "I1_demo_archetypes",
+    "section": "I",
+    "title": "Demo Archetypes That Win Trust and Impact for RVA I1",
+    "summary": "Defines four demo archetypes for Thriving and Inclusive Communities projects that score well with civic hackathon judges, focusing on trust signals, user story framing, and evidence of real community need.",
+    "key_terms": ["demo archetypes", "judge criteria", "trust signals", "user story framing", "community need", "civic hackathon"]
+  },
+  {
+    "id": "I2_demo_service_discovery_pitch",
+    "section": "I",
+    "title": "Designing a trust-first, 4-minute demo for Richmond's privacy-safe service finder",
+    "summary": "Provides a fully scripted 4-minute demo narrative for the privacy-first service discovery prototype, including how to show the anonymous search flow, bilingual toggle, and privacy messaging to a judge audience.",
+    "key_terms": ["demo script", "4-minute demo", "anonymous search demo", "bilingual toggle", "privacy messaging", "service finder pitch"]
+  },
+  {
+    "id": "I3_demo_cross_agency_pitch",
+    "section": "I",
+    "title": "From 3 Hours to 30 Minutes — A Credible Cross-Agency Demo with D3=1",
+    "summary": "Provides a demo pitch strategy for cross-agency navigation MVP that honestly addresses the D3=1 data constraint while demonstrating the value of the schema and pathway approach. Shows how to turn a data limitation into a credible continuation story.",
+    "key_terms": ["cross-agency demo", "D3=1 framing", "demo honesty", "continuation story", "data limitation", "pitch strategy"]
+  },
+  {
+    "id": "I4_demo_credibility",
+    "section": "I",
+    "title": "Five-Minute Trust: Rapid Signals that Win Civic-Tech Judges",
+    "summary": "Identifies the specific credibility signals that civic hackathon judges respond to in the first five minutes of a demo, including source citation, privacy transparency, user grounding, and realistic scope acknowledgment.",
+    "key_terms": ["credibility signals", "judge response", "source citation", "privacy transparency", "realistic scope", "five-minute trust"]
+  },
+  {
+    "id": "I5_demo_framing",
+    "section": "I",
+    "title": "Trust-First Demo Framing for Richmond Resource Navigation",
+    "summary": "Provides framing language and narrative structures for demo presentations that emphasize trust-first design principles, appropriate humility about prototype limitations, and clear articulation of community benefit.",
+    "key_terms": ["demo framing", "trust-first narrative", "prototype humility", "community benefit", "framing language", "presentation structure"]
+  }
+]

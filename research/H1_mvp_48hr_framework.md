@@ -1,3 +1,27 @@
+---
+title: "48-Hour Trust-First MVP Playbook for Inclusive Communities"
+pillar: thriving-inclusive-communities
+section: H
+problem_statement: general
+tags:
+  - 48-hour MVP
+  - trust-first
+  - feature freeze
+  - zero-PII architecture
+  - resource allocation
+  - hackathon framework
+summary: "Defines the framework for scoping and building an MVP in 48 hours for this pillar, with trust-first principles, zero-PII architecture defaults, feature freeze timing, and resource allocation guidance."
+geography: Richmond, VA
+source: perplexity-sonar-deep-research
+status: raw
+privacy_sensitivity: high
+related_reports:
+  - H2_mvp_service_discovery
+  - H3_mvp_cross_agency
+  - H5_mvp_scope_boundaries
+  - F1_opportunities_ranked
+---
+
 # 48-Hour Trust-First MVP Playbook for Inclusive Communities
 
 ## Executive Summary
