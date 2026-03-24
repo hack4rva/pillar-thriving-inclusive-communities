@@ -1,0 +1,10 @@
+{
+  "_comment": "Copy to validation_rules.json and adjust regexes for conflict checks.",
+  "fact_patterns": [
+    {
+      "key": "language_count",
+      "regex": "(?i)(languages?\s+supported|translation\s+coverage)[:\- ]+(?P<val>\d+)"
+    }
+  ]
+}
+
