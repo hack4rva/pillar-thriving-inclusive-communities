@@ -18,8 +18,56 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 ---
 
+## The Challenge
+
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, and exactly how judges will score your solution.
+
+### Problem 1: Help Residents Safely Discover and Connect to Trusted Support Services — 24/32 — Strong ★ Recommended starting point
+
+> How might we help immigrant and refugee residents in Richmond safely discover and connect to trusted support services despite privacy concerns, language barriers, and uncertainty about which organizations to trust?
+
+Build toward: Privacy-first service finder (no login, no PII) · Multilingual resource tool (Spanish, Arabic, Nepali, Burmese) · Trusted community messenger system via WhatsApp/SMS · Help1RVA interface improvement with multilingual support
+
+⚠ Must never require account creation or personal information. Must work through channels residents actually use — not just a web app. Privacy is not a feature here; it is the baseline.
+
+---
+
+### Problem 2: Helping Residents Navigate Support Services Without Repeating Their Story — 22/32 — Needs work
+
+> How might we help residents seeking housing, workforce, or reentry services navigate across multiple agencies without having to repeat their story to every provider?
+
+Build toward: Service pathway visualization (staff-facing, built from public info) · Staff coordination helper · Eligibility navigator (no PII) · Cross-agency pathway explainer for staff and residents
+
+🚨 **D3=1 — no cross-agency dataset exists.** All personal resident data, internal agency data, and HIPAA-covered data are out of scope. Demo will be conceptual for cross-agency elements. Build around this constraint, not through it.
+
+---
+
+### Top Blue Sky: Universal Access to City Services — 21/27 — Strong
+
+> Every City service has a multilingual, plain-language front door that works on a phone, requires no digital literacy, and meets residents where they are.
+
+Build the multilingual access layer: service finder in 2–4 languages, designed for low digital literacy, distributable via QR code and SMS. Problem 1 is the practical floor; this vision is the ceiling.
+
+---
+
+### Pillar Award Rubric
+
+| Category | Weight | Dominant question |
+|----------|--------|-------------------|
+| **Impact** | **5** | Does this directly address one of the two problems above? |
+| User Value | 4 | Does the prototype meaningfully improve a resident's ability to find or access services? |
+| Feasibility | 3 | Could this be piloted by Help1RVA, a nonprofit, or a City partner within a year? |
+| Innovation | 3 | Fresh thinking on service discovery, navigation, or trust-building? |
+| Execution | 3 | Does a working demo exist? Is the flow coherent? |
+| Equity | 3 | Does it prioritize the safety and dignity of vulnerable community members? Does it work in multiple languages? |
+
+Full rubric with scoring anchors and judge instructions: [`../RUBRIC.md`](../RUBRIC.md)
+
+---
+
 ## Table of Contents
 
+0. [The Challenge](#the-challenge)
 1. Quick Start
 2. Repo Map
 3. Guardrails
@@ -41,7 +89,8 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 Do these first 15–30 minutes to get moving:
 
-1) Read: `QUICKSTART.md`
+1) Read: `CHALLENGE.md` — the two problems, top blue sky, and rubric (start here, not QUICKSTART.md)
+2) Read: `QUICKSTART.md`
 2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`
 3) Capture a 5-bullet "Working Direction" using `99_templates/working_direction_note.md`
 4) Decide your path:

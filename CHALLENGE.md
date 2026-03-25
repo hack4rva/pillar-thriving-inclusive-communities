@@ -1,0 +1,115 @@
+# Thriving and Inclusive Communities — Hackathon Challenge
+
+This file defines the two practical problem statements for this pillar and the top-rated blue sky vision. Read this before reading anything else in the repository.
+
+---
+
+## The Two Problems You're Solving
+
+### Problem 1: Help Residents Safely Discover and Connect to Trusted Support Services
+
+**Score: 24/32 — Strong (recommended starting point)**
+
+**Statement:**
+While Richmond has a growing network of City programs, nonprofits, and community-based organizations that provide support to immigrant and refugee residents, many residents struggle to safely discover and connect to these services. Concerns about privacy, language barriers, and uncertainty about which organizations can be trusted often prevent residents from seeking help.
+
+**Why this problem matters:**
+Support services exist but are invisible or inaccessible to many of the residents who need them most. Help1RVA connects residents to services but requires navigation friction. Service information across Help1RVA, FindHelp/Aunt Bertha, and individual organization websites is not synchronized. Information quality varies and updates lag. The result: residents in crisis don't find help before they give up.
+
+**Build toward:**
+- Privacy-first service finder — no login, no PII collected, anonymous browsing by service type
+- Multilingual resource tool — Spanish, Arabic, Nepali, Burmese priority languages
+- Trusted community messenger system — WhatsApp/SMS distribution through community ambassador organizations
+- Help1RVA interface improvement — multilingual, voice-friendly, simpler navigation layer
+- QR-code printable resource guide for distribution through faith organizations, schools, and clinics
+
+**Key constraints:**
+- Privacy is not optional — must not require account creation or personal information from residents
+- Must work with existing nonprofit and community-based support networks — do not replace them
+- Service information must be updatable by community organizations without technical expertise
+- Must function through channels residents actually use — not just a web app
+- Must not expose any information that could put residents at enforcement risk
+
+**Data gaps to address:**
+- Help1RVA export not currently public — confirm what is available before building on it
+- Priority languages confirmed as likely (Spanish, Arabic, Nepali, Burmese) but not formally verified — confirm with a community partner
+- Which organizations are willing to serve as trusted intermediaries is not yet documented
+- WhatsApp/SMS/Facebook vs. web usage patterns for target populations are undocumented
+
+---
+
+### Problem 2: Helping Residents Navigate the Right Support Services Without Repeating Their Story
+
+**Score: 22/32 — Needs work**
+**⚠ Critical data gap: D3=1 — no cross-agency dataset exists. Teams must work with public information only and accept that the demo will be conceptual for cross-agency elements.**
+
+**Statement:**
+Residents seeking housing stability, workforce support, or reentry services often need assistance from multiple City departments and partner organizations. However, information about programs is spread across different agencies, eligibility requirements are complex, and residents frequently have to repeat their story to multiple providers.
+
+**Why this problem matters:**
+Residents navigating housing, workforce development, or reentry services interact with Social Services, Housing, workforce programs, and nonprofits — all operating on different systems. Each touchpoint may require re-explaining the same circumstances, which is exhausting and can be retraumatizing. The gap is not in whether services exist — it's in whether residents can navigate to them without breaking down in the process.
+
+**Build toward:**
+- Service pathway visualization — a staff-facing map of how a resident moves between services (conceptual, built from public service descriptions)
+- Staff coordination helper — helps case managers at one organization understand what a resident may need from another, without sharing personal resident data
+- Eligibility navigator — given a resident's general situation (no PII), surfaces relevant programs and the order to approach them
+- Pathway explainer tool — plain-language breakdown of the housing/workforce/reentry service ecosystem for both residents and intake staff
+
+**Key constraints:**
+- HIPAA and PII rules are real blocking constraints — do not collect, store, or display individual resident data
+- Cross-agency data sharing is severely limited by policy — do not build on assumptions of data access that doesn't exist
+- Must support, not replace, human case managers and community trust relationships
+- Demo must be honest about what is conceptual vs. what is data-driven
+
+**What you cannot build this weekend:**
+- A tool that requires cross-agency intake data or shared case records
+- A system that integrates with Social Services, Housing, or workforce program internal databases
+- Anything that makes eligibility rulings or case management decisions
+
+**How to build credibly despite the data constraints:**
+- Use publicly available service descriptions from Help1RVA, organization websites, and City program pages
+- Build the staff-facing pathway visualization using published program information only
+- State clearly in the demo which parts are populated with real data vs. illustrative content
+
+---
+
+## The Blue Sky Vision
+
+### Universal Access to City Services — 21/27 — Strong ★
+
+**Statement:**
+Every City service has a multilingual, plain-language front door that works on a phone, requires no digital literacy, and meets residents where they are — in their language and through their trusted community organizations.
+
+**Why this scored well:**
+The gap between "services exist" and "residents can access them" is primarily a language, literacy, and trust problem — not a supply problem. This blue sky has high hackathon relevance because a multilingual service finder or resource tool is a direct prototype of this vision. The technical barrier is low; the content and community trust work are the actual challenge.
+
+**Hackathon path if you're aiming at this vision:**
+Build the multilingual access component of this vision:
+- A service finder in 2–4 languages (Spanish at minimum)
+- Designed for low digital literacy — large tap targets, plain language, minimal navigation
+- Distributable through community channels (QR code, SMS link, WhatsApp share button)
+
+The blue sky is the ceiling. Problem 1 (Safe Service Discovery) is the practical floor. A team that builds Problem 1 with this blue sky framing — multilingual, privacy-first, channel-flexible — will have a compelling pitch for both the Pillar Award and the Moonshot Award.
+
+---
+
+## How Your Solution Will Be Judged (Pillar Award)
+
+The Pillar Award uses the following weights. For full category definitions and scoring anchors, see [`/RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
+
+| Category | Weight | What judges are asking |
+|----------|--------|------------------------|
+| **Impact** | **5** | Does this directly address one of the two problem statements above? |
+| **User Value** | 4 | Is there a specific, real user? Does the prototype meaningfully improve their ability to find or access services? |
+| **Feasibility** | 3 | Could this be piloted by Help1RVA, a nonprofit, or a City partner within a year? |
+| **Innovation** | 3 | Does the team bring fresh thinking to service discovery, navigation, or trust-building? |
+| **Execution** | 3 | Does a working demo exist? Is the flow coherent? |
+| **Equity** | 3 | Does the solution prioritize the safety and dignity of vulnerable community members? Does it work in multiple languages? |
+
+**Score formula:** Sum of (category score 1–5 × weight). Maximum 105.
+
+**Tiebreaker:** User Value score.
+
+**What wins here:** A prototype that makes trusted services findable or navigable for immigrant and refugee residents, built with privacy-first design and real multilingual consideration.
+
+**What loses here:** Tools that require resident account creation, solutions collecting or storing immigration status or health data, or projects that expose residents to enforcement risk if data were accessed.
