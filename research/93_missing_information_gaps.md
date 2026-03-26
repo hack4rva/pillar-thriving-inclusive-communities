@@ -36,11 +36,15 @@ Instead of waiting for perfect datasets, teams must make strategic assumptions t
 
 ## Gap 3: Communication Channel Usage Patterns
 
-**Current state:** Research confirms that information penetrates immigrant communities best when delivered by trusted messengers rather than traditional government spokespeople [8]. A New America pilot successfully utilized transcreators to produce concise, culturally relevant videos about health concerns in multiple languages, specifically optimizing them for Facebook, WhatsApp, and YouTube to engage users with limited time or literacy [8]. Locally, VDH Community Conversations emphasize the need for direct outreach at trusted locations like faith-based centers, community centers, and schools, alongside digital access via social media [9].
+> **STATUS: GAP CLOSED — 2026-03-26**
+> Confirmed by Karla Almendarez-Ramos, Manager OIRE, City of Richmond NCS.
+> **Confirmed channels:** Facebook (primary, groups), WhatsApp (direct/group messaging), Instagram (younger audiences), YouTube (video content), in-person networks and word of mouth via associations, local radio stations.
 
-**Can research fill it?** Partially. National models exist, but local validation is needed through rapid testing.
+**Current state:** OIRE has directly confirmed community channel usage. This aligns with and validates prior research. Facebook groups and WhatsApp are the primary digital channels. Local radio reaches residents with limited digital access. In-person trust networks remain the most reliable channel for hard-to-reach populations.
 
-**Pre-demo assumption:** Adopt a WhatsApp, Facebook, and YouTube-first strategy. Produce 30–60 second vertical videos per language featuring community messengers (e.g., doctors, faith leaders, community organizers). Seed these on WhatsApp and Facebook, mirror them on YouTube, and measure engagement.
+**Can research fill it?** Yes — now confirmed from the authoritative local source.
+
+**Pre-demo assumption (updated):** Use Facebook groups and WhatsApp as primary distribution channels. Radio and in-person outreach matter for older residents and those with limited digital access. Instagram content is appropriate for younger community members. All channels should be seeded via trusted community messengers, not government accounts.
 
 ### Channel and Messenger Hypotheses
 
@@ -52,6 +56,16 @@ Instead of waiting for perfect datasets, teams must make strategic assumptions t
 | Portuguese | WhatsApp, Facebook groups | Church leaders, community organizers | Video + event flyers |
 
 *Takeaway: Content format must be tailored to the channel, prioritizing highly shareable, low-literacy-friendly media distributed by established community figures.*
+
+## Gap 3b: Trusted Community Organization List
+
+> **STATUS: GAP CLOSED — 2026-03-26**
+> Provided by Karla Almendarez-Ramos, Manager OIRE, City of Richmond NCS.
+> See **research/D2_data_community_org_directories.md** for the full verified list.
+
+15 organizations confirmed, including IRC, ReEstablish Richmond, Sacred Heart Center, Afghan Association of Virginia, African Community Network, and others spanning Latino, Afghan, African, Asian, Eastern European, and Salvadorian communities. Also includes a multicultural church database (Google Maps) and Help1RVA + 211 Virginia as recommended service directory platforms.
+
+---
 
 ## Gap 4: Organizations Serving Undocumented Residents
 

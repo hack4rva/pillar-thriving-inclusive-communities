@@ -10,12 +10,12 @@ This pillar faces significant data constraints. The most important data gap is t
 ## Available Data Sources
 
 ### 1. Help1RVA Service Directory
-- URL: https://help1rva.com
-- Description: Richmond's community resource directory connecting residents to nonprofit and City services
-- Format: Web interface; API or export availability unclear — needs verification
+- URL: https://help1rva.org (search example: https://help1rva.org/housing/help-find-housing--richmond-va?postal=23223)
+- Description: Richmond's community resource directory connecting residents to nonprofit and City services; powered by the findhelp platform, stewarded locally by the YMCA of Greater Richmond
+- Format: Web interface; no public API or bulk export — manual extraction recommended for hackathon use (see D1_data_help1rva.md for extraction guide)
 - Access: Public browsing; no account required to search
-- Key fields: Organization name, service type, address, phone, languages served, hours
-- Limitations: Manual data entry; information quality varies; not always current
+- Key fields: Organization name, service type, address, phone, languages served, hours, eligibility, last reviewed date
+- Limitations: No API; scraping likely violates TOS; manual extraction of 20–30 records is feasible in 2–3 hours
 - Privacy note: Safe to use for building a service directory front-end
 - Priority: High — this is the primary service data source for this pillar
 
@@ -30,8 +30,8 @@ This pillar faces significant data constraints. The most important data gap is t
 - Priority: Medium — useful as supplementary service data
 
 ### 3. Virginia 211
-- URL: https://www.211virginia.org
-- Description: Statewide helpline and online service directory; covers Richmond area
+- URL: https://search.211virginia.org/
+- Description: Statewide helpline and online service directory; covers Richmond area; recommended by OIRE as a comparison platform alongside Help1RVA
 - Format: Web search; some exportable data through the national 211 network
 - Access: Public
 - Key fields: Service categories, provider names, contact information, geographic coverage
@@ -72,12 +72,12 @@ This pillar faces significant data constraints. The most important data gap is t
 - Privacy note: Public infrastructure data — no privacy concerns
 - Priority: Low-medium — relevant if building a service access map with transit overlay
 
-### 8. Community Organization Directories (Manual Compilation Needed)
-- Sources: Individual organization websites, United Way Richmond partner directory, Richmond Community Foundation grantee list
-- Description: No single authoritative directory of trusted community organizations serving immigrant and refugee residents exists — this must be manually compiled
-- Format: Would require team-created spreadsheet or YAML
-- Priority: High for any trusted messenger or community connector tool
-- Note: This is a known gap identified in the rubric materials
+### 8. Trusted Community Organization Directory (OIRE-Verified)
+- Source: Karla Almendarez-Ramos, Manager, Office of Immigrant and Refugee Engagement (OIRE), City of Richmond NCS — provided 2026-03-26
+- Description: OIRE-verified list of 15 trusted intermediary organizations serving immigrant and refugee residents in Richmond, including refugee resettlement agencies, cultural associations, and community nonprofits. Also includes a multicultural church map and confirmed communication channel usage patterns.
+- Format: See research/D2_data_community_org_directories.md for full list; multicultural church map available at https://www.google.com/maps/d/u/0/viewer?mid=1tjvSZB1TouFEa2gXxpd7f1Uv-N4
+- Priority: High — use as the authoritative starting list for trusted messenger and community connector tools
+- Note: This gap is now filled. Teams no longer need to compile this from scratch.
 
 ---
 
@@ -86,9 +86,10 @@ This pillar faces significant data constraints. The most important data gap is t
 | Gap | Impact | Notes |
 |-----|--------|-------|
 | Cross-agency referral pathway map | Blocks Statement 2 entirely | No dataset exists; must conceptualize without data |
-| Help1RVA structured export | Limits service directory tools | May require manual scraping or API negotiation |
-| Priority languages served by organization | Limits multilingual features | Anecdotally: Spanish, Arabic, Nepali, Burmese |
-| Communication channel usage patterns | Limits messenger tool design | WhatsApp likely dominant but unverified |
+| Help1RVA structured export | Limits service directory tools | No API; manual extraction of 20–30 records feasible (see D1_data_help1rva.md) |
+| Priority languages served by organization | Limits multilingual features | Spanish, Arabic, Dari, Pashto, Portuguese — confirmed by VDH/Bon Secours data |
+| Communication channel usage patterns | ~~Gap closed~~ | **Confirmed by OIRE (2026-03-26):** Facebook (primary), WhatsApp, Instagram (younger), YouTube, in-person networks, local radio |
+| Trusted community org list | ~~Gap closed~~ | **Filled by OIRE (2026-03-26):** 15 verified orgs in D2_data_community_org_directories.md |
 | Anonymized intake data showing resident journeys | Blocks data-driven navigation tool | HIPAA wall; not available for hackathon |
 
 ---
