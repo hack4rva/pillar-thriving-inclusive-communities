@@ -30,11 +30,10 @@ Help1RVA (help1rva.com) currently connects Richmond residents to community servi
 - Tool can be updated without requiring significant technical expertise
 
 ### Gaps to close
-- Help1RVA export or snapshot showing services relevant to immigrant and refugee residents (not currently public)
-- List of trusted community organizations with languages served (partial — organizations known but not systematically documented)
-- Documentation of which communication channels residents actually use (WhatsApp groups, SMS chains, Facebook, faith organization bulletins)
-- Priority languages: Spanish, Arabic, Nepali, Burmese likely — but not formally specified in rubric materials
-- Confirmation of which organizations are willing to serve as trusted information intermediaries
+- Help1RVA export not currently public — treat as a closed FindHelp instance; use public print views for schema reference. Note: 211 Virginia has a public developer API (apiportal.211.org, free trial) with 240+ language live interpretation — a more accessible alternative data source.
+- **CLOSED (2026-03-26):** 15 trusted community organizations confirmed by Karla Almendarez-Ramos, OIRE, City of Richmond NCS — includes IRC, ReEstablish Richmond, Sacred Heart Center, Afghan Association of Virginia, African Community Network, and others spanning Latino, Afghan, African, Asian, Eastern European, and Salvadoran communities. See `research/D2_data_community_org_directories.md`.
+- **CLOSED (2026-03-26):** Communication channels confirmed by OIRE. Primary digital channels: Facebook groups and WhatsApp. Also: Instagram (younger audiences), YouTube, in-person networks and word of mouth, local radio. See `research/D6_data_communication_channels.md`.
+- Priority languages updated and confirmed: **Spanish, Arabic, Dari, Pashto, and Portuguese** (Bon Secours CHNA + 2025 VDH survey). Note: Dari and Pashto have very low local staff capacity (8.3% and 0%); pair language access with navigator backstops. Nepali and Burmese are not confirmed as primary priorities for this community.
 
 ### Hackathon approach
 This problem is the stronger starting point. The service discovery gap is well-documented, public service directory data exists (though export format is uncertain), and the user need is clear. A privacy-first service finder or multilingual resource tool is directly buildable.

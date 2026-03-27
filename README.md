@@ -26,7 +26,7 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 > How might we help immigrant and refugee residents in Richmond safely discover and connect to trusted support services despite privacy concerns, language barriers, and uncertainty about which organizations to trust?
 
-Build toward: Privacy-first service finder (no login, no PII) · Multilingual resource tool (Spanish, Arabic, Nepali, Burmese) · Trusted community messenger system via WhatsApp/SMS · Help1RVA interface improvement with multilingual support
+Build toward: Privacy-first service finder (no login, no PII) · Multilingual resource tool (Spanish, Arabic, Dari, Pashto, Portuguese — confirmed) · Trusted community messenger via Facebook groups and WhatsApp (confirmed channels) · Help1RVA or 211 Virginia API interface improvement with multilingual support
 
 ⚠ Must never require account creation or personal information. Must work through channels residents actually use — not just a web app. Privacy is not a feature here; it is the baseline.
 
@@ -369,6 +369,6 @@ Prioritized Actions Before March 27, 2026
 2) Name departmental champion: Kate Ayers or Helen Rai (ReEstablish Richmond), Will Thornton or Sidney Edwards (YMCA), or Karla Almendarez-Ramos or Aneesah Smith (NCS)
 3) Reference Help1RVA directly in Immigrant Service Discovery statement
 4) Map the cross-agency referral pathway
-5) Document communication channels and priority languages (Spanish, Arabic, Nepali, Burmese likely)
+5) ~~Document communication channels and priority languages~~ **CLOSED (2026-03-26):** Channels confirmed by OIRE; priority languages confirmed as Spanish, Arabic, Dari, Pashto, Portuguese
 
 </details>

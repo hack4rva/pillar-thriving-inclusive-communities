@@ -39,7 +39,7 @@ Add Spanish language toggle for all category labels and organization description
 **Strong. Addresses Statement 1. Best for teams with multilingual capacity.**
 
 ### Problem addressed
-Language is the most immediate barrier for many immigrant and refugee residents. A service finder that works in Spanish, Arabic, Nepali, or Burmese is dramatically more useful than an English-only tool.
+Language is the most immediate barrier for many immigrant and refugee residents. A service finder that works in Spanish, Arabic, Dari, Pashto, or Portuguese is dramatically more useful than an English-only tool. (Confirmed priority languages per Bon Secours CHNA + 2025 VDH survey.)
 
 ### What it is
 A service browsing tool (similar to Concept 1) but with multilingual labels, category names, and at minimum Spanish-language service descriptions. Voice-friendly: all text can be read aloud by a screen reader or TTS component.
@@ -62,7 +62,7 @@ User selects "Español" on landing page. All category labels and instructions ap
 - Audio/TTS adds implementation complexity
 
 ### Stretch goal
-Add Arabic or Burmese support for at least the landing page and top-level categories.
+Add Arabic or Dari support for at least the landing page and top-level categories. (Arabic has moderate local staff capacity; Dari/Pashto require navigator backstops.)
 
 ---
 

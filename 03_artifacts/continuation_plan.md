@@ -36,7 +36,7 @@ Teams should attempt to connect with one of these organizations during the hacka
 
 ### Concept 2 — Multilingual Help Resource Tool
 **30 days**: Complete Spanish translation with human review. Deploy to a live URL.
-**60 days**: Add Arabic or Nepali support for top categories. Test with community members through a trusted organization.
+**60 days**: Add Arabic or Dari support for top categories. Test with community members through a trusted organization. (Nepali is not a confirmed priority language; see research/D6_data_communication_channels.md.)
 **90 days**: Identify a multilingual community organization to co-maintain content.
 **Long-term home**: A multilingual community organization or Help1RVA with a multilingual content strategy.
 

@@ -43,7 +43,7 @@ Go to https://www.211virginia.org and run the same searches. Note any organizati
 
 ## Step 3: Add language capacity flags
 
-Help1RVA often lists whether an organization serves Spanish speakers. For other languages (Arabic, Nepali, Burmese), you will need to check organization websites directly or call.
+Help1RVA often lists whether an organization serves Spanish speakers. For other confirmed priority languages (Arabic, Dari, Pashto, Portuguese), check organization websites directly or use the 211 Virginia API (apiportal.211.org), which supports 240+ language live interpretation via LanguageLine.
 
 During the hackathon, if you cannot verify language capacity, mark the field as "unverified" in your data rather than leaving it blank or guessing.
 

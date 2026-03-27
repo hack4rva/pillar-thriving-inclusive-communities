@@ -18,9 +18,9 @@ Support services exist but are invisible or inaccessible to many of the resident
 
 **Build toward:**
 - Privacy-first service finder — no login, no PII collected, anonymous browsing by service type
-- Multilingual resource tool — Spanish, Arabic, Nepali, Burmese priority languages
-- Trusted community messenger system — WhatsApp/SMS distribution through community ambassador organizations
-- Help1RVA interface improvement — multilingual, voice-friendly, simpler navigation layer
+- Multilingual resource tool — Spanish, Arabic, Dari, Pashto, and Portuguese are the confirmed priority languages
+- Trusted community messenger system — Facebook groups and WhatsApp are the confirmed primary channels; distribute through community ambassador organizations
+- Help1RVA interface improvement — multilingual, voice-friendly, simpler navigation layer; 211 Virginia API (apiportal.211.org) is an alternative data source with free trial access and 240+ language live interpretation
 - QR-code printable resource guide for distribution through faith organizations, schools, and clinics
 
 **Key constraints:**
@@ -31,10 +31,10 @@ Support services exist but are invisible or inaccessible to many of the resident
 - Must not expose any information that could put residents at enforcement risk
 
 **Data gaps to address:**
-- Help1RVA export not currently public — confirm what is available before building on it
-- Priority languages confirmed as likely (Spanish, Arabic, Nepali, Burmese) but not formally verified — confirm with a community partner
-- Which organizations are willing to serve as trusted intermediaries is not yet documented
-- WhatsApp/SMS/Facebook vs. web usage patterns for target populations are undocumented
+- Help1RVA export not currently public — treat as a closed FindHelp instance; use public print views for schema reference. 211 Virginia has a public developer API (apiportal.211.org, free trial) with 240+ language live interpretation — consider it as your primary accessible data source.
+- Priority languages confirmed: **Spanish, Arabic, Dari, Pashto, and Portuguese** (Bon Secours CHNA + 2025 VDH survey). Dari and Pashto have very low local staff capacity (8.3% and 0% of organizations have speakers); pair any language UI with navigator backstops.
+- Trusted organizations: **CLOSED (2026-03-26)** — 15 organizations confirmed by Karla Almendarez-Ramos, OIRE, NCS — includes IRC, ReEstablish Richmond, Sacred Heart Center, Afghan Association of Virginia, African Community Network, and others. See `research/D2_data_community_org_directories.md`.
+- Communication channels: **CLOSED (2026-03-26)** — confirmed by OIRE. Primary: Facebook groups and WhatsApp. Also: Instagram (younger audiences), YouTube, in-person networks, and local radio. See `research/D6_data_communication_channels.md`.
 
 ---
 

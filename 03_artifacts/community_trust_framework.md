@@ -55,7 +55,7 @@ This framework is the defining constraint for Pillar 5. Every design decision sh
 
 ## Principle 4: Cultural and Language Adaptation, Not Translation
 
-**What this means**: Translating English text into Spanish (or Arabic, or Nepali) using machine translation is not sufficient and can be actively harmful. Language access requires understanding cultural context, not just converting words.
+**What this means**: Translating English text into Spanish (or Arabic, or Dari) using machine translation is not sufficient and can be actively harmful. Language access requires understanding cultural context, not just converting words.
 
 **In practice**:
 - Use human translators or community reviewers for any translated content in the final tool
@@ -66,7 +66,7 @@ This framework is the defining constraint for Pillar 5. Every design decision sh
 
 **What to avoid**:
 - Running service descriptions through Google Translate without review
-- Assuming that Spanish translation covers all immigrant populations (Arabic, Nepali, Burmese are also significant in Richmond)
+- Assuming that Spanish translation covers all immigrant populations (Arabic, Dari, Pashto, and Portuguese are also confirmed priority languages for Richmond's immigrant communities)
 - Using language that assumes familiarity with US systems (e.g., "SNAP", "HUD", "TANF" without explanation)
 
 ---

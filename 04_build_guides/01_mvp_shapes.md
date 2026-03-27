@@ -61,7 +61,7 @@ User selects "Español" on landing. All navigation and service descriptions appe
 
 ### Scope boundaries
 - IN: language toggle (English + Spanish minimum), translated category labels, top 10–15 organizations with Spanish descriptions
-- OUT: full translation of all content, Arabic/Burmese/Nepali in MVP (stretch goal), voice interface
+- OUT: full translation of all content, Dari/Pashto/Portuguese in MVP (stretch goal — confirmed priorities but low local staff capacity), voice interface
 
 ### Privacy checklist
 Same as Shape A.
