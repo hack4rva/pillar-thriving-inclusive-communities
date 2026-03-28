@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # MVP Shapes - Thriving and Inclusive Communities
 
 Five buildable shapes for this pillar. Each shape addresses specific friction points from the user journeys. Choose the one that best matches your team's skills and the problem you want to solve.

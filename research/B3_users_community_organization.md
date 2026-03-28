@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Bridging Trust at Scale: Empowering Community Intermediaries for Immigrant Service Access (Richmond-focused)
 
 ## Executive Summary

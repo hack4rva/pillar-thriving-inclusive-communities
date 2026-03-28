@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Immigrant Data: Minimizing PII Exposure under HIPAA, Part 2, and ICE Access
 
 ## Executive Summary

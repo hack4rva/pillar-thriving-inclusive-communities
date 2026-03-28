@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 
 # Verified (Census Reporter; IRC Richmond): From Arrival to Access: How Richmond's Immigrants Navigate Services and Where They Get Stuck
 

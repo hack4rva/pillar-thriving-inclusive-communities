@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # B1 Users: Immigrants, Refugees, and Residents
 *An overview of classification, eligibility, health-surveillance, and documentation for B-1 class of admission (temporary business visitors) and related immigration categories.*
 

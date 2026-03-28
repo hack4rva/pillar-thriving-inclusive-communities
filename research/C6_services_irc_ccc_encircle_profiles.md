@@ -23,6 +23,8 @@ related_reports:
   - D1_data_help1rva
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # IRC Richmond, Commonwealth Catholic Charities, and enCircle — 2026 Profiles
 
 *Research: Parallel.ai deep research, 2026-03-26. Verify status directly before using in demos or referrals.*

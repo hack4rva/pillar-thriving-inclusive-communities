@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Service Discovery Opportunities for F2 – 2026 Outlook
 
 *Prepared for the F2 Product Strategy Team* 

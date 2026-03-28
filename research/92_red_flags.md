@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Red Flags Playbook for Immigrant-Service Tools in Richmond
 
 ## Executive Summary

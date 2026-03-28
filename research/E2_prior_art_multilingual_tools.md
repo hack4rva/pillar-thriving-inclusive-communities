@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Multilingual Civic Tech That Works: Proven Patterns from 311, Chatbots, and City Portals
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # What Works for Immigrant Service Access — Replicable Patterns for a Richmond Hackathon
 
 ## Executive Summary

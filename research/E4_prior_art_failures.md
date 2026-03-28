@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Trust Lessons from Failure: Avoiding Privacy and Adoption Pitfalls in Immigrant-Serving Tech
 
 ## Executive Summary

@@ -21,6 +21,8 @@ related_reports:
   - D5_data_quality_gaps
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Help1RVA Data, Fast: A 2–3 Hour Path to a Reliable Immigrant/Refugee Services Dataset
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # False Sense of Safety in AI Governance: Hidden Risks, Real-World Failures, and Action-Ready Mitigations
 
 ## Executive Summary

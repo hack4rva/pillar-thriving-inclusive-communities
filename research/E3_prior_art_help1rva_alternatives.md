@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Virginia's Social Care Tech Stack: How to Leverage Unite Us and Close the Interoperability Gap in 2026
 
 ## Executive Summary

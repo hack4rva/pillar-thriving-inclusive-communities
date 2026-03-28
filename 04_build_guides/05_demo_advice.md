@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Demo Advice - Thriving and Inclusive Communities
 
 How to present your project compellingly and credibly in 3–5 minutes.

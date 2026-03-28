@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # 2026 Formula 1 Opportunity Landscape: Market Shifts, New Partnerships & Strategic Levers
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Closing the Gap: Concrete Language Access Wins for Richmond’s Immigrant Communities
 
 ## Executive Summary

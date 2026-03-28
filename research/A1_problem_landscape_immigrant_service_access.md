@@ -20,6 +20,8 @@ related_reports:
   - F2_opportunities_service_discovery
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Immigrant Access: Trust Gaps, Not Service Gaps
 
 ## Executive summary — Trust and enforcement fears—not information—block access in Richmond

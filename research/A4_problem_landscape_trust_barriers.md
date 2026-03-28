@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # The AI Trust Deficit: Navigating the $4.88M Risk Landscape through Governance and Transparency
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Building Navigation Without Sharing Data — Four MVP Paths That Work Under D3=1
 
 ## Executive Summary

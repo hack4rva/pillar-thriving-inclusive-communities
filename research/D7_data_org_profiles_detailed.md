@@ -20,6 +20,8 @@ related_reports:
   - C6_services_irc_ccc_encircle_profiles
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Immigrant-Serving Organizations — Detailed Profiles
 
 *Source: OIRE-verified list from Karla Almendarez-Ramos (2026-03-26) + Parallel.ai profile research (2026-03-26).*

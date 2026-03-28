@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Designing for Richmond's Newcomers: Mobile-first, WhatsApp-led services that reduce literacy and affordability barriers
 
 ## Executive Summary

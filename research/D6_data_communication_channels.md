@@ -21,6 +21,8 @@ related_reports:
   - A4_problem_landscape_trust_barriers
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Immigrant Community Communication Channels
 
 ## Digital and Social Channels (OIRE-Confirmed, 2026-03-26)

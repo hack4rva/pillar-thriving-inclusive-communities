@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Help1RVA as Richmond's Service Backbone — What Works, What Breaks, What To Build Next
 
 ## Executive Summary

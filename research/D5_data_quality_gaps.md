@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Turning D3=1 Into Momentum: A standards-first playbook for cross-agency navigation prototypes in 48 hours
 
 ## Executive Summary

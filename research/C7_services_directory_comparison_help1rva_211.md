@@ -23,6 +23,8 @@ related_reports:
   - C1_services_help1rva
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Help1RVA vs 211 Virginia — Service Directory Comparison
 
 *Research: Parallel.ai deep research, 2026-03-26*

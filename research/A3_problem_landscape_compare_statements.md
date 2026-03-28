@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Hackathon Readiness: Service Discovery vs. "Don't Repeat Your Story" in Community Support
 
 ## Executive Summary

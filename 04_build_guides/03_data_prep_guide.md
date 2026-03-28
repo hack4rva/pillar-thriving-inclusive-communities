@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Data Prep Guide - Thriving and Inclusive Communities
 
 How to get usable data for your MVP in 2–3 hours without waiting for an API.

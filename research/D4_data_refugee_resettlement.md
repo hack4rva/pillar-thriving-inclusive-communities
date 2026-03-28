@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # D4 Data – Refugee Resettlement Overview (2023‑2025)
 
 *Compiled by Research Assistant – 2026‑03‑24* 

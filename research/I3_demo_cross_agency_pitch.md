@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Title: From 3 Hours to 30 Minutes — A Credible Cross-Agency Demo with D3=1
 
 ## Executive Summary

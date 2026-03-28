@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Recommended Architectures - Thriving and Inclusive Communities
 
 Architecture recommendations for each MVP shape. Optimized for weekend feasibility, privacy-by-design, and deployability by Sunday.

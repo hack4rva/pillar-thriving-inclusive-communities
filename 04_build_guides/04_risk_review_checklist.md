@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Risk Review Checklist - Thriving and Inclusive Communities
 
 Run this checklist before demo. Every "No" is a blocker that needs to be addressed or explicitly acknowledged.

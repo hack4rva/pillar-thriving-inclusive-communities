@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Continuation Plan - Thriving and Inclusive Communities
 
 Purpose: Help teams think about what happens after Sunday. A hackathon prototype is not a deployed service. This plan identifies realistic continuation paths, required partners, and immediate next steps for any team that wants their work to have lasting impact.

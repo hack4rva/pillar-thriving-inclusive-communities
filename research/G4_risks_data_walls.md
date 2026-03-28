@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Breaking Virginia's Data Silos: How to Build (and Not Break the Law)
 
 ## Executive Summary — Cross-Agency Data Walls Turn 5-Minute Referrals into 5-Month Projects

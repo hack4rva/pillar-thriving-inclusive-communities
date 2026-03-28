@@ -20,6 +20,8 @@ related_reports:
  - A5_problem_landscape_language_accessibility
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Bridging Richmond’s Language & Privacy Gap: Strategies for Trusted Service Navigation
 
 ## Executive Summary

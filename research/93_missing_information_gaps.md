@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Unlocking RVA Service Tools: What to Research vs. What to Assume
 
 ## Executive Summary

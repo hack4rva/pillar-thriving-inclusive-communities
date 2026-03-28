@@ -22,6 +22,8 @@ related_reports:
   - D5_data_quality_gaps
 ---
 
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Richmond Trusted Community Organizations Serving Immigrant and Refugee Residents
 
 ## Source and Provenance

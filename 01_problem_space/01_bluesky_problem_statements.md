@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Blue Sky Problem Statements - Thriving and Inclusive Communities
 
 These are aspirational, long-horizon visions from the pillar committee working session (March 6, 2026). They are **not directly hackable** in a weekend — they require years of coordination, policy change, and sustained investment. They are included here as context for the targeted statements and to help teams understand the full ambition of the pillar.

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Prototype Recommendations - Thriving and Inclusive Communities
 
 Six prototype concepts ranked by weekend feasibility, impact, and alignment with the two targeted problem statements. Each concept addresses specific friction points identified in the user journeys and rubric materials.

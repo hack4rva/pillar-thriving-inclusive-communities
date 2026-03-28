@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # Software’s Edge in Human Services: Where Code Helps—and Where People Matter
 
 ## Executive Summary

@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # User Journey Maps - Thriving and Inclusive Communities
 
 Note: Journeys are constructed from rubric working session observations and general knowledge of service navigation patterns for immigrant and refugee populations. They have not been verified against specific Richmond resident interviews. Each friction point should reference an `evidence_log.md` entry when verified.

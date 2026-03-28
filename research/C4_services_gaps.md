@@ -1,3 +1,5 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](../docs/methodology.md) for details.
+
 # C4 Services Gaps Assessment – 2024 Update
 
 *(Prepared for senior C4ISR leadership, March 2026)* 

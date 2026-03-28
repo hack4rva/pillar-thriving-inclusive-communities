@@ -1,8 +1,10 @@
+> **Note:** This research was generated using AI assistance (Claude + Parallel.ai) with human expert review. See [methodology](docs/methodology.md) for details.
+
 <div align="center">
 
-# Thriving and Inclusive Communities — Decision Funnel
+# Thriving and Inclusive Communities: Decision Funnel
 
-Richmond Civic Hackathon • March 27–29, 2026
+Richmond Civic Hackathon • March 27-29, 2026
 
 [![Pillar](https://img.shields.io/badge/Pillar-Thriving_%26_Inclusive_Communities-4c68d7)](#)
 [![Stage](https://img.shields.io/badge/Stage-Decision_Funnel-00a38f)](#)
@@ -10,7 +12,7 @@ Richmond Civic Hackathon • March 27–29, 2026
 
 </div>
 
-This is a guided decision environment for teams working on the Thriving and Inclusive Communities pillar. It's designed to help you quickly choose a credible, source-linked, weekend-buildable MVP — and avoid tools that could harm the communities they're meant to serve.
+This is a guided decision environment for teams working on the Thriving and Inclusive Communities pillar. It's designed to help you quickly choose a credible, source-linked, weekend-buildable MVP and avoid tools that could harm the communities they're meant to serve.
 
 Journey stages: Land → Orient → Choose → Research → Compare MVPs → Lock Scope → Build → Validate → Demo → Hand-off
 
@@ -20,48 +22,41 @@ Three questions to answer fast: 1) What problem are we actually solving? 2) Can 
 
 ## The Challenge
 
-**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else — it defines the two problems, the top blue sky vision, data constraints, how Pillar Award weights use the shared rubric, and optional per-problem prompts to help your team think about the categories (not a second judge rubric).
+**→ Full detail in [`CHALLENGE.md`](CHALLENGE.md).** Read it before anything else. It covers the two problems, the top blue sky vision, data constraints, and optional per-problem prompts that relate to [`RUBRIC.md`](../RUBRIC.md) for teams preparing their pitch (those prompts are not judge instructions).
 
-### Problem 1: Help Residents Safely Discover and Connect to Trusted Support Services — 24/32 — Strong ★ Recommended starting point
+### Problem 1: Help Residents Safely Discover and Connect to Trusted Support Services
 
 > How might we help immigrant and refugee residents in Richmond safely discover and connect to trusted support services despite privacy concerns, language barriers, and uncertainty about which organizations to trust?
 
-Build toward: Privacy-first service finder (no login, no PII) · Multilingual resource tool (Spanish, Arabic, Dari, Pashto, Portuguese — confirmed) · Trusted community messenger via Facebook groups and WhatsApp (confirmed channels) · Help1RVA or 211 Virginia API interface improvement with multilingual support
+Build toward: Privacy-first service finder (no login, no PII) · Multilingual resource tool (Spanish, Arabic, Dari, Pashto, Portuguese ,  confirmed) · Trusted community messenger via Facebook groups and WhatsApp (confirmed channels) · Help1RVA or 211 Virginia API interface improvement with multilingual support
 
-⚠ Must never require account creation or personal information. Must work through channels residents actually use — not just a web app. Privacy is not a feature here; it is the baseline.
+⚠ Must never require account creation or personal information. Must work through channels residents actually use ,  not just a web app. Privacy is not a feature here; it is the baseline.
 
 ---
 
-### Problem 2: Helping Residents Navigate Support Services Without Repeating Their Story — 22/32 — Needs work
+### Problem 2: Helping Residents Navigate Support Services Without Repeating Their Story
 
 > How might we help residents seeking housing, workforce, or reentry services navigate across multiple agencies without having to repeat their story to every provider?
 
 Build toward: Service pathway visualization (staff-facing, built from public info) · Staff coordination helper · Eligibility navigator (no PII) · Cross-agency pathway explainer for staff and residents
 
-🚨 **D3=1 — no cross-agency dataset exists.** All personal resident data, internal agency data, and HIPAA-covered data are out of scope. Demo will be conceptual for cross-agency elements. Build around this constraint, not through it.
+**Critical data gap:** No cross-agency dataset exists. All personal resident data, internal agency data, and HIPAA-covered data are out of scope. Demo will be conceptual for cross-agency elements. Build around this constraint, not through it.
 
 ---
 
-### Top Blue Sky: Universal Access to City Services — 21/27 — Strong
+### Top Blue Sky: Universal Access to City Services
 
 > Every City service has a multilingual, plain-language front door that works on a phone, requires no digital literacy, and meets residents where they are.
 
-Build the multilingual access layer: service finder in 2–4 languages, designed for low digital literacy, distributable via QR code and SMS. Problem 1 is the practical floor; this vision is the ceiling.
+Build the multilingual access layer: service finder in 2-4 languages, designed for low digital literacy, distributable via QR code and SMS. Problem 1 is the practical floor; this vision is the ceiling.
 
 ---
 
-### Pillar Award Rubric
+### Rubric reference
 
-| Category | Weight | Dominant question |
-|----------|--------|-------------------|
-| **Impact** | **5** | Does this directly address one of the two problems above? |
-| User Value | 4 | Does the prototype meaningfully improve a resident's ability to find or access services? |
-| Feasibility | 3 | Could this be piloted by Help1RVA, a nonprofit, or a City partner within a year? |
-| Innovation | 3 | Fresh thinking on service discovery, navigation, or trust-building? |
-| Execution | 3 | Does a working demo exist? Is the flow coherent? |
-| Equity | 3 | Does it prioritize the safety and dignity of vulnerable community members? Does it work in multiple languages? |
+Hackathon judges use the category framework in [`../RUBRIC.md`](../RUBRIC.md). Optional prompts in [`CHALLENGE.md`](CHALLENGE.md) help teams prepare their story; they are not instructions to judges.
 
-Official rubric — category definitions, scoring anchors, and judge-facing guidance: [`../RUBRIC.md`](../RUBRIC.md)
+A single-file Markdown handout (same content as `CHALLENGE.md` plus a short cover note) is at [`docs/PARTICIPANT_HANDOUT.md`](docs/PARTICIPANT_HANDOUT.md).
 
 ---
 
@@ -78,7 +73,7 @@ Official rubric — category definitions, scoring anchors, and judge-facing guid
    - Phase 3: Research Spin-Up
    - Phase 4: Opportunity Framing
    - Phase 5: Scope Lock
-   - Phases 6–9: Build → Validate → Demo
+   - Phases 6-9: Build → Validate → Demo
 5. Verification Workflow
 6. Hackbot Helper
 7. Appendix: Pillar Context & Rubric
@@ -87,15 +82,15 @@ Official rubric — category definitions, scoring anchors, and judge-facing guid
 
 ## Quick Start
 
-Do these first 15–30 minutes to get moving:
+Do these first 15-30 minutes to get moving:
 
-1) Read: `CHALLENGE.md` — the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md)
+1) Read: `CHALLENGE.md`  -  the two problems, top blue sky, Pillar Award weights, and optional per-problem rubric prompts (start here, not QUICKSTART.md)
 2) Read: `QUICKSTART.md`
 2) Skim: `00_core/00_pillar_overview.md` and `01_problem_space/02_targeted_problem_statements.md`
 3) Capture a 5-bullet "Working Direction" using `99_templates/working_direction_note.md`
 4) Decide your path:
-   - Path A — already have a rough problem: jump to Phase 2 and Phase 4
-   - Path B — need help choosing: start at Phase 1 and proceed in order
+   - Path A  -  already have a rough problem: jump to Phase 2 and Phase 4
+   - Path B  -  need help choosing: start at Phase 1 and proceed in order
 
 ---
 
@@ -103,7 +98,7 @@ Do these first 15–30 minutes to get moving:
 
 | Directory / File | Purpose |
 |-----------------|---------|
-| `research/` | 51 deep research reports — the primary corpus (read `research/INDEX.md` first) |
+| `research/` | 51 deep research reports  -  the primary corpus (read `research/INDEX.md` first) |
 | `research_notes.md` | Research hub and promoted findings |
 | `evidence_log.md` | Verified claims and documented information gaps |
 | `02_data/` | Data source index and inventory CSV |
@@ -117,7 +112,7 @@ Do these first 15–30 minutes to get moving:
 
 | File | Purpose |
 |------|---------|
-| `CORPUS_GUIDE.md` | Canonical orientation for the research corpus — read before diving into reports |
+| `CORPUS_GUIDE.md` | Canonical orientation for the research corpus  -  read before diving into reports |
 | `manifest.json` | Machine-readable index of all significant files with summaries and tags |
 | `research/index.json` | Machine-readable index of all 51 research reports with key_terms |
 | `research/INDEX.md` | Human-readable table of contents for the research directory |
@@ -132,14 +127,14 @@ Do these first 15–30 minutes to get moving:
 - Always cite official sources. Log every claim in `evidence_log.md`.
 - Keep AI constrained to explanation, retrieval, comparison, and guidance.
 - **Never collect PII, immigration status, or health data from vulnerable residents.**
-- **Privacy-by-design is not optional — it is the baseline for this pillar.**
+- **Privacy-by-design is not optional  -  it is the baseline for this pillar.**
 
 ---
 
 ## Decision Phases
 
 <details open>
-<summary><strong>Phase 0 — Landing & Framing</strong></summary>
+<summary><strong>Phase 0  -  Landing & Framing</strong></summary>
 
 Goal: understand what this repo is and how to use it without "exploring" for two hours.
 
@@ -163,7 +158,7 @@ Call to action: choose Path A or Path B.
 </details>
 
 <details open>
-<summary><strong>Phase 1 — Rapid Orientation (20–30 min)</strong></summary>
+<summary><strong>Phase 1  -  Rapid Orientation (20-30 min)</strong></summary>
 
 Read just enough to build a shared mental model:
 - `QUICKSTART.md`
@@ -177,7 +172,7 @@ Filter for:
 - problems that are software-shaped vs policy-shaped
 - privacy risks that would disqualify an approach
 
-Team checkpoint — Working Direction (use `99_templates/working_direction_note.md`):
+Team checkpoint  -  Working Direction (use `99_templates/working_direction_note.md`):
 
 ```
 ## Working Direction
@@ -193,7 +188,7 @@ Team checkpoint — Working Direction (use `99_templates/working_direction_note.
 </details>
 
 <details>
-<summary><strong>Phase 2 — Problem Selection (30–45 min)</strong></summary>
+<summary><strong>Phase 2  -  Problem Selection (30-45 min)</strong></summary>
 
 Files:
 - `01_problem_space/01_bluesky_problem_statements.md`
@@ -201,7 +196,7 @@ Files:
 - `00_core/04_solution_patterns.md`
 - `05_prompts/01_problem_selection_prompt.md`
 
-Decision rule — choose only if the problem has:
+Decision rule  -  choose only if the problem has:
 - a real user and understandable workflow
 - a plausible public data/document base
 - a demoable artifact by Sunday
@@ -221,7 +216,7 @@ Output: Decision Memo (`99_templates/decision_memo.md`)
 </details>
 
 <details>
-<summary><strong>Phase 3 — Research Spin-Up (60–90 min)</strong></summary>
+<summary><strong>Phase 3  -  Research Spin-Up (60-90 min)</strong></summary>
 
 Goal: gather just enough evidence to avoid fantasy software.
 
@@ -248,7 +243,7 @@ Tip: parse URLs from API metadata; don't ask for URLs in prompt text.
 </details>
 
 <details>
-<summary><strong>Phase 4 — Opportunity Framing (45–60 min)</strong></summary>
+<summary><strong>Phase 4  -  Opportunity Framing (45-60 min)</strong></summary>
 
 Compare at least two MVP shapes before choosing.
 
@@ -274,7 +269,7 @@ Output:
 </details>
 
 <details>
-<summary><strong>Phase 5 — Scope Lock (45–60 min)</strong></summary>
+<summary><strong>Phase 5  -  Scope Lock (45-60 min)</strong></summary>
 
 Pin down must-haves, mockables, data, AI role, limits, and demo path.
 
@@ -288,7 +283,7 @@ Key sentence:
 </details>
 
 <details>
-<summary><strong>Phases 6–9 — Build → Validate → Demo</strong></summary>
+<summary><strong>Phases 6-9  -  Build → Validate → Demo</strong></summary>
 
 Build:
 - Break work into FE/BE/data/content; assign source verification and demo owner.
@@ -341,27 +336,21 @@ Notes:
 <details>
 <summary>Open context from the Pillar Committee session (March 6, 2026)</summary>
 
-Working Session: March 6, 2026, 11:00 AM – 1:00 PM
+Working Session: March 6, 2026, 11:00 AM - 1:00 PM
 
-Pillar: 5 — Thriving and Inclusive Communities
+Pillar: 5 - Thriving and Inclusive Communities
 
-Rubric Score Summary
-| Statement                         | D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | Total | Band        |
-|-----------------------------------|----|----|----|----|----|----|----|----|-------|-------------|
-| Immigrant Service Discovery       | —  | —  | —  | —  | —  | —  | —  | —  | 24    | Strong      |
-| Cross-Agency Navigation           | —  | —  | 1  | —  | —  | —  | —  | —  | 22    | Needs work  |
-
-Dimension key: D1 Clarity | D2 Scope | D3 Data readiness | D4 Champion | D5 Population & impact | D6 Operating environment | D7 Success criteria | D8 Accessibility
+**Workshop comparison (internal):** Committee members compared statements on clarity, scope, data readiness, champions, population impact, operating environment, success criteria, and accessibility. See `CHALLENGE.md` and `01_problem_space/` for the current problem text teams should use.
 
 Quick-kill flags:
 - Both statements lack a continuation pathway (no named departmental champion confirmed).
-- Cross-Agency Navigation has D3=1 — the lowest data readiness score across all 12 targeted statements in the hackathon. No cross-agency referral dataset exists.
+- Cross-Agency Navigation: no cross-agency referral dataset exists in public form; scope accordingly.
 
-Targeted Statement 1: Help Residents Safely Discover and Connect to Trusted Support Services (Score 24/32 — Strong)
+Targeted Statement 1: Help Residents Safely Discover and Connect to Trusted Support Services
 - See `01_problem_space/02_targeted_problem_statements.md`.
 
-Targeted Statement 2: Helping Residents Navigate the Right Support Services Without Repeating Their Story (Score 22/32 — Needs work)
-- D3=1 data wall. No cross-agency intake dataset. Teams must build around this constraint.
+Targeted Statement 2: Helping Residents Navigate the Right Support Services Without Repeating Their Story
+- Cross-agency data wall: no shared intake dataset. Teams must build around this constraint.
 - See `01_problem_space/02_targeted_problem_statements.md`.
 
 Prioritized Actions Before March 27, 2026
