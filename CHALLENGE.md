@@ -36,6 +36,23 @@ Support services exist but are invisible or inaccessible to many of the resident
 - Trusted organizations: **CLOSED (2026-03-26)** — 15 organizations confirmed by Karla Almendarez-Ramos, OIRE, NCS — includes IRC, ReEstablish Richmond, Sacred Heart Center, Afghan Association of Virginia, African Community Network, and others. See `research/D2_data_community_org_directories.md`.
 - Communication channels: **CLOSED (2026-03-26)** — confirmed by OIRE. Primary: Facebook groups and WhatsApp. Also: Instagram (younger audiences), YouTube, in-person networks, and local radio. See `research/D6_data_communication_channels.md`.
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+Optional prompts — judges use [`RUBRIC.md`](../../RUBRIC.md).
+
+- **Impact:** Make **trusted** services discoverable for immigrant/refugee residents with **privacy-first** design.
+- **User Value:** Resident journey without login/PII; channel fit (WhatsApp, QR, print) as relevant.
+- **Feasibility:** Honest about Help1RVA vs 211 API vs public print views; updatable by community partners where you claim it.
+- **Innovation:** Multilingual, voice-friendly, or ambassador-ready distribution — not just another English-only web form.
+- **Execution:** Demo respects no-PII; shows real or sample resource data clearly.
+- **Equity and inclusion:** Safety, language priority list, and enforcement-risk awareness front and center.
+
+**What often works well:** Privacy-first finder, multilingual layer, QR/print handouts, channel-appropriate sharing.
+
+**What to avoid:** Collecting immigration/health PII, or features that could increase enforcement risk.
+
+*Try asking yourself:* Would someone worried about privacy still use this?
+
 ---
 
 ### Problem 2: Helping Residents Navigate the Right Support Services Without Repeating Their Story
@@ -71,6 +88,23 @@ Residents navigating housing, workforce development, or reentry services interac
 - Build the staff-facing pathway visualization using published program information only
 - State clearly in the demo which parts are populated with real data vs. illustrative content
 
+#### Participant guide: connecting to the rubric (if you chose this problem)
+
+Optional prompts — [`RUBRIC.md`](../../RUBRIC.md) is authoritative for judges.
+
+- **Impact:** Clarify **pathways** between housing/workforce/reentry supports using **public** descriptions — reduce repeated storytelling without shared case data.
+- **User Value:** Resident (general situation, no PII) or **staff** helper who sees order-of-operations clarity.
+- **Feasibility:** No cross-agency case systems, no eligibility **rulings**, label conceptual vs data-backed parts.
+- **Innovation:** Pathway maps, role-played handoffs, or explainer UX that respects trauma and trust.
+- **Execution:** Honest demo boundary (what’s illustrative).
+- **Equity and inclusion:** Center dignity; avoid tech that implies surveillance or data you don’t have.
+
+**What often works well:** Public-information pathway viz, staff coordination helper without resident records, eligibility **navigator** that surfaces programs — not decisions.
+
+**What to avoid:** PII storage, fake integrations, or automated case decisions.
+
+*Try asking yourself:* Does the demo **admit** what’s conceptual — and still feel useful?
+
 ---
 
 ## The Blue Sky Vision
@@ -91,25 +125,29 @@ Build the multilingual access component of this vision:
 
 The blue sky is the ceiling. Problem 1 (Safe Service Discovery) is the practical floor. A team that builds Problem 1 with this blue sky framing — multilingual, privacy-first, channel-flexible — will have a compelling pitch for both the Pillar Award and the Moonshot Award.
 
+**Rubric connection (blue sky):** Same emphasis as **Problem 1** (multilingual, low-literacy, channel-flexible access). Use the Problem 1 participant guide.
+
 ---
 
-## How Your Solution Will Be Judged (Pillar Award)
+## Pillar Award: official scoring mechanics
 
-The Pillar Award uses the following weights. For full category definitions and scoring anchors, see [`/RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
+**Authoritative rubric:** [`RUBRIC.md`](../../RUBRIC.md) at the hackathon root.
 
-| Category | Weight | What judges are asking |
-|----------|--------|------------------------|
-| **Impact** | **5** | Does this directly address one of the two problem statements above? |
-| **User Value** | 4 | Is there a specific, real user? Does the prototype meaningfully improve their ability to find or access services? |
-| **Feasibility** | 3 | Could this be piloted by Help1RVA, a nonprofit, or a City partner within a year? |
-| **Innovation** | 3 | Does the team bring fresh thinking to service discovery, navigation, or trust-building? |
-| **Execution** | 3 | Does a working demo exist? Is the flow coherent? |
-| **Equity** | 3 | Does the solution prioritize the safety and dignity of vulnerable community members? Does it work in multiple languages? |
+**Participant guides** under each problem are optional — **not** binding on judges.
+
+| Category | Weight |
+|----------|--------|
+| **Impact** (targeted civic problem) | **5** |
+| **User Value** | 4 |
+| **Feasibility** / implementability | 3 |
+| **Innovation** / originality | 3 |
+| **Execution** / prototype quality | 3 |
+| **Equity and inclusion** | 3 |
+
+Read **`RUBRIC.md`** for full definitions and anchors.
 
 **Score formula:** Sum of (category score 1–5 × weight). Maximum 105.
 
 **Tiebreaker:** User Value score.
 
-**What wins here:** A prototype that makes trusted services findable or navigable for immigrant and refugee residents, built with privacy-first design and real multilingual consideration.
-
-**What loses here:** Tools that require resident account creation, solutions collecting or storing immigration status or health data, or projects that expose residents to enforcement risk if data were accessed.
+**General tips** (full detail in `RUBRIC.md`): Civic usefulness over complexity; flag fragile assumptions; slides-only → low Execution.
