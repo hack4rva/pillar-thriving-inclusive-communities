@@ -23,7 +23,7 @@
    "keyFields": "Varies by dataset",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:cross-agency-referral-pathway",
@@ -49,7 +49,7 @@
    "keyFields": "N/A",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:findhelp-aunt-bertha",
@@ -75,7 +75,7 @@
    "keyFields": "program name, category, eligibility, instructions",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:grtc-transit-gtfs-feed",
@@ -101,7 +101,7 @@
    "keyFields": "route lines, stop locations, frequency, schedules",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:help1rva-service-directory",
@@ -127,7 +127,7 @@
    "keyFields": "org name, service type, languages, address, hours",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:priority-language-usage-by-organization",
@@ -153,7 +153,7 @@
    "keyFields": "org name, languages served, communication channels used",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:richmond-community-foundation-grantees",
@@ -179,7 +179,7 @@
    "keyFields": "grantee names, focus areas, contact info",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:united-way-richmond-partner-directory",
@@ -205,7 +205,7 @@
    "keyFields": "organization names, program descriptions, contact info",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:us-census-acs-language-and-nativity",
@@ -231,7 +231,7 @@
    "keyFields": "foreign-born population, language spoken at home, English proficiency, year of entry",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:virginia-211",
@@ -257,7 +257,7 @@
    "keyFields": "service categories, provider names, contacts, coverage",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:virginia-office-of-new-americans",
@@ -283,7 +283,7 @@
    "keyFields": "refugee arrivals, resettlement locations, program participation",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:dataset:whatsapp-and-sms-channel-usage-patterns",
@@ -309,7 +309,7 @@
    "keyFields": "channels used, frequency, reach, trusted senders",
    "available": true
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:evidence:allegheny-county-pittsburgh-an-evaluation-of-allegheny-county-s-coordinated-entr",
@@ -347,7 +347,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:evidence:louisville",
@@ -385,7 +385,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:group:caseworker-and-agency",
@@ -401,7 +401,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:group:resident-applicant",
@@ -417,7 +417,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:group:resident-facing-instability",
@@ -433,7 +433,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:group:returning-citizen-survivor",
@@ -449,7 +449,7 @@
    }
   ],
   "description": "Population scoped by the post-event research when documenting pain points.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:attempting-to-connect-a-resident-with-services-from-other-agencies-while-working",
@@ -487,7 +487,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:critical-barriers-to-accessing-basic-needs-post-release",
@@ -525,7 +525,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:employment-instability-and-fragile-outcomes-post-release",
@@ -563,7 +563,7 @@
    "confidence": "low",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:fear-of-data-misuse-and-stigma-leading-to-service-denial",
@@ -601,7 +601,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:fear-of-dead-ends-and-slow-connections-across-systems",
@@ -639,7 +639,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:forced-re-disclosure-of-sensitive-information-across-multiple-systems",
@@ -677,7 +677,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:fragmented-access-points-and-repeated-intakes",
@@ -715,7 +715,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:fragmented-intakes-and-siloed-eligibility-pathways",
@@ -753,7 +753,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:i-and-my-family-are-new-to-richmond-and-need-to-find-a-doctor",
@@ -791,7 +791,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:i-need-to-access-a-food-bank-or-other-essential-service",
@@ -829,7 +829,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:insufficient-resources-and-prioritization-constraints",
@@ -867,7 +867,7 @@
    "confidence": "low",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:lack-of-a-unified-secure-data-sharing-system",
@@ -900,7 +900,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:lack-of-coordinated-reentry-services-due-to-disconnected-data-systems",
@@ -933,7 +933,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:limited-shelter-capacity-and-long-waits-via-coordinated-entry",
@@ -966,7 +966,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:long-waits-and-limited-access-via-the-homeless-connection-line-hcl",
@@ -1004,7 +1004,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:reentering-the-community-under-supervision-after-a-period-of-incarceration",
@@ -1042,7 +1042,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:referral-drop-offs-and-operational-gaps",
@@ -1080,7 +1080,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:repetitive-data-entry-and-inconsistent-requirements",
@@ -1118,7 +1118,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:scarcity-of-affordable-housing-and-restrictive-landlord-policies",
@@ -1156,7 +1156,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:significant-housing-access-constraints-for-justice-involved-populations",
@@ -1194,7 +1194,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:significant-transportation-burdens-to-reach-multiple-service-providers",
@@ -1227,7 +1227,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:stalled-applications-and-delays",
@@ -1260,7 +1260,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:systemic-barriers-impede-access-to-employment-and-support-services",
@@ -1298,7 +1298,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:systemic-inequity-and-accessibility-barriers",
@@ -1336,7 +1336,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:the-whatsapp-bot-cannot-answer-my-specific-question-about-my-child-s-school-enro",
@@ -1374,7 +1374,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:trust-and-privacy-concerns-amid-data-sharing-initiatives",
@@ -1412,7 +1412,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:trying-to-secure-housing-and-job-training-after-a-recent-eviction-risk-or-job-lo",
@@ -1450,7 +1450,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:when-agencies-across-richmond-vadoc-probation-parole-oar-dss-dmv-virginia-career",
@@ -1488,7 +1488,7 @@
    "confidence": "high",
    "citationCount": 14
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:when-i-am-a-case-worker-at-a-richmond-connection-point",
@@ -1526,7 +1526,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:when-i-am-a-richmond-resident-facing-housing-instability-or-job-loss-and-don-t-k",
@@ -1564,7 +1564,7 @@
    "confidence": "high",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:when-i-am-hesitant-to-share-sensitive-details",
@@ -1602,7 +1602,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:when-i-am-released-from-the-richmond-city-justice-center-and-need-to-complete-pr",
@@ -1640,7 +1640,7 @@
    "confidence": "high",
    "citationCount": 14
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:need:when-i-have-to-repeat-my-story-to-each-agency-probation-oar-dss-dmv-shelters-wor",
@@ -1678,7 +1678,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:city-of-richmond",
@@ -1694,7 +1694,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:community-organizations",
@@ -1710,7 +1710,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:community-organizations-residents",
@@ -1726,7 +1726,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:findhelp-inc",
@@ -1742,7 +1742,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:greater-richmond-continuum-of-care-grcoc-homeward",
@@ -1758,7 +1758,7 @@
    }
   ],
   "description": "Named in post-event research as the organization managing Homeless Connection Line (HCL).",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:grtc",
@@ -1774,7 +1774,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:help1rva-city-of-richmond",
@@ -1790,7 +1790,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:n-a",
@@ -1806,7 +1806,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:richmond-community-foundation",
@@ -1822,7 +1822,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:united-way-of-greater-richmond-petersburg",
@@ -1838,7 +1838,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:us-census-bureau",
@@ -1854,7 +1854,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:virginia-211",
@@ -1870,7 +1870,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:org:virginia-dss",
@@ -1886,7 +1886,7 @@
    }
   ],
   "description": "Publisher or owner of inventoried data sources for this pillar.",
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:a-critical-underlying-issue-that-exacerbates-navigation-difficulties-in-richmond",
@@ -1924,7 +1924,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:ad-hoc-interpretation",
@@ -1962,7 +1962,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:an-examination-of-the-pain-points-for-residents-with-limited-english-proficiency",
@@ -2000,7 +2000,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:anonymous-browsing-and-evasive-digital-tactics",
@@ -2033,7 +2033,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:applying-for-benefits-such-as-snap-through-the-virginia-department-of-social-ser",
@@ -2071,7 +2071,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:barriers-to-digital-access-and-affordability-are-significant-for-many-residents-",
@@ -2109,7 +2109,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:direct-outreach-to-specific-organizations",
@@ -2147,7 +2147,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:from-the-perspective-of-front-line-staff-and-agencies-in-richmond-significant-sy",
@@ -2185,7 +2185,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:greater-richmond-continuum-of-care-grcoc",
@@ -2223,7 +2223,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:grtc-bus-system",
@@ -2261,7 +2261,7 @@
    "confidence": "high",
    "citationCount": 11
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:historically-high-eviction-rates-and-limited-affordable-housing-supply",
@@ -2299,7 +2299,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:in-person-visits",
@@ -2337,7 +2337,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:informal-community-networks-friends-whatsapp",
@@ -2375,7 +2375,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:online-search-and-digital-directories-211-findhelp-google",
@@ -2413,7 +2413,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:residents-with-language-barriers-limited-digital-literacy-or-lack-of-access-to-t",
@@ -2451,7 +2451,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:richmond-redevelopment-and-housing-authority-rrha",
@@ -2489,7 +2489,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:service-providers-within-grcoc-e-g-caritas",
@@ -2517,7 +2517,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:shelter-providers-within-grcoc",
@@ -2555,7 +2555,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:systemic-challenges-related-to-data-management-and-trust-are-a-major-barrier-for",
@@ -2593,7 +2593,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:the-application-process-for-the-richmond-redevelopment-and-housing-authority-rrh",
@@ -2626,7 +2626,7 @@
    "confidence": "high",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:the-challenges-of-reentry-in-richmond-disproportionately-affect-several-marginal",
@@ -2664,7 +2664,7 @@
    "confidence": "medium",
    "citationCount": 11
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:the-digital-divide-presents-significant-barriers-for-individuals-reentering-soci",
@@ -2692,7 +2692,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:the-eligibility-and-documentation-process-for-the-workforce-innovation-and-oppor",
@@ -2730,7 +2730,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:the-failures-of-richmond-s-fragmented-service-system-most-negatively-impact-seve",
@@ -2768,7 +2768,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:the-homeless-connection-line-hcl-the-primary-access-point-for-the-grcoc-experien",
@@ -2806,7 +2806,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:the-populations-most-affected-and-excluded-by-the-current-barriers-to-accessing-",
@@ -2844,7 +2844,7 @@
    "confidence": "high",
    "citationCount": 20
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:the-service-delivery-system-in-richmond-for-housing-workforce-and-reentry-suppor",
@@ -2882,7 +2882,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:there-are-systemic-failures-in-providing-consistent-and-meaningful-multilingual-",
@@ -2920,7 +2920,7 @@
    "confidence": "high",
    "citationCount": 11
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:transportation-presents-a-significant-challenge-for-residents-accessing-services",
@@ -2958,7 +2958,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:problem:virginia-department-of-motor-vehicles-dmv",
@@ -2996,7 +2996,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:proposal:804me",
@@ -3016,7 +3016,7 @@
    "origin": "post-event research",
    "project": "804me"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:proposal:circle-trust",
@@ -3036,7 +3036,7 @@
    "origin": "post-event research",
    "project": "circle-trust"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:proposal:core-eligibility-pack-builder",
@@ -3055,7 +3055,7 @@
    "origin": "post-event research",
    "project": "core-eligibility-pack-builder"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:proposal:design-the-system-with-explicit-consent-and-role-based-data-sharing-capabilities",
@@ -3093,7 +3093,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:proposal:reentry-72-hour-navigator",
@@ -3113,7 +3113,7 @@
    "origin": "post-event research",
    "project": "reentry-72-hour-navigator"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:proposal:rva-helps",
@@ -3133,7 +3133,7 @@
    "origin": "post-event research",
    "project": "rva-helps"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:proposal:whatsapp-service-finder",
@@ -3153,7 +3153,7 @@
    "origin": "post-event research",
    "project": "whatsapp-service-finder"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:can-circle-trust-integrate-with-existing-networks-e-g-unite-virginia-while-maint",
@@ -3191,7 +3191,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:can-the-tool-surface-rrha-central-intake-guidance-e-g-immediate-housing-assistan",
@@ -3224,7 +3224,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:for-dss-what-acceptance-pathways-exist-for-pack-pdfs-to-accompany-or-pre-stage-c",
@@ -3262,7 +3262,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:for-returning-citizens-what-onboarding-supports-ids-housing-employment-documents",
@@ -3300,7 +3300,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:for-rrha-can-the-pack-fulfill-the-eligibility-packet-requirements-and-verificati",
@@ -3338,7 +3338,7 @@
    "confidence": "high",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:for-the-department-of-social-services-dss-what-acceptance-pathways-exist-for-the",
@@ -3376,7 +3376,7 @@
    "confidence": "medium",
    "citationCount": 11
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:for-the-richmond-redevelopment-and-housing-authority-rrha-can-the-pack-fulfill-t",
@@ -3409,7 +3409,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:for-the-virginia-career-works-capital-region-which-workforce-innovation-and-oppo",
@@ -3447,7 +3447,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:for-virginia-career-works-capital-region-which-wioa-documents-can-be-accepted-as",
@@ -3485,7 +3485,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:gap-1",
@@ -3505,7 +3505,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:gap-2",
@@ -3525,7 +3525,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:gap-3",
@@ -3545,7 +3545,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:gap-4",
@@ -3565,7 +3565,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:gap-5",
@@ -3585,7 +3585,7 @@
    "origin": "evidence log gap list",
    "section": "Missing"
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-can-navigators-view-referral-outcomes-from-workforce-partners-crwdb-centers-",
@@ -3623,7 +3623,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-do-existing-platforms-used-locally-unite-virginia-2-1-1-help1rva-findhelp-no",
@@ -3661,7 +3661,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-do-ocwb-s-cohort-based-workforce-pathways-and-the-city-s-community-resource-",
@@ -3699,7 +3699,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-circle-trust-advance-richmond-s-equity-agenda-reentry-support-workforce",
@@ -3737,7 +3737,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-circle-trust-align-with-the-grcoc-coordinated-entry-homeward-hcl-withou",
@@ -3775,7 +3775,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-closed-loop-referrals-be-coordinated-alongside-existing-platforms-like-",
@@ -3813,7 +3813,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-closed-loop-referrals-be-coordinated-alongside-unite-virginia-unite-us-",
@@ -3851,7 +3851,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-identity-verification-be-handled-on-device-e-g-liveness-barcode-scan-wi",
@@ -3884,7 +3884,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-rva-helps-align-with-grcoc-access-points-homeless-connection-line-coord",
@@ -3922,7 +3922,7 @@
    "confidence": "medium",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-rva-helps-log-and-protect-dv-related-data-and-route-to-empowernet-witho",
@@ -3960,7 +3960,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-the-pack-note-data-provenance-e-g-pay-stub-uploaded-on-date-verified-by",
@@ -3998,7 +3998,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-the-project-resource-community-based-org-participation-time-training-la",
@@ -4036,7 +4036,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-the-solution-accommodate-people-experiencing-homelessness-returning-cit",
@@ -4074,7 +4074,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:how-will-the-tool-prioritize-outreach-and-content-for-neighborhoods-with-high-ev",
@@ -4112,7 +4112,7 @@
    "confidence": "medium",
    "citationCount": 9
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-are-residents-pain-points-at-each-entry-point-homeless-connection-line-rrha",
@@ -4150,7 +4150,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-are-the-rules-of-engagement-and-audit-trails-for-sharing-intake-notes-betwe",
@@ -4188,7 +4188,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-data-sharing-agreements-mous-baas-part-2-consents-are-required-to-exchange-",
@@ -4226,7 +4226,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-governance-will-include-people-with-lived-experience-e-g-grcoc-shelter-focu",
@@ -4264,7 +4264,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-is-the-lightest-weight-interface-to-rrha-s-applicant-resident-portals-and-o",
@@ -4302,7 +4302,7 @@
    "confidence": "high",
    "citationCount": 5
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-is-the-precise-consent-model-for-client-controlled-sharing-via-qr-granular-",
@@ -4340,7 +4340,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-language-access-and-accessibility-features-are-essential-at-launch-spanish-",
@@ -4368,7 +4368,7 @@
    "confidence": "high",
    "citationCount": 1
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-languages-accessibility-needs-and-trauma-informed-practices-are-required-fo",
@@ -4406,7 +4406,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-lessons-from-grcoc-s-connection-points-pilot-the-homeless-connection-line-o",
@@ -4444,7 +4444,7 @@
    "confidence": "medium",
    "citationCount": 8
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-lessons-from-statewide-coordinated-referral-networks-unite-us-in-virginia-a",
@@ -4482,7 +4482,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-lessons-from-unite-virginia-s-closed-loop-referrals-and-from-findhelp-usage",
@@ -4520,7 +4520,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-minimal-data-set-and-document-list-satisfy-all-three-dss-verification-wioa-",
@@ -4558,7 +4558,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-minimal-standardized-intake-fields-will-satisfy-grcoc-coordinated-entry-scr",
@@ -4596,7 +4596,7 @@
    "confidence": "high",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-minimum-data-set-and-consent-language-satisfy-virginia-social-services-conf",
@@ -4629,7 +4629,7 @@
    "confidence": "medium",
    "citationCount": 2
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-offline-first-flows-are-needed-for-residents-without-stable-connectivity-or",
@@ -4667,7 +4667,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-offline-first-workflows-are-needed-for-residents-without-stable-internet-co",
@@ -4705,7 +4705,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-safeguards-ensure-residents-control-data-visibility-across-agencies-and-can",
@@ -4743,7 +4743,7 @@
    "confidence": "medium",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-safeguards-prevent-adverse-actions-when-clients-choose-not-to-disclose-ssn-",
@@ -4781,7 +4781,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-safeguards-will-be-implemented-to-prevent-adverse-actions-against-clients-w",
@@ -4819,7 +4819,7 @@
    "confidence": "low",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-trauma-informed-design-principles-and-language-will-be-used-in-the-tool-s-p",
@@ -4857,7 +4857,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:what-trauma-informed-prompts-minimize-retelling-while-still-collecting-wioa-barr",
@@ -4895,7 +4895,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:where-have-similar-tell-your-story-once-pilots-succeeded-or-failed-in-virginia-l",
@@ -4933,7 +4933,7 @@
    "confidence": "high",
    "citationCount": 6
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:which-document-and-evidence-standards-e-g-i-9-acceptable-documents-list-dss-ievs",
@@ -4971,7 +4971,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:which-integrations-provide-the-highest-roi-at-mvp-hcis-read-write-for-basic-tria",
@@ -5009,7 +5009,7 @@
    "confidence": "high",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:which-languages-beyond-en-es-ar-are-most-needed-in-richmond-e-g-dari-pashto-swah",
@@ -5047,7 +5047,7 @@
    "confidence": "low",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:which-languages-beyond-english-spanish-and-arabic-are-most-needed-in-richmond-ba",
@@ -5085,7 +5085,7 @@
    "confidence": "medium",
    "citationCount": 7
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:which-navigator-roles-in-richmond-are-best-positioned-as-trusted-intermediaries-",
@@ -5123,7 +5123,7 @@
    "confidence": "medium",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:which-policies-in-the-grcoc-coordinated-entry-system-e-g-prioritization-access-s",
@@ -5161,7 +5161,7 @@
    "confidence": "high",
    "citationCount": 3
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:question:which-primary-user-flows-should-launch-first-residents-self-service-navigator-as",
@@ -5199,7 +5199,7 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  },
  {
   "id": "n:service:homeless-connection-line-hcl",
@@ -5237,6 +5237,6 @@
    "confidence": "medium",
    "citationCount": 4
   },
-  "extractedAt": "2026-08-02T10:52:15.195Z"
+  "extractedAt": "2026-08-02T14:50:58.353Z"
  }
 ]
