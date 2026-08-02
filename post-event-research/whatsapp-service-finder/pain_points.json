@@ -1,0 +1,774 @@
+{
+  "run_id": "trun_1848795af0f24b80add8ba02b27e8b7c",
+  "interaction_id": "trun_1848795af0f24b80add8ba02b27e8b7c",
+  "result_url": "https://platform.parallel.ai/play/deep-research/trun_1848795af0f24b80add8ba02b27e8b7c",
+  "status": "completed",
+  "output": {
+    "basis": [
+      {
+        "field": "pain_point_report",
+        "reasoning": "The most relevant information directly supports the JTBD functional and trust dimensions. Excerpts detailing language access policies and the Office of Immigrant and Refugee Engagement (OIRE) establish an institutional framework that aims to provide meaningful access to city services for residents with limited English proficiency, including identifying target languages and coordinating with OIRE to address unmet needs. This directly aligns with the need for multilingual, trusted information channels and privacy-friendly access for newcomers seeking healthcare and other essential services without unnecessary data sharing. Additional excerpts describe the Language Access Plan, and the city\u2019s provision of free interpretation/translation services, which reinforce the existence of privacy-conscious, language-appropriate pathways that the proposed WhatsApp-based service finder would rely on. Other excerpts document barriers to integration, including language barriers, lack of centralized multilingual information, and variable quality of interpretation, which underscore the gaps the JTBD analysis seeks to address with a centralized, privacy-forward solution and a seamless human handoff. References to 211 Virginia\u2019s interpretation services and hotline information illustrate practical channels for access and privacy-preserving assistance, while mentions of health service providers serving uninsured populations (e.g., Health Brigade, CrossOver, Daily Planet) anchor the functional job of finding affordable, language-accessible clinics. Finally, sources touching on confidentiality, the public charge context, and privacy policies provide evidence for the emotional/trust considerations and the need to avoid data sharing with authorities. Taken together, these excerpts substantiate the core themes of multilingual access, trusted information pathways, privacy protections, and the existence of current gaps in centralized, reliable service discovery for Richmond\u2019s immigrant communities, which the finegrained field pain_point_report analyzes in depth.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "The purpose of this policy is to ensure that Richmond\u2019s residents and stakeholders with LEP have\nmeaningful access to services, programs, and activities offered by the city.",
+              "Each department shall provide its own bilingual or multilingual services to ensure meaningful\naccess to its programs by individuals with LEP. Departments will also work with OIRE to identify\ntarget languages, assess their language access needs, and execute a plan for addressing any\nunmet needs or barriers to greater language access.",
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP)."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The following, is the City's language access plan, a framework developed to ensure language barriers do not hinder individuals from accessing services ,",
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services.",
+              "The Language Access Plan\u2019s mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency."
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.dss.virginia.gov/files/division/cvs/ona/immigrant_services/2022-vcu_ona-study/ONA-Barriers_to_Integration_final_report_Sept_2022.pdf",
+            "excerpts": [
+              "As mentioned earlier in the report, 46.9 percent of Virginia's immigrants have at least a college degree. The commonwealth can benefit from the education",
+              "misinformation around the Trump era public charge rule within the immigrant community affects ... lack of a central place/resource to learn about services",
+              "Transportation is a major barrier for immigrants, both for those without ... The refugees interviewed in this study expressed their profound gratitude",
+              "1. Lack of a centralized source of information on statewide resources and services available\nto immigrants in Virginia",
+              "2. Language barriers to accessing services and education",
+              "7. Barriers to accessing healthcare",
+              "8. Transportation"
+            ],
+            "title": "[PDF] Barriers to Integration of Virginia's Immigrants"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/services",
+            "excerpts": [
+              "**The Office of Immigrant and Refugee Engagement - OIRE**",
+              "We have developed a series of ongoing programs based on input from our residents and by identifying unmet needs in Richmond\u2019s newcomer communities. Our office also provides services to improve residents\u2019 access to critical resources and overcome linguistic barriers."
+            ],
+            "title": "Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://search.211virginia.org/search?query=PH-3500.4550&query_label=Language%20Translation&query_type=taxonomy",
+            "excerpts": [
+              "Solutions include over-the-phone interpreting in more than 240 languages; video remote interpreting in 35 languages, including American Sign Language;"
+            ],
+            "title": "Language Translation - 10 results"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/language-access",
+            "excerpts": [
+              "Explains the barriers to language access that newcomers experience while navigating this process. Presents specific, practical changes needed to provide",
+              "When newcomer communities have access to information and services in their language, they can make informed choices and adapt to their new country and culture more quickly.",
+              "We employ bilingual interpreters and translators** to ensure that all of our clients can communicate effectively with our staff, participate fully in our programs, and access the resources needed to rebuild their lives and integrate into their new communitie",
+              "Obtaining a driver\u2019s license is essential for newcomers' self-sufficiency. However, those with limited English proficiency often face significant delays \u2014 up to a year or more \u2014 because the DMV lacks adequate language support for the learner\u2019s permit test and testing process.",
+              "Explains the barriers to language access that newcomers experience while navigating this process.",
+              "Presents specific, practical changes needed to provide language equity for newcomers "
+            ],
+            "title": "Language Access"
+          },
+          {
+            "url": "https://www.crossoverministry.org/wp-content/uploads/2023/02/Eligiblity-application-Eng-w-PHQ2.pdf",
+            "excerpts": [
+              "services for uninsured. Richmond Behavioral Health. (804) 819-4000. 107 S. Fifth St.- behavioral health services. Henrico Mental Health. (804) 727-8500. For"
+            ],
+            "title": "[PDF] CrossOver Healthcare Ministry Financial Application"
+          },
+          {
+            "url": "https://www.healthbrigade.org/patients-and-clients/eligibilityforservice/",
+            "excerpts": [
+              "You usually qualify for care at Health Brigade if: 1. You do not have medical insurance, including: Employer, Medicare Parts B, C, & D, or Veterans Benefits.",
+              "HIV, Hep C, and STI testing is always free for anyone.",
+              "*Health Brigade accepts Virginia Medicaid Cardinal Care. We work with our patients and clients to see if they qualify prior to registering as uninsured."
+            ],
+            "title": "Eligibility for Services"
+          },
+          {
+            "url": "https://pifcoalition.org/wp-content/uploads/2023/05/Documenting-the-Harm-2023.pdf",
+            "excerpts": [
+              "The Trump public charge rule resulted in: \u25cb Immigrant participation in TANF, SNAP, and Medicaid rapidly declining for children in immigrant families. The share\u00a0..."
+            ],
+            "title": "[PDF] research documents the harm of past public charge policies"
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "**Fees:** There is no charge for newcomer Health Screenings. Required immunizations are free for the first year.",
+              "**To schedule a Health Screening appointment:** The resettlement agency/caseworker emails HCHD to request an appointment, and provides Biodata form/overseas exam records to initiate the clients\u2019 medical record. The goal is to complete screenings within 45 days of arrival to the US, especially for school-aged children.",
+              "**Caseworker & clients should bring the following to both health screening appointments:**\nClients\u2019 home address and phone number\nI94 papers\nPassport\nMedicaid card (when available)\nVaccine record\nMedical records (if available)\nMedications taken regularly\nPreferred pharmacy name (for faxing prescriptions)"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City Health Department"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "pain_point_report.functional_job_analysis",
+        "reasoning": "The core finegrained field value centers on enabling a recently arrived immigrant to locate essential services, especially healthcare, in a timely and reliable way. Excerpts describing language access policies and multilingual support directly map to the user\u2019s need for information in their language and for interpreting services during service discovery. Passages that discuss free interpretation/translation services and the city\u2019s Language Access Plan show practical mechanisms that reduce linguistic barriers when accessing city services, which is critical for navigation of healthcare options. Excerpts detailing barriers to healthcare and to information access highlight the structural challenges immigrants face in finding trustworthy, affordable care, which provides context for why a reliable multilingual discovery tool is needed. Specific examples of healthcare access pathways, such as health screenings and refugee/new American health services, illustrate concrete touchpoints the user would seek, aligning with the functional job of identifying clinics or providers that accommodate uninsured status and language needs. Collectively, these sources support the idea that trusted, multilingual information and streamlined pathways to healthcare (including interpretation services) are essential for fulfilling the target user\u2019s job, while also acknowledging the broader barriers (language, information centralization, and system complexity) that this tool must address.",
+        "citations": [
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services.",
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The Language Access Plan\u2019s mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The following, is the City's language access plan, a framework developed to ensure language barriers do not hinder individuals from accessing services ,"
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "The purpose of this policy is to ensure that Richmond\u2019s residents and stakeholders with LEP have\nmeaningful access to services, programs, and activities offered by the city.",
+              "Each department shall provide its own bilingual or multilingual services to ensure meaningful\naccess to its programs by individuals with LEP. Departments will also work with OIRE to identify\ntarget languages, assess their language access needs, and execute a plan for addressing any\nunmet needs or barriers to greater language access.",
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP)."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          },
+          {
+            "url": "https://search.211virginia.org/search?query=PH-3500.4550&query_label=Language%20Translation&query_type=taxonomy",
+            "excerpts": [
+              "Solutions include over-the-phone interpreting in more than 240 languages; video remote interpreting in 35 languages, including American Sign Language;"
+            ],
+            "title": "Language Translation - 10 results"
+          },
+          {
+            "url": "https://www.dss.virginia.gov/files/division/cvs/ona/immigrant_services/2022-vcu_ona-study/ONA-Barriers_to_Integration_final_report_Sept_2022.pdf",
+            "excerpts": [
+              "2. Language barriers to accessing services and education",
+              "7. Barriers to accessing healthcare",
+              "misinformation around the Trump era public charge rule within the immigrant community affects ... lack of a central place/resource to learn about services",
+              "As mentioned earlier in the report, 46.9 percent of Virginia's immigrants have at least a college degree. The commonwealth can benefit from the education",
+              "Transportation is a major barrier for immigrants, both for those without ... The refugees interviewed in this study expressed their profound gratitude",
+              "1. Lack of a centralized source of information on statewide resources and services available\nto immigrants in Virginia"
+            ],
+            "title": "[PDF] Barriers to Integration of Virginia's Immigrants"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/services",
+            "excerpts": [
+              "**The Office of Immigrant and Refugee Engagement - OIRE**",
+              "We have developed a series of ongoing programs based on input from our residents and by identifying unmet needs in Richmond\u2019s newcomer communities. Our office also provides services to improve residents\u2019 access to critical resources and overcome linguistic barriers."
+            ],
+            "title": "Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/language-access",
+            "excerpts": [
+              "Explains the barriers to language access that newcomers experience while navigating this process. Presents specific, practical changes needed to provide",
+              "When newcomer communities have access to information and services in their language, they can make informed choices and adapt to their new country and culture more quickly.",
+              "We employ bilingual interpreters and translators** to ensure that all of our clients can communicate effectively with our staff, participate fully in our programs, and access the resources needed to rebuild their lives and integrate into their new communitie",
+              "Obtaining a driver\u2019s license is essential for newcomers' self-sufficiency. However, those with limited English proficiency often face significant delays \u2014 up to a year or more \u2014 because the DMV lacks adequate language support for the learner\u2019s permit test and testing process.",
+              "Explains the barriers to language access that newcomers experience while navigating this process.",
+              "Presents specific, practical changes needed to provide language equity for newcomers "
+            ],
+            "title": "Language Access"
+          },
+          {
+            "url": "https://www.crossoverministry.org/wp-content/uploads/2023/02/Eligiblity-application-Eng-w-PHQ2.pdf",
+            "excerpts": [
+              "services for uninsured. Richmond Behavioral Health. (804) 819-4000. 107 S. Fifth St.- behavioral health services. Henrico Mental Health. (804) 727-8500. For"
+            ],
+            "title": "[PDF] CrossOver Healthcare Ministry Financial Application"
+          },
+          {
+            "url": "https://www.healthbrigade.org/patients-and-clients/eligibilityforservice/",
+            "excerpts": [
+              "You usually qualify for care at Health Brigade if: 1. You do not have medical insurance, including: Employer, Medicare Parts B, C, & D, or Veterans Benefits.",
+              "HIV, Hep C, and STI testing is always free for anyone.",
+              "*Health Brigade accepts Virginia Medicaid Cardinal Care. We work with our patients and clients to see if they qualify prior to registering as uninsured."
+            ],
+            "title": "Eligibility for Services"
+          },
+          {
+            "url": "https://pifcoalition.org/wp-content/uploads/2023/05/Documenting-the-Harm-2023.pdf",
+            "excerpts": [
+              "The Trump public charge rule resulted in: \u25cb Immigrant participation in TANF, SNAP, and Medicaid rapidly declining for children in immigrant families. The share\u00a0..."
+            ],
+            "title": "[PDF] research documents the harm of past public charge policies"
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "**Fees:** There is no charge for newcomer Health Screenings. Required immunizations are free for the first year.",
+              "**To schedule a Health Screening appointment:** The resettlement agency/caseworker emails HCHD to request an appointment, and provides Biodata form/overseas exam records to initiate the clients\u2019 medical record. The goal is to complete screenings within 45 days of arrival to the US, especially for school-aged children.",
+              "**Caseworker & clients should bring the following to both health screening appointments:**\nClients\u2019 home address and phone number\nI94 papers\nPassport\nMedicaid card (when available)\nVaccine record\nMedical records (if available)\nMedications taken regularly\nPreferred pharmacy name (for faxing prescriptions)"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City Health Department"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "pain_point_report.emotional_trust_job_workarounds",
+        "reasoning": "The most relevant content directly supports the field value by indicating that language access is coordinated city-wide (through OIRE) and involves plans to provide multilingual services, which ties to the lack of clear multilingual information. Policies and official plans emphasize meaningful access for LEP residents and the role of OIRE in guiding language access initiatives, which aligns with the described need for clear, multilingual privacy-focused information. References to free interpretation/translation services demonstrate a mechanism that reduces privacy concerns and builds trust by lowering friction for accessing services. Barriers discussions highlight language barriers and the absence of a single centralized resource for immigrant information, which explain why individuals might rely on trusted networks or informal channels (e.g., WhatsApp groups) to cope. Warnings about misinformation and fear surrounding public-charges policies illuminate the emotional/trust risk environment that drives avoidance or selective help-seeking behavior. Mentions of the Sacred Heart Center and other city programs provide concrete examples of trusted community anchors emphasized in the coping strategies. Together, these excerpts support the core claim that lack of multilingual, privacy-centered information and inconsistent language support contribute to fear and reliance on trusted networks, leading to costly and suboptimal help-seeking workarounds and underutilization of available aid.",
+        "citations": [
+          {
+            "url": "https://www.dss.virginia.gov/files/division/cvs/ona/immigrant_services/2022-vcu_ona-study/ONA-Barriers_to_Integration_final_report_Sept_2022.pdf",
+            "excerpts": [
+              "1. Lack of a centralized source of information on statewide resources and services available\nto immigrants in Virginia",
+              "2. Language barriers to accessing services and education",
+              "misinformation around the Trump era public charge rule within the immigrant community affects ... lack of a central place/resource to learn about services"
+            ],
+            "title": "[PDF] Barriers to Integration of Virginia's Immigrants"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP).",
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "The purpose of this policy is to ensure that Richmond\u2019s residents and stakeholders with LEP have\nmeaningful access to services, programs, and activities offered by the city.",
+              "Each department shall provide its own bilingual or multilingual services to ensure meaningful\naccess to its programs by individuals with LEP. Departments will also work with OIRE to identify\ntarget languages, assess their language access needs, and execute a plan for addressing any\nunmet needs or barriers to greater language access."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services."
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/services",
+            "excerpts": [
+              "**The Office of Immigrant and Refugee Engagement - OIRE**",
+              "We have developed a series of ongoing programs based on input from our residents and by identifying unmet needs in Richmond\u2019s newcomer communities. Our office also provides services to improve residents\u2019 access to critical resources and overcome linguistic barriers."
+            ],
+            "title": "Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/language-access",
+            "excerpts": [
+              "Explains the barriers to language access that newcomers experience while navigating this process. Presents specific, practical changes needed to provide",
+              "When newcomer communities have access to information and services in their language, they can make informed choices and adapt to their new country and culture more quickly.",
+              "We employ bilingual interpreters and translators** to ensure that all of our clients can communicate effectively with our staff, participate fully in our programs, and access the resources needed to rebuild their lives and integrate into their new communitie",
+              "Obtaining a driver\u2019s license is essential for newcomers' self-sufficiency. However, those with limited English proficiency often face significant delays \u2014 up to a year or more \u2014 because the DMV lacks adequate language support for the learner\u2019s permit test and testing process."
+            ],
+            "title": "Language Access"
+          },
+          {
+            "url": "https://pifcoalition.org/wp-content/uploads/2023/05/Documenting-the-Harm-2023.pdf",
+            "excerpts": [
+              "The Trump public charge rule resulted in: \u25cb Immigrant participation in TANF, SNAP, and Medicaid rapidly declining for children in immigrant families. The share\u00a0..."
+            ],
+            "title": "[PDF] research documents the harm of past public charge policies"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "pain_point_report.emotional_trust_job_analysis",
+        "reasoning": "The most relevant information comes from excerpts that directly address the emotional and trust barriers around accessing essential services and the impact of policy histories on willingness to engage with systems. Direct references to the harm caused by prior public charge policies illustrate the enduring fear and chilling effect that deters vulnerable individuals from seeking help, which aligns with the finegrained field value emphasizing safety, anonymity, and distrust of data handling. Related excerpts describe language access and trusted partnerships (e.g., OIRE) as structural mechanisms that can either mitigate or reinforce trust, since clear privacy-forward communication and accessible services reduce fear and uncertainty. Additional excerpts discuss barriers such as lack of centralized information and privacy considerations in service provision, which further explains why users may hesitate to disclose personal information even for basic needs. The combination of policy-induced fear, privacy concerns in service delivery, and trusted, accessible language services all connect to the emotional-trust JTBD described for vulnerable immigrants seeking food banks and other essential services in Richmond.",
+        "citations": [
+          {
+            "url": "https://pifcoalition.org/wp-content/uploads/2023/05/Documenting-the-Harm-2023.pdf",
+            "excerpts": [
+              "The Trump public charge rule resulted in: \u25cb Immigrant participation in TANF, SNAP, and Medicaid rapidly declining for children in immigrant families. The share\u00a0..."
+            ],
+            "title": "[PDF] research documents the harm of past public charge policies"
+          },
+          {
+            "url": "https://www.dss.virginia.gov/files/division/cvs/ona/immigrant_services/2022-vcu_ona-study/ONA-Barriers_to_Integration_final_report_Sept_2022.pdf",
+            "excerpts": [
+              "misinformation around the Trump era public charge rule within the immigrant community affects ... lack of a central place/resource to learn about services",
+              "2. Language barriers to accessing services and education",
+              "7. Barriers to accessing healthcare"
+            ],
+            "title": "[PDF] Barriers to Integration of Virginia's Immigrants"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services.",
+              "The Language Access Plan\u2019s mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The following, is the City's language access plan, a framework developed to ensure language barriers do not hinder individuals from accessing services ,"
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "The purpose of this policy is to ensure that Richmond\u2019s residents and stakeholders with LEP have\nmeaningful access to services, programs, and activities offered by the city.",
+              "Each department shall provide its own bilingual or multilingual services to ensure meaningful\naccess to its programs by individuals with LEP. Departments will also work with OIRE to identify\ntarget languages, assess their language access needs, and execute a plan for addressing any\nunmet needs or barriers to greater language access.",
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP)."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/services",
+            "excerpts": [
+              "**The Office of Immigrant and Refugee Engagement - OIRE**",
+              "We have developed a series of ongoing programs based on input from our residents and by identifying unmet needs in Richmond\u2019s newcomer communities. Our office also provides services to improve residents\u2019 access to critical resources and overcome linguistic barriers."
+            ],
+            "title": "Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/language-access",
+            "excerpts": [
+              "Explains the barriers to language access that newcomers experience while navigating this process. Presents specific, practical changes needed to provide",
+              "When newcomer communities have access to information and services in their language, they can make informed choices and adapt to their new country and culture more quickly.",
+              "We employ bilingual interpreters and translators** to ensure that all of our clients can communicate effectively with our staff, participate fully in our programs, and access the resources needed to rebuild their lives and integrate into their new communitie",
+              "Obtaining a driver\u2019s license is essential for newcomers' self-sufficiency. However, those with limited English proficiency often face significant delays \u2014 up to a year or more \u2014 because the DMV lacks adequate language support for the learner\u2019s permit test and testing process.",
+              "Explains the barriers to language access that newcomers experience while navigating this process.",
+              "Presents specific, practical changes needed to provide language equity for newcomers "
+            ],
+            "title": "Language Access"
+          },
+          {
+            "url": "https://www.crossoverministry.org/wp-content/uploads/2023/02/Eligiblity-application-Eng-w-PHQ2.pdf",
+            "excerpts": [
+              "services for uninsured. Richmond Behavioral Health. (804) 819-4000. 107 S. Fifth St.- behavioral health services. Henrico Mental Health. (804) 727-8500. For"
+            ],
+            "title": "[PDF] CrossOver Healthcare Ministry Financial Application"
+          },
+          {
+            "url": "https://www.healthbrigade.org/patients-and-clients/eligibilityforservice/",
+            "excerpts": [
+              "You usually qualify for care at Health Brigade if: 1. You do not have medical insurance, including: Employer, Medicare Parts B, C, & D, or Veterans Benefits.",
+              "HIV, Hep C, and STI testing is always free for anyone.",
+              "*Health Brigade accepts Virginia Medicaid Cardinal Care. We work with our patients and clients to see if they qualify prior to registering as uninsured."
+            ],
+            "title": "Eligibility for Services"
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "**Fees:** There is no charge for newcomer Health Screenings. Required immunizations are free for the first year.",
+              "**To schedule a Health Screening appointment:** The resettlement agency/caseworker emails HCHD to request an appointment, and provides Biodata form/overseas exam records to initiate the clients\u2019 medical record. The goal is to complete screenings within 45 days of arrival to the US, especially for school-aged children.",
+              "**Caseworker & clients should bring the following to both health screening appointments:**\nClients\u2019 home address and phone number\nI94 papers\nPassport\nMedicaid card (when available)\nVaccine record\nMedical records (if available)\nMedications taken regularly\nPreferred pharmacy name (for faxing prescriptions)"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City Health Department"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "pain_point_report.functional_job_workarounds",
+        "reasoning": "The field value asserts that newcomers face a broken healthcare information ecosystem without a single multilingual directory, with language barriers and reliance on word-of-mouth or ad hoc assistance. Excerpts describing barriers to healthcare and the lack of a centralized information source support this: a finding that there is no single centralized resource for immigrant services and that language barriers impede access to healthcare. The language access policy excerpts underscore the city\u2019s efforts to provide multilingual services and coordinate through OIRE, which is relevant to the proposed solution\u2019s privacy and trust considerations. Excerpts detailing the city\u2019s language access plan and free interpretation/translation illustrate existing infrastructure that a WhatsApp-based service could leverage to reduce fragmentation. Additionally, materials on translation via 211 Virginia demonstrate a current mechanism for multilingual support, though it may still require navigating referrals. Finally, documentation on newcomer health screenings and refugee services provides concrete examples of healthcare navigation workflows and access pathways that a trusted, multilingual directory could streamline, reducing repeated storytelling and delays. In summary, the most directly supportive pieces describe systematic language access efforts and identified barriers to centralized information and healthcare access; the others provide context on current translation resources and health service workflows that the proposed service would need to interface with to reduce fragmentation and build trust.",
+        "citations": [
+          {
+            "url": "https://www.dss.virginia.gov/files/division/cvs/ona/immigrant_services/2022-vcu_ona-study/ONA-Barriers_to_Integration_final_report_Sept_2022.pdf",
+            "excerpts": [
+              "1. Lack of a centralized source of information on statewide resources and services available\nto immigrants in Virginia",
+              "2. Language barriers to accessing services and education",
+              "7. Barriers to accessing healthcare"
+            ],
+            "title": "[PDF] Barriers to Integration of Virginia's Immigrants"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP).",
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "The purpose of this policy is to ensure that Richmond\u2019s residents and stakeholders with LEP have\nmeaningful access to services, programs, and activities offered by the city.",
+              "Each department shall provide its own bilingual or multilingual services to ensure meaningful\naccess to its programs by individuals with LEP. Departments will also work with OIRE to identify\ntarget languages, assess their language access needs, and execute a plan for addressing any\nunmet needs or barriers to greater language access."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services.",
+              "The Language Access Plan\u2019s mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency."
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://search.211virginia.org/search?query=PH-3500.4550&query_label=Language%20Translation&query_type=taxonomy",
+            "excerpts": [
+              "Solutions include over-the-phone interpreting in more than 240 languages; video remote interpreting in 35 languages, including American Sign Language;"
+            ],
+            "title": "Language Translation - 10 results"
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "**Fees:** There is no charge for newcomer Health Screenings. Required immunizations are free for the first year.",
+              "**To schedule a Health Screening appointment:** The resettlement agency/caseworker emails HCHD to request an appointment, and provides Biodata form/overseas exam records to initiate the clients\u2019 medical record. The goal is to complete screenings within 45 days of arrival to the US, especially for school-aged children.",
+              "**Caseworker & clients should bring the following to both health screening appointments:**\nClients\u2019 home address and phone number\nI94 papers\nPassport\nMedicaid card (when available)\nVaccine record\nMedical records (if available)\nMedications taken regularly\nPreferred pharmacy name (for faxing prescriptions)"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City Health Department"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/services",
+            "excerpts": [
+              "**The Office of Immigrant and Refugee Engagement - OIRE**"
+            ],
+            "title": "Services | Richmond - RVA.gov"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "pain_point_report.cross_cutting_equity_analysis",
+        "reasoning": "The finegrained field value centers on cross-cutting equity across immigrant users, requiring robust language access, low-literacy accommodations, non-digital alternatives, privacy assurances, and inclusive design to avoid exclusion. Excerpts describing the city\u2019s Language Access Policy and OIRE\u2019s role directly support the need for structured language access and coordination. They explain that meaningful access for LEP residents is mandatory, that departments should provide bilingual/multilingual services, and that OIRE coordinates citywide language access planning. This aligns with the requirement to include languages beyond the core ones and to establish clear privacy assurances and trust. Additional excerpts outline barriers to integration, such as language barriers, lack of centralized information, and transportation\u2014crucial context for designing a service that reduces friction for the target users. Other excerpts illustrate practical implementations (free interpretation/translation services, hotline concepts, non-digital access needs) that directly inform how to implement inclusive, privacy-preserving, and accessible features like warm handoffs, low-literacy interfaces, and non-digital channels. Collectively, these excerpts substantiate the need for a comprehensive, equity-centered design, including broad language coverage, accessible formats, and trusted, privacy-preserving user experiences, as well as explicit plans to mitigate misinformation and fear among undocumented users.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP).",
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "The purpose of this policy is to ensure that Richmond\u2019s residents and stakeholders with LEP have\nmeaningful access to services, programs, and activities offered by the city.",
+              "Each department shall provide its own bilingual or multilingual services to ensure meaningful\naccess to its programs by individuals with LEP. Departments will also work with OIRE to identify\ntarget languages, assess their language access needs, and execute a plan for addressing any\nunmet needs or barriers to greater language access."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services.",
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The following, is the City's language access plan, a framework developed to ensure language barriers do not hinder individuals from accessing services ,",
+              "The Language Access Plan\u2019s mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency."
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.dss.virginia.gov/files/division/cvs/ona/immigrant_services/2022-vcu_ona-study/ONA-Barriers_to_Integration_final_report_Sept_2022.pdf",
+            "excerpts": [
+              "As mentioned earlier in the report, 46.9 percent of Virginia's immigrants have at least a college degree. The commonwealth can benefit from the education",
+              "1. Lack of a centralized source of information on statewide resources and services available\nto immigrants in Virginia",
+              "2. Language barriers to accessing services and education",
+              "misinformation around the Trump era public charge rule within the immigrant community affects ... lack of a central place/resource to learn about services",
+              "Transportation is a major barrier for immigrants, both for those without ... The refugees interviewed in this study expressed their profound gratitude"
+            ],
+            "title": "[PDF] Barriers to Integration of Virginia's Immigrants"
+          },
+          {
+            "url": "https://pifcoalition.org/wp-content/uploads/2023/05/Documenting-the-Harm-2023.pdf",
+            "excerpts": [
+              "The Trump public charge rule resulted in: \u25cb Immigrant participation in TANF, SNAP, and Medicaid rapidly declining for children in immigrant families. The share\u00a0..."
+            ],
+            "title": "[PDF] research documents the harm of past public charge policies"
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "**Fees:** There is no charge for newcomer Health Screenings. Required immunizations are free for the first year.",
+              "**To schedule a Health Screening appointment:** The resettlement agency/caseworker emails HCHD to request an appointment, and provides Biodata form/overseas exam records to initiate the clients\u2019 medical record. The goal is to complete screenings within 45 days of arrival to the US, especially for school-aged children.",
+              "**Caseworker & clients should bring the following to both health screening appointments:**\nClients\u2019 home address and phone number\nI94 papers\nPassport\nMedicaid card (when available)\nVaccine record\nMedical records (if available)\nMedications taken regularly\nPreferred pharmacy name (for faxing prescriptions)"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City Health Department"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/services",
+            "excerpts": [
+              "We have developed a series of ongoing programs based on input from our residents and by identifying unmet needs in Richmond\u2019s newcomer communities. Our office also provides services to improve residents\u2019 access to critical resources and overcome linguistic barriers.",
+              "**The Office of Immigrant and Refugee Engagement - OIRE**"
+            ],
+            "title": "Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://search.211virginia.org/search?query=PH-3500.4550&query_label=Language%20Translation&query_type=taxonomy",
+            "excerpts": [
+              "Solutions include over-the-phone interpreting in more than 240 languages; video remote interpreting in 35 languages, including American Sign Language;"
+            ],
+            "title": "Language Translation - 10 results"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/language-access",
+            "excerpts": [
+              "Explains the barriers to language access that newcomers experience while navigating this process. Presents specific, practical changes needed to provide",
+              "When newcomer communities have access to information and services in their language, they can make informed choices and adapt to their new country and culture more quickly.",
+              "We employ bilingual interpreters and translators** to ensure that all of our clients can communicate effectively with our staff, participate fully in our programs, and access the resources needed to rebuild their lives and integrate into their new communitie",
+              "Obtaining a driver\u2019s license is essential for newcomers' self-sufficiency. However, those with limited English proficiency often face significant delays \u2014 up to a year or more \u2014 because the DMV lacks adequate language support for the learner\u2019s permit test and testing process.",
+              "Explains the barriers to language access that newcomers experience while navigating this process.",
+              "Presents specific, practical changes needed to provide language equity for newcomers "
+            ],
+            "title": "Language Access"
+          },
+          {
+            "url": "https://www.crossoverministry.org/wp-content/uploads/2023/02/Eligiblity-application-Eng-w-PHQ2.pdf",
+            "excerpts": [
+              "services for uninsured. Richmond Behavioral Health. (804) 819-4000. 107 S. Fifth St.- behavioral health services. Henrico Mental Health. (804) 727-8500. For"
+            ],
+            "title": "[PDF] CrossOver Healthcare Ministry Financial Application"
+          },
+          {
+            "url": "https://www.healthbrigade.org/patients-and-clients/eligibilityforservice/",
+            "excerpts": [
+              "You usually qualify for care at Health Brigade if: 1. You do not have medical insurance, including: Employer, Medicare Parts B, C, & D, or Veterans Benefits.",
+              "HIV, Hep C, and STI testing is always free for anyone.",
+              "*Health Brigade accepts Virginia Medicaid Cardinal Care. We work with our patients and clients to see if they qualify prior to registering as uninsured."
+            ],
+            "title": "Eligibility for Services"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "pain_point_report.cited_sources",
+        "reasoning": "The most relevant excerpts directly reference language access policy, governmental offices, and local language access initiatives that align with the cited sources in the field value. For example, excerpts that discuss the City\u2019s Language Access Policy (AR 5.24) and the Office of Immigrant and Refugee Engagement (OIRE) describe formal structures and responsibilities that underpin language access in Richmond, matching the first items in the cited sources. Excerpts describing OIRE\u2019s role in coordinating language access, and pages detailing the city\u2019s language access plan and free interpretation/translation services, map directly to the sources listed in the field value and validate the existence and scope of these programs in Richmond. Excerpts about the 211 Virginia Language Translation/Interpretation services and the availability of interpretation in multiple languages provide concrete, service-level corroboration for the \u201clanguage access\u201d facet described in the field value. Excerpts covering ReEstablish Richmond\u2019s language access work and the DMV/driver-licensing barriers provide additional, context-rich validation for the transportation and accessibility challenges faced by newcomers, which are part of the broader access and equity concerns highlighted in the field value. Excerpts referencing Health Brigade eligibility and CrossOver Healthcare Ministry eligibility supply specific examples of local health access pathways for uninsured or underinsured immigrants, directly supporting the health access facet of the field value. The Daily Planet Health Services reference adds another local provider example relevant to newcomer healthcare access. Finally, excerpts about New Americans/Refugee Services in Richmond (HCHD and related pages) round out the set of Richmond-area services and programs that the field value enumerates. Collectively, these excerpts substantiate the field value\u2019s catalog of sources and situate them within the Richmond context, underpinning claims about language access, service discovery, and privacy/trust considerations for immigrant communities.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "The purpose of this policy is to ensure that Richmond\u2019s residents and stakeholders with LEP have\nmeaningful access to services, programs, and activities offered by the city.",
+              "Each department shall provide its own bilingual or multilingual services to ensure meaningful\naccess to its programs by individuals with LEP. Departments will also work with OIRE to identify\ntarget languages, assess their language access needs, and execute a plan for addressing any\nunmet needs or barriers to greater language access.",
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP)."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The following, is the City's language access plan, a framework developed to ensure language barriers do not hinder individuals from accessing services ,",
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services.",
+              "The Language Access Plan\u2019s mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency."
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/services",
+            "excerpts": [
+              "We have developed a series of ongoing programs based on input from our residents and by identifying unmet needs in Richmond\u2019s newcomer communities. Our office also provides services to improve residents\u2019 access to critical resources and overcome linguistic barriers."
+            ],
+            "title": "Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://search.211virginia.org/search?query=PH-3500.4550&query_label=Language%20Translation&query_type=taxonomy",
+            "excerpts": [
+              "Solutions include over-the-phone interpreting in more than 240 languages; video remote interpreting in 35 languages, including American Sign Language;"
+            ],
+            "title": "Language Translation - 10 results"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/language-access",
+            "excerpts": [
+              "Explains the barriers to language access that newcomers experience while navigating this process. Presents specific, practical changes needed to provide",
+              "When newcomer communities have access to information and services in their language, they can make informed choices and adapt to their new country and culture more quickly.",
+              "We employ bilingual interpreters and translators** to ensure that all of our clients can communicate effectively with our staff, participate fully in our programs, and access the resources needed to rebuild their lives and integrate into their new communitie",
+              "Obtaining a driver\u2019s license is essential for newcomers' self-sufficiency. However, those with limited English proficiency often face significant delays \u2014 up to a year or more \u2014 because the DMV lacks adequate language support for the learner\u2019s permit test and testing process.",
+              "Explains the barriers to language access that newcomers experience while navigating this process.",
+              "Presents specific, practical changes needed to provide language equity for newcomers "
+            ],
+            "title": "Language Access"
+          },
+          {
+            "url": "https://www.crossoverministry.org/wp-content/uploads/2023/02/Eligiblity-application-Eng-w-PHQ2.pdf",
+            "excerpts": [
+              "services for uninsured. Richmond Behavioral Health. (804) 819-4000. 107 S. Fifth St.- behavioral health services. Henrico Mental Health. (804) 727-8500. For"
+            ],
+            "title": "[PDF] CrossOver Healthcare Ministry Financial Application"
+          },
+          {
+            "url": "https://www.healthbrigade.org/patients-and-clients/eligibilityforservice/",
+            "excerpts": [
+              "You usually qualify for care at Health Brigade if: 1. You do not have medical insurance, including: Employer, Medicare Parts B, C, & D, or Veterans Benefits."
+            ],
+            "title": "Eligibility for Services"
+          },
+          {
+            "url": "https://pifcoalition.org/wp-content/uploads/2023/05/Documenting-the-Harm-2023.pdf",
+            "excerpts": [
+              "The Trump public charge rule resulted in: \u25cb Immigrant participation in TANF, SNAP, and Medicaid rapidly declining for children in immigrant families. The share\u00a0..."
+            ],
+            "title": "[PDF] research documents the harm of past public charge policies"
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "**Fees:** There is no charge for newcomer Health Screenings. Required immunizations are free for the first year.",
+              "**To schedule a Health Screening appointment:** The resettlement agency/caseworker emails HCHD to request an appointment, and provides Biodata form/overseas exam records to initiate the clients\u2019 medical record. The goal is to complete screenings within 45 days of arrival to the US, especially for school-aged children.",
+              "**Caseworker & clients should bring the following to both health screening appointments:**\nClients\u2019 home address and phone number\nI94 papers\nPassport\nMedicaid card (when available)\nVaccine record\nMedical records (if available)\nMedications taken regularly\nPreferred pharmacy name (for faxing prescriptions)"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City Health Department"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "field": "pain_point_report.functional_job_pain_points",
+        "reasoning": "The most compelling support comes from language-access policy documentation and the Office of Immigrant and Refugee Engagement, which together confirm a systemic awareness of language barriers and the need for meaningful access to services. Language barriers to accessing services and education are repeatedly noted, underscoring friction when contacting providers and navigating systems. The lack of a centralized source of information on statewide resources for immigrants highlights a critical pain point where users must navigate disparate, uncoordinated information streams. Reports discussing misinformation linked to public charge policies and the absence of trusted centralized resources further reinforce the need for a trusted multilingual directory. Examples of local providers serving low-income and uninsured populations illustrate real-world options but also imply the burden on users to identify suitable services in their language, aligning with the \u2018difficulty identifying clinics that accept uninsured patients and provide services in one's language\u2019 pain point. References to transportation barriers and language-support delays at agencies like the DMV provide evidence for mobility-related obstacles. Taken together, these excerpts substantiate the intertwined issues of language access, information centralization, and mobility that the finegrained field describes, and they map neatly onto the JTBD concerns of quickly finding appropriate, language-accessible healthcare options and navigating complex referral paths with trusted support.",
+        "citations": [
+          {
+            "url": "https://www.dss.virginia.gov/files/division/cvs/ona/immigrant_services/2022-vcu_ona-study/ONA-Barriers_to_Integration_final_report_Sept_2022.pdf",
+            "excerpts": [
+              "2. Language barriers to accessing services and education",
+              "1. Lack of a centralized source of information on statewide resources and services available\nto immigrants in Virginia",
+              "misinformation around the Trump era public charge rule within the immigrant community affects ... lack of a central place/resource to learn about services",
+              "7. Barriers to accessing healthcare"
+            ],
+            "title": "[PDF] Barriers to Integration of Virginia's Immigrants"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services.",
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The Language Access Plan\u2019s mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency."
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "Each department shall provide its own bilingual or multilingual services to ensure meaningful\naccess to its programs by individuals with LEP. Departments will also work with OIRE to identify\ntarget languages, assess their language access needs, and execute a plan for addressing any\nunmet needs or barriers to greater language access.",
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP)."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "field": "pain_point_report.emotional_trust_job_pain_points",
+        "reasoning": "The field value emphasizes fear of data sharing with authorities and confidentiality concerns, ambiguity about ID/documentation requirements at service points, language barriers affecting understanding of eligibility and hours, and digital/literacy barriers preventing online help-seeking. Excerpts describing formal language access policies and the role of OIRE show institutional commitments to meaningful access and privacy-oriented support, which are directly relevant to reducing fears about data handling and transparency. For example, language access policies and the Office of Immigrant and Refugee Engagement are framed as mechanisms to ensure residents with LEP have meaningful access to services, suggesting formal privacy considerations and a trusted pathway to assistance. This aligns with the trust and confidentiality pain point by illustrating structured protections and institutional trust-building around data handling and language support. The references to language access plans and free interpretation/translation services further support the idea that trusted, multilingual support is available, addressing both confidentiality worries and language barriers. Excerpts that highlight barriers to access\u2014such as a lack of clear, multilingual information at service points and scarce transparency about whether IDs are required\u2014directly map to the ambiguity and risk perceived by users when interacting with food pantries or service points. These passages reinforce the emotional/trust pain point by showing why users may fear miscommunication or being denied services due to unclear requirements. Additionally, discussions of the barriers to integration and misinformation around public charge policies illustrate broader trust and accessibility challenges faced by immigrants, including concerns about eligibility, data sharing, and the reliability of information, which feed into the fear and mistrust described in the pain points. Finally, mentions of multilingual hotlines and language access resources (including 211 Virginia translation capabilities) corroborate practical solutions that address digital access and literacy barriers by providing non-English channels to find and verify services. In sum, the most relevant excerpts provide concrete policy-backed language access structures, trusted support channels, and transparency safeguards that directly connect to fear of data sharing, unclear ID requirements, language barriers, and digital inequalities described in the target field value.",
+        "citations": [
+          {
+            "url": "https://rva.gov/sites/default/files/2023-05/Administrative%20Regulation%205.24%20Language%20Access%20Policy_19MAY2023.pdf",
+            "excerpts": [
+              "The city's language access initiatives improve the quality of life of Richmond's immigrant and refugee populations by providing increased access",
+              "The purpose of this policy is to ensure that Richmond\u2019s residents and stakeholders with LEP have\nmeaningful access to services, programs, and activities offered by the city.",
+              "The Department of Human Services\u2019 Office of Immigrant and\nRefugee Engagement (OIRE) oversees the city\u2019s language access initiatives that help city residents\novercome linguistic barriers and increase language access to critical resources. OIRE establishes\nand coordinates the citywide implementation of the city\u2019s Language Access Plan (LAP)."
+            ],
+            "title": "[PDF] LANGUAGE ACCESS POLICY A.R. Number: 5.24 Effective Date"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/language-access",
+            "excerpts": [
+              "The City of Richmond provides **free** interpretation and translation services to residents when accessing city services.",
+              "The Office of Immigrant and Refugee Engagement - OIRE The Language Access Plan's mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency.",
+              "The following, is the City's language access plan, a framework developed to ensure language barriers do not hinder individuals from accessing services ,",
+              "The Language Access Plan\u2019s mission is to ensure that all residents have equal access to city services and information, regardless of their English language proficiency."
+            ],
+            "title": "Language Access | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://search.211virginia.org/search?query=PH-3500.4550&query_label=Language%20Translation&query_type=taxonomy",
+            "excerpts": [
+              "Solutions include over-the-phone interpreting in more than 240 languages; video remote interpreting in 35 languages, including American Sign Language;"
+            ],
+            "title": "Language Translation - 10 results"
+          },
+          {
+            "url": "https://www.reestablishrichmond.org/language-access",
+            "excerpts": [
+              "Explains the barriers to language access that newcomers experience while navigating this process. Presents specific, practical changes needed to provide",
+              "When newcomer communities have access to information and services in their language, they can make informed choices and adapt to their new country and culture more quickly.",
+              "We employ bilingual interpreters and translators** to ensure that all of our clients can communicate effectively with our staff, participate fully in our programs, and access the resources needed to rebuild their lives and integrate into their new communitie",
+              "Obtaining a driver\u2019s license is essential for newcomers' self-sufficiency. However, those with limited English proficiency often face significant delays \u2014 up to a year or more \u2014 because the DMV lacks adequate language support for the learner\u2019s permit test and testing process.",
+              "Explains the barriers to language access that newcomers experience while navigating this process.",
+              "Presents specific, practical changes needed to provide language equity for newcomers "
+            ],
+            "title": "Language Access"
+          },
+          {
+            "url": "https://www.dss.virginia.gov/files/division/cvs/ona/immigrant_services/2022-vcu_ona-study/ONA-Barriers_to_Integration_final_report_Sept_2022.pdf",
+            "excerpts": [
+              "misinformation around the Trump era public charge rule within the immigrant community affects ... lack of a central place/resource to learn about services",
+              "1. Lack of a centralized source of information on statewide resources and services available\nto immigrants in Virginia",
+              "2. Language barriers to accessing services and education",
+              "7. Barriers to accessing healthcare"
+            ],
+            "title": "[PDF] Barriers to Integration of Virginia's Immigrants"
+          },
+          {
+            "url": "https://pifcoalition.org/wp-content/uploads/2023/05/Documenting-the-Harm-2023.pdf",
+            "excerpts": [
+              "The Trump public charge rule resulted in: \u25cb Immigrant participation in TANF, SNAP, and Medicaid rapidly declining for children in immigrant families. The share\u00a0..."
+            ],
+            "title": "[PDF] research documents the harm of past public charge policies"
+          },
+          {
+            "url": "https://www.rva.gov/immigrant-engagement/services",
+            "excerpts": [
+              "**The Office of Immigrant and Refugee Engagement - OIRE**",
+              "We have developed a series of ongoing programs based on input from our residents and by identifying unmet needs in Richmond\u2019s newcomer communities. Our office also provides services to improve residents\u2019 access to critical resources and overcome linguistic barriers."
+            ],
+            "title": "Services | Richmond - RVA.gov"
+          },
+          {
+            "url": "https://www.healthbrigade.org/patients-and-clients/eligibilityforservice/",
+            "excerpts": [
+              "HIV, Hep C, and STI testing is always free for anyone.",
+              "*Health Brigade accepts Virginia Medicaid Cardinal Care. We work with our patients and clients to see if they qualify prior to registering as uninsured."
+            ],
+            "title": "Eligibility for Services"
+          },
+          {
+            "url": "https://www.vdh.virginia.gov/richmond-city/sample-page/programs/new-americans-refugee-services/",
+            "excerpts": [
+              "**Fees:** There is no charge for newcomer Health Screenings. Required immunizations are free for the first year.",
+              "**To schedule a Health Screening appointment:** The resettlement agency/caseworker emails HCHD to request an appointment, and provides Biodata form/overseas exam records to initiate the clients\u2019 medical record. The goal is to complete screenings within 45 days of arrival to the US, especially for school-aged children.",
+              "**Caseworker & clients should bring the following to both health screening appointments:**\nClients\u2019 home address and phone number\nI94 papers\nPassport\nMedicaid card (when available)\nVaccine record\nMedical records (if available)\nMedications taken regularly\nPreferred pharmacy name (for faxing prescriptions)"
+            ],
+            "title": "Office of New Americans-Refugee Services - Richmond City Health Department"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "type": "json",
+    "beta_fields": null,
+    "output_schema": {
+      "type": "object",
+      "properties": {
+        "pain_point_report": {
+          "type": "object",
+          "properties": {
+            "functional_job_analysis": {
+              "type": "string",
+              "description": "Analysis for the 'Recently Arrived Immigrant' persona, focusing on the functional job of finding essential services like healthcare."
+            },
+            "functional_job_pain_points": {
+              "type": "string",
+              "description": "A markdown list of 3-5 concrete pain points with evidence, detailing issues like language barriers, finding uninsured care, and unreliable information."
+            },
+            "functional_job_workarounds": {
+              "type": "string",
+              "description": "Details on current workarounds (e.g., relying on friends, difficult English searches) and the cost of the status quo (stress, time, misinformation)."
+            },
+            "emotional_trust_job_analysis": {
+              "type": "string",
+              "description": "Analysis for the 'Vulnerable/Undocumented Individual' persona, focusing on the emotional job of accessing services anonymously."
+            },
+            "emotional_trust_job_pain_points": {
+              "type": "string",
+              "description": "A markdown list of 3-5 concrete pain points with evidence, detailing fears around data privacy, public charge rule, and ID requirements for services."
+            },
+            "emotional_trust_job_workarounds": {
+              "type": "string",
+              "description": "Details on current workarounds (e.g., avoiding necessary services) and the cost of the status quo (unmet needs, 'chilling effect' on service access)."
+            },
+            "cross_cutting_equity_analysis": {
+              "type": "string",
+              "description": "An analysis of equity dimensions affecting all users, including barriers like digital literacy, transportation, and who is most excluded."
+            },
+            "cited_sources": {
+              "type": "string",
+              "description": "A markdown list of all real sources cited as evidence for the identified pain points."
+            }
+          },
+          "required": [
+            "functional_job_analysis",
+            "functional_job_pain_points",
+            "functional_job_workarounds",
+            "emotional_trust_job_analysis",
+            "emotional_trust_job_pain_points",
+            "emotional_trust_job_workarounds",
+            "cross_cutting_equity_analysis",
+            "cited_sources"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "pain_point_report"
+      ],
+      "additionalProperties": false
+    },
+    "content_file": "pain_points.md"
+  }
+}
