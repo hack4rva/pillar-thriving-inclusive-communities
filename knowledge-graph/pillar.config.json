@@ -1,0 +1,12 @@
+{
+  "repoId": "pillar-thriving-inclusive-communities",
+  "pillarName": "Thriving and Inclusive Communities",
+  "shortName": "Thriving and Inclusive Communities",
+  "description": "Evidence and source graph for the Thriving and Inclusive Communities pillar, built from the repository's evidence log, source inventory, and post-event research — the pain points, populations, jobs to be done, prior art, and open questions behind each proposed project, with their cited sources. This corpus contains no financial dataset, so there is no funding layer.",
+  "sources": {
+    "evidenceLog": "admin/evidence_log.md",
+    "sourceInventory": "data/source_inventory.csv",
+    "projectsCsv": null
+  },
+  "derive": true
+}

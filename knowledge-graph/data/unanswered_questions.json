@@ -1,0 +1,1068 @@
+[
+ {
+  "id": "q:gap-1",
+  "question": "E-M001: Help1RVA service export or snapshot for immigrant/refugee services — no public download found",
+  "category": "missing-data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:gap-1"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 24-24",
+    "excerpt": "E-M001: Help1RVA service export or snapshot for immigrant/refugee services — no public download found"
+   }
+  ]
+ },
+ {
+  "id": "q:gap-2",
+  "question": "E-M002: Cross-agency referral pathway map (Social Services → Housing → workforce → nonprofit) — not documented publicly",
+  "category": "missing-data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:gap-2"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 25-25",
+    "excerpt": "E-M002: Cross-agency referral pathway map (Social Services → Housing → workforce → nonprofit) — not documented publicly"
+   }
+  ]
+ },
+ {
+  "id": "q:gap-3",
+  "question": "E-M003: List of priority languages served by Richmond service organizations",
+  "category": "missing-data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:gap-3"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 26-26",
+    "excerpt": "E-M003: List of priority languages served by Richmond service organizations"
+   }
+  ]
+ },
+ {
+  "id": "q:gap-4",
+  "question": "E-M004: Documentation of which communication channels residents actually use (WhatsApp, SMS, Facebook groups)",
+  "category": "missing-data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:gap-4"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 27-27",
+    "excerpt": "E-M004: Documentation of which communication channels residents actually use (WhatsApp, SMS, Facebook groups)"
+   }
+  ]
+ },
+ {
+  "id": "q:gap-5",
+  "question": "E-M005: Anonymized intake data showing how residents navigate between agencies",
+  "category": "missing-data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:gap-5"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "admin/evidence_log.md",
+    "sourceLocation": "lines 28-28",
+    "excerpt": "E-M005: Anonymized intake data showing how residents navigate between agencies"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-data-questions-0",
+  "question": "What minimum data set and consent language satisfy Virginia social services confidentiality requirements while enabling cross-agency sharing for navigation?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-minimum-data-set-and-consent-language-satisfy-virginia-social-services-conf",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 86-86",
+    "excerpt": "What minimum data set and consent language satisfy Virginia social services confidentiality requirements while enabling cross-agency sharing for navigation?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-data-questions-1",
+  "question": "Can circle-trust integrate with existing networks (e.g., Unite Virginia) while maintaining local consent standards and avoiding duplicate records?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:can-circle-trust-integrate-with-existing-networks-e-g-unite-virginia-while-maint",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 86-86",
+    "excerpt": "Can circle-trust integrate with existing networks (e.g., Unite Virginia) while maintaining local consent standards and avoiding duplicate records?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-data-questions-2",
+  "question": "What are the rules of engagement and audit trails for sharing intake notes between city units (OCWB, OHS), RRHA, VADOC community supervision, and non-profits in the GRCoC?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-are-the-rules-of-engagement-and-audit-trails-for-sharing-intake-notes-betwe",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 86-86",
+    "excerpt": "What are the rules of engagement and audit trails for sharing intake notes between city units (OCWB, OHS), RRHA, VADOC community supervision, and non-profits in the GRCoC?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-user-questions-0",
+  "question": "Which navigator roles in Richmond are best positioned as ‘trusted intermediaries’ (OCWB career coaches, OHS Resource Center navigators, RRHA Resident Services Coordinators, or reentry case managers)?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:which-navigator-roles-in-richmond-are-best-positioned-as-trusted-intermediaries-",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "Which navigator roles in Richmond are best positioned as ‘trusted intermediaries’ (OCWB career coaches, OHS Resource Center navigators, RRHA Resident Services Coordinators, or reentry case managers)?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-user-questions-1",
+  "question": "What are residents’ pain points at each entry point (Homeless Connection Line, RRHA portals, OCWB stations), and where is a single-intake model most impactful?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-are-residents-pain-points-at-each-entry-point-homeless-connection-line-rrha",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "What are residents’ pain points at each entry point (Homeless Connection Line, RRHA portals, OCWB stations), and where is a single-intake model most impactful?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-user-questions-2",
+  "question": "What languages, accessibility needs, and trauma-informed practices are required for consent and storytelling in Richmond neighborhoods most affected by housing instability and justice involvement?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-languages-accessibility-needs-and-trauma-informed-practices-are-required-fo",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "What languages, accessibility needs, and trauma-informed practices are required for consent and storytelling in Richmond neighborhoods most affected by housing instability and justice involvement?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-user-questions-3",
+  "question": "What minimum data set and consent language satisfy Virginia social services confidentiality requirements while enabling cross-agency sharing for navigation?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-minimum-data-set-and-consent-language-satisfy-virginia-social-services-conf",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "What minimum data set and consent language satisfy Virginia social services confidentiality requirements while enabling cross-agency sharing for navigation?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-user-questions-4",
+  "question": "How do OCWB’s cohort-based workforce pathways and the City’s Community Resource & Training Center “one-stop” inform navigator placement and operating hours?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-do-ocwb-s-cohort-based-workforce-pathways-and-the-city-s-community-resource-",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "How do OCWB’s cohort-based workforce pathways and the City’s Community Resource & Training Center “one-stop” inform navigator placement and operating hours?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-integration-questions-0",
+  "question": "How will circle-trust align with the GRCoC coordinated entry (Homeward/HCL) without duplicating diversion/assessment?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-circle-trust-align-with-the-grcoc-coordinated-entry-homeward-hcl-withou",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 156-156",
+    "excerpt": "How will circle-trust align with the GRCoC coordinated entry (Homeward/HCL) without duplicating diversion/assessment?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-integration-questions-1",
+  "question": "What is the lightest-weight interface to RRHA’s applicant/resident portals and OCWB’s workflows for closed-loop status updates?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-is-the-lightest-weight-interface-to-rrha-s-applicant-resident-portals-and-o",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 156-156",
+    "excerpt": "What is the lightest-weight interface to RRHA’s applicant/resident portals and OCWB’s workflows for closed-loop status updates?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-integration-questions-2",
+  "question": "How can navigators view referral outcomes from workforce partners (CRWDB centers, OCWB cohorts) and reentry supports (VADOC, Sheriff programs) in one place?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-can-navigators-view-referral-outcomes-from-workforce-partners-crwdb-centers-",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 156-156",
+    "excerpt": "How can navigators view referral outcomes from workforce partners (CRWDB centers, OCWB cohorts) and reentry supports (VADOC, Sheriff programs) in one place?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-equity-questions-0",
+  "question": "How will circle-trust advance Richmond’s Equity Agenda (reentry support, workforce pathways) and measure reductions in disparate outcomes by race and neighborhood?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-circle-trust-advance-richmond-s-equity-agenda-reentry-support-workforce",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 183-183",
+    "excerpt": "How will circle-trust advance Richmond’s Equity Agenda (reentry support, workforce pathways) and measure reductions in disparate outcomes by race and neighborhood?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-equity-questions-1",
+  "question": "What safeguards ensure residents control data visibility across agencies and can revoke consent without losing access to help?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-safeguards-ensure-residents-control-data-visibility-across-agencies-and-can",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 183-183",
+    "excerpt": "What safeguards ensure residents control data visibility across agencies and can revoke consent without losing access to help?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-equity-questions-2",
+  "question": "How will the project resource community-based org participation (time, training, language services) so smaller, culturally specific providers are not excluded?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-the-project-resource-community-based-org-participation-time-training-la",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 183-183",
+    "excerpt": "How will the project resource community-based org participation (time, training, language services) so smaller, culturally specific providers are not excluded?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-prior-art-questions-0",
+  "question": "What lessons from Unite Virginia’s closed-loop referrals and from findhelp usage in Richmond should shape circle-trust’s data model and handoff protocols?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-lessons-from-unite-virginia-s-closed-loop-referrals-and-from-findhelp-usage",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 210-210",
+    "excerpt": "What lessons from Unite Virginia’s closed-loop referrals and from findhelp usage in Richmond should shape circle-trust’s data model and handoff protocols?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-prior-art-questions-1",
+  "question": "How do OCWB’s cohort-based workforce pathways and the City’s Community Resource & Training Center “one-stop” inform navigator placement and operating hours?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-do-ocwb-s-cohort-based-workforce-pathways-and-the-city-s-community-resource-",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 210-210",
+    "excerpt": "How do OCWB’s cohort-based workforce pathways and the City’s Community Resource & Training Center “one-stop” inform navigator placement and operating hours?"
+   }
+  ]
+ },
+ {
+  "id": "q:circle-trust-prior-art-questions-2",
+  "question": "Where have similar “tell your story once” pilots succeeded or failed in Virginia localities (data-sharing MOUs, navigator training, consent UX), and who should we consult locally (Homeward, RRHA, OCWB, CRWDB, OAR, VADOC, Sheriff)?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:where-have-similar-tell-your-story-once-pilots-succeeded-or-failed-in-virginia-l",
+   "n:proposal:circle-trust"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
+    "sourceLocation": "lines 210-210",
+    "excerpt": "Where have similar “tell your story once” pilots succeeded or failed in Virginia localities (data-sharing MOUs, navigator training, consent UX), and who should we consult locally (Homeward, RRHA, OCWB, CRWDB, OAR, VADOC, Sheriff)?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-0",
+  "question": "What minimal data set and document list satisfy all three: DSS verification, WIOA eligibility documentation, and RRHA eligibility packet, without collecting extra sensitive data? Which fields are strictly optional (e.g., SSN under WIOA)?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-minimal-data-set-and-document-list-satisfy-all-three-dss-verification-wioa-",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "What minimal data set and document list satisfy all three: DSS verification, WIOA eligibility documentation, and RRHA eligibility packet, without collecting extra sensitive data? Which fields are strictly optional (e.g., SSN under WIOA)?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-1",
+  "question": "What is the precise consent model for client-controlled sharing via QR: granular (field-level) vs bundle-level consent, expiration windows, and revocation in an offline/no-server architecture?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-is-the-precise-consent-model-for-client-controlled-sharing-via-qr-granular-",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "What is the precise consent model for client-controlled sharing via QR: granular (field-level) vs bundle-level consent, expiration windows, and revocation in an offline/no-server architecture?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-2",
+  "question": "How will identity verification be handled on-device (e.g., liveness, barcode scan) without server storage, while still being acceptable to DSS/WIOA/RRHA reviewers?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-identity-verification-be-handled-on-device-e-g-liveness-barcode-scan-wi",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "How will identity verification be handled on-device (e.g., liveness, barcode scan) without server storage, while still being acceptable to DSS/WIOA/RRHA reviewers?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-3",
+  "question": "How will the pack note data provenance (e.g., 'pay stub uploaded on [date], verified by [agency]' vs self-attested) to reduce rework and meet audit needs?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-the-pack-note-data-provenance-e-g-pay-stub-uploaded-on-date-verified-by",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "How will the pack note data provenance (e.g., 'pay stub uploaded on [date], verified by [agency]' vs self-attested) to reduce rework and meet audit needs?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-4",
+  "question": "For DSS: what acceptance pathways exist for pack PDFs to accompany or pre-stage CommonHelp submissions or be received by local RDSS workers (fax, upload link, kiosk intake)?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:for-dss-what-acceptance-pathways-exist-for-pack-pdfs-to-accompany-or-pre-stage-c",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "For DSS: what acceptance pathways exist for pack PDFs to accompany or pre-stage CommonHelp submissions or be received by local RDSS workers (fax, upload link, kiosk intake)?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-5",
+  "question": "For Virginia Career Works Capital Region: which WIOA documents can be accepted as self-attested vs must be third-party verified, and can the pack’s structure map to VaWC document categories for faster intake?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:for-virginia-career-works-capital-region-which-wioa-documents-can-be-accepted-as",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "For Virginia Career Works Capital Region: which WIOA documents can be accepted as self-attested vs must be third-party verified, and can the pack’s structure map to VaWC document categories for faster intake?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-6",
+  "question": "For RRHA: can the pack fulfill the 'eligibility packet' requirements and verifications checklist; are there specific forms that must remain RRHA originals (e.g., HUD forms) vs attachable proofs?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:for-rrha-can-the-pack-fulfill-the-eligibility-packet-requirements-and-verificati",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "For RRHA: can the pack fulfill the 'eligibility packet' requirements and verifications checklist; are there specific forms that must remain RRHA originals (e.g., HUD forms) vs attachable proofs?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-7",
+  "question": "How will closed-loop referrals be coordinated alongside Unite Virginia (Unite Us) and 211 Virginia so that pack handoffs reduce 'referral voids' without duplicating platforms?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-closed-loop-referrals-be-coordinated-alongside-unite-virginia-unite-us-",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "How will closed-loop referrals be coordinated alongside Unite Virginia (Unite Us) and 211 Virginia so that pack handoffs reduce 'referral voids' without duplicating platforms?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-8",
+  "question": "Which document and evidence standards (e.g., I-9 acceptable documents list; DSS IEVS; WIOA Attachment C telephone verification form) can the pack reference to pre-label uploads and reduce rejections?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:which-document-and-evidence-standards-e-g-i-9-acceptable-documents-list-dss-ievs",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "Which document and evidence standards (e.g., I-9 acceptable documents list; DSS IEVS; WIOA Attachment C telephone verification form) can the pack reference to pre-label uploads and reduce rejections?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-data-questions-9",
+  "question": "What lessons from statewide coordinated referral networks (Unite Us in Virginia) and state benefit portals (CommonHelp) should shape the pack’s data model and consent patterns to avoid parallel, conflicting workflows?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-lessons-from-statewide-coordinated-referral-networks-unite-us-in-virginia-a",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 36-36",
+    "excerpt": "What lessons from statewide coordinated referral networks (Unite Us in Virginia) and state benefit portals (CommonHelp) should shape the pack’s data model and consent patterns to avoid parallel, conflicting workflows?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-user-questions-0",
+  "question": "Which languages beyond EN/ES/AR are most needed in Richmond (e.g., Dari/Pashto, Swahili) based on OCWB and RDSS client mix? Any interpreter-access workflows to pair with the pack?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:which-languages-beyond-en-es-ar-are-most-needed-in-richmond-e-g-dari-pashto-swah",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 159-159",
+    "excerpt": "Which languages beyond EN/ES/AR are most needed in Richmond (e.g., Dari/Pashto, Swahili) based on OCWB and RDSS client mix? Any interpreter-access workflows to pair with the pack?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-user-questions-1",
+  "question": "What offline-first flows are needed for residents without stable connectivity or devices; how will QR codes work for paper-only users (printed code linked to on-device pack vs locally saved PDF)?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-offline-first-flows-are-needed-for-residents-without-stable-connectivity-or",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 159-159",
+    "excerpt": "What offline-first flows are needed for residents without stable connectivity or devices; how will QR codes work for paper-only users (printed code linked to on-device pack vs locally saved PDF)?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-user-questions-2",
+  "question": "What trauma-informed prompts minimize retelling while still collecting WIOA 'barrier' and RRHA preference information?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-trauma-informed-prompts-minimize-retelling-while-still-collecting-wioa-barr",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 159-159",
+    "excerpt": "What trauma-informed prompts minimize retelling while still collecting WIOA 'barrier' and RRHA preference information?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-user-questions-3",
+  "question": "What safeguards prevent adverse actions when clients choose not to disclose SSN (per WIOA allowance) or immigration details beyond what is strictly required by each agency?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-safeguards-prevent-adverse-actions-when-clients-choose-not-to-disclose-ssn-",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 159-159",
+    "excerpt": "What safeguards prevent adverse actions when clients choose not to disclose SSN (per WIOA allowance) or immigration details beyond what is strictly required by each agency?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-user-questions-4",
+  "question": "How will the solution accommodate people experiencing homelessness, returning citizens, and survivors of violence who may lack standard proofs—and align with WIOA/DSS allowances for alternate verification and self-attestation?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-the-solution-accommodate-people-experiencing-homelessness-returning-cit",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 159-159",
+    "excerpt": "How will the solution accommodate people experiencing homelessness, returning citizens, and survivors of violence who may lack standard proofs—and align with WIOA/DSS allowances for alternate verification and self-attestation?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-integration-questions-0",
+  "question": "For the Department of Social Services (DSS), what acceptance pathways exist for the pack's PDFs to accompany or pre-stage CommonHelp submissions, or be received by local Richmond DSS workers through methods like fax, an upload link, or at a kiosk intake?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:for-the-department-of-social-services-dss-what-acceptance-pathways-exist-for-the",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 222-222",
+    "excerpt": "For the Department of Social Services (DSS), what acceptance pathways exist for the pack's PDFs to accompany or pre-stage CommonHelp submissions, or be received by local Richmond DSS workers through methods like fax, an upload link, or at a kiosk intake?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-integration-questions-1",
+  "question": "For the Virginia Career Works Capital Region, which Workforce Innovation and Opportunity Act (WIOA) documents can be accepted as self-attested versus those that must be third-party verified, and can the pack’s data structure be mapped to Virginia Career Works (VaWC) document categories to expedite intake?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:for-the-virginia-career-works-capital-region-which-workforce-innovation-and-oppo",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 222-222",
+    "excerpt": "For the Virginia Career Works Capital Region, which Workforce Innovation and Opportunity Act (WIOA) documents can be accepted as self-attested versus those that must be third-party verified, and can the pack’s data structure be mapped to Virginia Career Works (VaWC) document categories to expedite intake?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-integration-questions-2",
+  "question": "For the Richmond Redevelopment and Housing Authority (RRHA), can the pack fulfill the entirety of the 'eligibility packet' requirements and verifications checklist, and are there specific forms, such as those from HUD, that must remain as RRHA originals rather than attachable proofs?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:for-the-richmond-redevelopment-and-housing-authority-rrha-can-the-pack-fulfill-t",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 222-222",
+    "excerpt": "For the Richmond Redevelopment and Housing Authority (RRHA), can the pack fulfill the entirety of the 'eligibility packet' requirements and verifications checklist, and are there specific forms, such as those from HUD, that must remain as RRHA originals rather than attachable proofs?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-integration-questions-3",
+  "question": "How will closed-loop referrals be coordinated alongside existing platforms like Unite Virginia (Unite Us) and 211 Virginia, so that the handoff of the eligibility pack reduces 'referral voids' without duplicating platforms or creating conflicting workflows?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-closed-loop-referrals-be-coordinated-alongside-existing-platforms-like-",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 222-222",
+    "excerpt": "How will closed-loop referrals be coordinated alongside existing platforms like Unite Virginia (Unite Us) and 211 Virginia, so that the handoff of the eligibility pack reduces 'referral voids' without duplicating platforms or creating conflicting workflows?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-equity-questions-0",
+  "question": "What safeguards will be implemented to prevent adverse actions against clients who choose not to disclose their Social Security Number (as permitted by WIOA) or immigration details beyond what is strictly required by each specific agency?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-safeguards-will-be-implemented-to-prevent-adverse-actions-against-clients-w",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 273-273",
+    "excerpt": "What safeguards will be implemented to prevent adverse actions against clients who choose not to disclose their Social Security Number (as permitted by WIOA) or immigration details beyond what is strictly required by each specific agency?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-equity-questions-1",
+  "question": "How will the solution accommodate people experiencing homelessness, returning citizens, and survivors of violence who often lack standard proofs of identity or residence, and how will it align with WIOA/DSS allowances for alternate verification and self-attestation?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-the-solution-accommodate-people-experiencing-homelessness-returning-cit",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 273-273",
+    "excerpt": "How will the solution accommodate people experiencing homelessness, returning citizens, and survivors of violence who often lack standard proofs of identity or residence, and how will it align with WIOA/DSS allowances for alternate verification and self-attestation?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-equity-questions-2",
+  "question": "Which languages beyond English, Spanish, and Arabic are most needed in Richmond based on client data from the Office of Community Wealth Building (OCWB) and Richmond Department of Social Services (RDSS), and are there plans for interpreter-access workflows to be paired with the pack?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:which-languages-beyond-english-spanish-and-arabic-are-most-needed-in-richmond-ba",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 273-273",
+    "excerpt": "Which languages beyond English, Spanish, and Arabic are most needed in Richmond based on client data from the Office of Community Wealth Building (OCWB) and Richmond Department of Social Services (RDSS), and are there plans for interpreter-access workflows to be paired with the pack?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-equity-questions-3",
+  "question": "What offline-first workflows are needed for residents without stable internet connectivity or personal devices, and how will QR codes function for paper-only users (e.g., a printed code linking to a locally saved PDF)?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-offline-first-workflows-are-needed-for-residents-without-stable-internet-co",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 273-273",
+    "excerpt": "What offline-first workflows are needed for residents without stable internet connectivity or personal devices, and how will QR codes function for paper-only users (e.g., a printed code linking to a locally saved PDF)?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-equity-questions-4",
+  "question": "What trauma-informed design principles and language will be used in the tool's prompts to minimize the emotional burden of retelling personal histories, while still collecting sensitive but necessary information for WIOA 'barrier' and RRHA preference categories?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-trauma-informed-design-principles-and-language-will-be-used-in-the-tool-s-p",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 273-273",
+    "excerpt": "What trauma-informed design principles and language will be used in the tool's prompts to minimize the emotional burden of retelling personal histories, while still collecting sensitive but necessary information for WIOA 'barrier' and RRHA preference categories?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-prior-art-questions-0",
+  "question": "Which document and evidence standards (e.g., I-9 acceptable documents list; DSS IEVS; WIOA Attachment C telephone verification form) can the pack reference to pre-label uploads and reduce rejections?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:which-document-and-evidence-standards-e-g-i-9-acceptable-documents-list-dss-ievs",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 336-336",
+    "excerpt": "Which document and evidence standards (e.g., I-9 acceptable documents list; DSS IEVS; WIOA Attachment C telephone verification form) can the pack reference to pre-label uploads and reduce rejections?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-prior-art-questions-1",
+  "question": "What lessons from statewide coordinated referral networks (Unite Us in Virginia) and state benefit portals (CommonHelp) should shape the pack’s data model and consent patterns to avoid parallel, conflicting workflows?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-lessons-from-statewide-coordinated-referral-networks-unite-us-in-virginia-a",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 336-336",
+    "excerpt": "What lessons from statewide coordinated referral networks (Unite Us in Virginia) and state benefit portals (CommonHelp) should shape the pack’s data model and consent patterns to avoid parallel, conflicting workflows?"
+   }
+  ]
+ },
+ {
+  "id": "q:core-eligibility-pack-builder-prior-art-questions-2",
+  "question": "How will closed-loop referrals be coordinated alongside Unite Virginia (Unite Us) and 211 Virginia so that pack handoffs reduce 'referral voids' without duplicating platforms?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-closed-loop-referrals-be-coordinated-alongside-unite-virginia-unite-us-",
+   "n:proposal:core-eligibility-pack-builder"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
+    "sourceLocation": "lines 336-336",
+    "excerpt": "How will closed-loop referrals be coordinated alongside Unite Virginia (Unite Us) and 211 Virginia so that pack handoffs reduce 'referral voids' without duplicating platforms?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-data-questions-0",
+  "question": "What minimal, standardized intake fields will satisfy GRCoC Coordinated Entry screening while avoiding duplication with HCIS and EmpowerNet requirements?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-minimal-standardized-intake-fields-will-satisfy-grcoc-coordinated-entry-scr",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 86-86",
+    "excerpt": "What minimal, standardized intake fields will satisfy GRCoC Coordinated Entry screening while avoiding duplication with HCIS and EmpowerNet requirements?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-data-questions-1",
+  "question": "What data-sharing agreements (MOUs/BAAs/Part 2 consents) are required to exchange data among RRHA, OCWB, GRCoC providers, Virginia Career Works, and CBOs while complying with Virginia’s Government Data Collection and Dissemination Practices Act (and HIPAA/VAWA/42 CFR Part 2 where applicable)?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-data-sharing-agreements-mous-baas-part-2-consents-are-required-to-exchange-",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 86-86",
+    "excerpt": "What data-sharing agreements (MOUs/BAAs/Part 2 consents) are required to exchange data among RRHA, OCWB, GRCoC providers, Virginia Career Works, and CBOs while complying with Virginia’s Government Data Collection and Dissemination Practices Act (and HIPAA/VAWA/42 CFR Part 2 where applicable)?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-data-questions-2",
+  "question": "How will rva-helps log and protect DV-related data and route to EmpowerNet without storing protected information in non-comparable systems?",
+  "category": "data",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-rva-helps-log-and-protect-dv-related-data-and-route-to-empowernet-witho",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 86-86",
+    "excerpt": "How will rva-helps log and protect DV-related data and route to EmpowerNet without storing protected information in non-comparable systems?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-user-questions-0",
+  "question": "Which primary user flows should launch first: residents self-service, navigator-assisted, or provider-to-provider handoffs at GRCoC Connection Points?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:which-primary-user-flows-should-launch-first-residents-self-service-navigator-as",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "Which primary user flows should launch first: residents self-service, navigator-assisted, or provider-to-provider handoffs at GRCoC Connection Points?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-user-questions-1",
+  "question": "What language access and accessibility features are essential at launch (Spanish, ASL, screen readers)?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-language-access-and-accessibility-features-are-essential-at-launch-spanish-",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "What language access and accessibility features are essential at launch (Spanish, ASL, screen readers)?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-user-questions-2",
+  "question": "For returning citizens, what onboarding supports (IDs, housing, employment documents) are most needed post-release from Richmond City Sheriff/VDOC to reduce intake friction?",
+  "category": "user",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:for-returning-citizens-what-onboarding-supports-ids-housing-employment-documents",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 113-113",
+    "excerpt": "For returning citizens, what onboarding supports (IDs, housing, employment documents) are most needed post-release from Richmond City Sheriff/VDOC to reduce intake friction?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-integration-questions-0",
+  "question": "How will rva-helps align with GRCoC Access Points (Homeless Connection Line, Coordinated Outreach, EmpowerNet) and not duplicate Coordinated Entry, while still simplifying navigation for residents not yet in crisis?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-rva-helps-align-with-grcoc-access-points-homeless-connection-line-coord",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 140-140",
+    "excerpt": "How will rva-helps align with GRCoC Access Points (Homeless Connection Line, Coordinated Outreach, EmpowerNet) and not duplicate Coordinated Entry, while still simplifying navigation for residents not yet in crisis?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-integration-questions-1",
+  "question": "Which integrations provide the highest ROI at MVP: • HCIS read/write for basic triage metadata? • Unite Virginia closed-loop referrals? • 2-1-1 directory sync? • Findhelp directory embedding? • VA Career Works appointment scheduling?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:which-integrations-provide-the-highest-roi-at-mvp-hcis-read-write-for-basic-tria",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 140-140",
+    "excerpt": "Which integrations provide the highest ROI at MVP: • HCIS read/write for basic triage metadata? • Unite Virginia closed-loop referrals? • 2-1-1 directory sync? • Findhelp directory embedding? • VA Career Works appointment scheduling?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-integration-questions-2",
+  "question": "Can the tool surface RRHA Central Intake guidance (e.g., immediate housing assistance line) contextually and capture warm handoffs without implying eligibility or queue priority?",
+  "category": "integration",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:can-the-tool-surface-rrha-central-intake-guidance-e-g-immediate-housing-assistan",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 140-140",
+    "excerpt": "Can the tool surface RRHA Central Intake guidance (e.g., immediate housing assistance line) contextually and capture warm handoffs without implying eligibility or queue priority?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-equity-questions-0",
+  "question": "How will the tool prioritize outreach and content for neighborhoods with high eviction risk and digital divides, ensuring mobile-first, SMS, and offline pathways through connection points and 311/phone lines?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-will-the-tool-prioritize-outreach-and-content-for-neighborhoods-with-high-ev",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 167-167",
+    "excerpt": "How will the tool prioritize outreach and content for neighborhoods with high eviction risk and digital divides, ensuring mobile-first, SMS, and offline pathways through connection points and 311/phone lines?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-equity-questions-1",
+  "question": "What governance will include people with lived experience (e.g., GRCoC shelter focus group participants, returning citizens) to continuously improve the product and avoid harm?",
+  "category": "equity",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-governance-will-include-people-with-lived-experience-e-g-grcoc-shelter-focu",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 167-167",
+    "excerpt": "What governance will include people with lived experience (e.g., GRCoC shelter focus group participants, returning citizens) to continuously improve the product and avoid harm?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-prior-art-questions-0",
+  "question": "What lessons from GRCoC’s Connection Points pilot, the Homeless Connection Line operations, and OCWB career services can inform rva-helps intake-lite design and handoffs?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:what-lessons-from-grcoc-s-connection-points-pilot-the-homeless-connection-line-o",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 186-186",
+    "excerpt": "What lessons from GRCoC’s Connection Points pilot, the Homeless Connection Line operations, and OCWB career services can inform rva-helps intake-lite design and handoffs?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-prior-art-questions-1",
+  "question": "How do existing platforms used locally (Unite Virginia, 2-1-1, Help1RVA, findhelp, No Wrong Door) succeed or struggle in Richmond, and where should rva-helps complement rather than replace them?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:how-do-existing-platforms-used-locally-unite-virginia-2-1-1-help1rva-findhelp-no",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 186-186",
+    "excerpt": "How do existing platforms used locally (Unite Virginia, 2-1-1, Help1RVA, findhelp, No Wrong Door) succeed or struggle in Richmond, and where should rva-helps complement rather than replace them?"
+   }
+  ]
+ },
+ {
+  "id": "q:rva-helps-prior-art-questions-2",
+  "question": "Which policies in the GRCoC Coordinated Entry System (e.g., prioritization, access standards) must rva-helps reflect to maintain compliance and avoid queue-jumping perceptions?",
+  "category": "prior_art",
+  "repo": "pillar-thriving-inclusive-communities",
+  "relatedNodeIds": [
+   "n:question:which-policies-in-the-grcoc-coordinated-entry-system-e-g-prioritization-access-s",
+   "n:proposal:rva-helps"
+  ],
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/jtbd_analysis.md",
+    "sourceLocation": "lines 186-186",
+    "excerpt": "Which policies in the GRCoC Coordinated Entry System (e.g., prioritization, access standards) must rva-helps reflect to maintain compliance and avoid queue-jumping perceptions?"
+   }
+  ]
+ }
+]
