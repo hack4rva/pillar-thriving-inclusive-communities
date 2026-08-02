@@ -12,5 +12,19 @@
    "Keep separate"
   ],
   "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-greater-richmond-continuum-of-care-grcoc",
+  "itemType": "node",
+  "proposed": "n:problem:greater-richmond-continuum-of-care-grcoc vs n:org:greater-richmond-continuum-of-care-grcoc",
+  "sourceExcerpt": "Greater Richmond Continuum of Care (GRCoC)",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
  }
 ]

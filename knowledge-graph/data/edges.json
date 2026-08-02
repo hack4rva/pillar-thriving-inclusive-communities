@@ -15,7 +15,7 @@
     "excerpt": "Can circle-trust integrate with existing networks (e.g., Unite Virginia) while maintaining local consent standards and avoiding duplicate records?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:0368c5ad3434",
@@ -33,7 +33,7 @@
     "excerpt": "What data-sharing agreements (MOUs/BAAs/Part 2 consents) are required to exchange data among RRHA, OCWB, GRCoC providers, Virginia Career Works, and CBOs while complying with Virginia’s Government Data Collection and Dissemination Practices Act (and HIPAA/VAWA/42 CFR Part 2 where applicable)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:044a7d5b4225",
@@ -51,7 +51,7 @@
     "excerpt": "Fragmented Access Points and Repeated Intakes"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:04a84436c890",
@@ -69,7 +69,7 @@
     "excerpt": "GRTC bus system"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:04e38323686d",
@@ -87,7 +87,7 @@
     "excerpt": "Reentering the community under supervision after a period of incarceration."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:0525e6dd9fd8",
@@ -105,7 +105,7 @@
     "excerpt": "City of Richmond Open Data"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:060c67a3a80b",
@@ -123,7 +123,7 @@
     "excerpt": "The Homeless Connection Line (HCL), the primary access point for the GRCoC, experiences significant issues. The city's CAPER report notes 'longer wait times to gain access to emergency beds' through the HCL, attributed to bed shortages, funding limits, and staffing challenges. Furthermore, the HCL has limited operating hours (Monday–Friday 8:00 AM–9:00 PM; Saturday and Sunday 1:00 PM–9:00 PM), creating a chokepoint for individuals seeking help outside these times."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:07bc6fe58fdb",
@@ -141,7 +141,7 @@
     "excerpt": "For DSS: what acceptance pathways exist for pack PDFs to accompany or pre-stage CommonHelp submissions or be received by local RDSS workers (fax, upload link, kiosk intake)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:09809bc27dbd",
@@ -159,7 +159,7 @@
     "excerpt": "Limited Shelter Capacity and Long Waits via Coordinated Entry"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:0bf6abaff4fb",
@@ -177,7 +177,7 @@
     "excerpt": "The application process for the Richmond Redevelopment and Housing Authority (RRHA) is characterized by long waitlists, abrupt systemic failures, and stringent documentation requirements. A critical issue highlighted is the unreliability of the process due to funding uncertainties. In May 2025, the RRHA suddenly suspended the issuance of Housing Choice Vouchers because of a lack of federal funding. This action directly impacted an estimated 395 families who were scheduled to receive vouchers, placing them back on the waitlist and creating a state of housing instability and uncertainty. Beyond these systemic failures, the application process itself is demanding. The RRHA's Admissions and Continued Occupancy Policy (ACOP) mandates strict documentation. Notably, it requires original Social Security Number cards for all household members, a stricter requirement compared to other agencies. Furthermore, the RRHA has a rigid hierarchy of acceptable identification documents and explicitly prefers third-party verification over self-certification, adding another layer of difficulty and potential delay for applicants trying to assemble their packets. These strict requirements, combined with the need to use a separate 'RRHA Applicant Portal,' contribute to the overall administrative burden and frustration for residents seeking housing assistance."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:0f2c2da5cc3d",
@@ -195,7 +195,7 @@
     "excerpt": "Repetitive Data Entry and Inconsistent Requirements"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:14a182d663fd",
@@ -213,14 +213,14 @@
     "excerpt": "Forced Re-disclosure of Sensitive Information Across Multiple Systems"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:14c599fa422e",
   "source": "n:org:findhelp-inc",
   "target": "n:dataset:findhelp-aunt-bertha",
   "type": "PUBLISHES",
-  "description": "FindHelp Inc. owns/publishes \"FindHelp / Aunt Bertha\" (Web/API)",
+  "description": "FindHelp Inc owns/publishes \"FindHelp / Aunt Bertha\" (Web/API)",
   "repo": "pillar-thriving-inclusive-communities",
   "evidenceStatus": "reported_but_unverified",
   "confidence": "medium",
@@ -231,7 +231,7 @@
     "excerpt": "FindHelp / Aunt Bertha"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:1515d11d6701",
@@ -249,7 +249,7 @@
     "excerpt": "Residents with language barriers, limited digital literacy, or lack of access to technology."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:154b1da09a54",
@@ -267,7 +267,7 @@
     "excerpt": "Richmond Redevelopment and Housing Authority (RRHA)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:17c91b724f1e",
@@ -285,7 +285,7 @@
     "excerpt": "The failures of Richmond's fragmented service system most negatively impact several specific demographic groups. These include justice-involved residents, who are disproportionately Black in Richmond and face compounded barriers upon reentry. Low-income and carless residents are also heavily affected, as they bear the highest coordination and travel costs. Households with children are particularly vulnerable, facing shelter turn-aways and waitlists. Other at-risk groups include marginalized renters who are disproportionately affected by the high local eviction burden, veteran subgroups with complex medical and mental health needs, older adults, and parenting youth who may be excluded when resource scarcity forces prioritization."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:1a94cb2953a9",
@@ -303,25 +303,7 @@
     "excerpt": "For RRHA: can the pack fulfill the 'eligibility packet' requirements and verifications checklist; are there specific forms that must remain RRHA originals (e.g., HUD forms) vs attachable proofs?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
- },
- {
-  "id": "e:1bef3338b7e5",
-  "source": "n:org:community-organizations-residents",
-  "target": "n:dataset:whatsapp-and-sms-channel-usage-patterns",
-  "type": "PUBLISHES",
-  "description": "Community organizations/residents owns/publishes \"WhatsApp and SMS Channel Usage Patterns\" (Interviews/surveys)",
-  "repo": "pillar-thriving-inclusive-communities",
-  "evidenceStatus": "reported_but_unverified",
-  "confidence": "medium",
-  "provenance": [
-   {
-    "sourceDoc": "data/source_inventory.csv",
-    "sourceLocation": "row id=D012",
-    "excerpt": "WhatsApp and SMS Channel Usage Patterns"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:1bfbfe7df6d0",
@@ -339,7 +321,7 @@
     "excerpt": "When I am a case worker at a Richmond connection point"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:1c07f1f46deb",
@@ -357,7 +339,7 @@
     "excerpt": "What minimum data set and consent language satisfy Virginia social services confidentiality requirements while enabling cross-agency sharing for navigation?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:1d077d7ea979",
@@ -375,7 +357,7 @@
     "excerpt": "Systemic challenges related to data management and trust are a major barrier for Richmond residents, particularly for vulnerable populations like returning citizens and survivors of trauma. The core of the problem is the absence of a 'unified multi-agency data sharing information system' that would allow for secure, consented information transfer between agencies like VADOC, GRCoC, and OCWB. In its place is a fragmented system where individuals are forced to repeatedly disclose sensitive personal information at multiple intake points. This process of 'repeated storytelling' is not only inefficient but can be retraumatizing and significantly erodes user trust. Residents are left with uncertainty about who has access to their data and how it is being used, leading to a justifiable fear of stigma or misuse. This lack of a trusted, privacy-protecting data infrastructure creates a high-stakes environment where individuals may choose to share minimal information, rely on informal advocacy from known navigators, or avoid seeking services altogether until they are in a state of crisis, ultimately delaying help and exacerbating their instability."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:1daa04ad03ca",
@@ -393,7 +375,25 @@
     "excerpt": "Allegheny County (Pittsburgh) — An evaluation of Allegheny County's Coordinated Entry system highlighted significant challenges in establishing a process that is both humane and efficient. The research noted the existence of implementation 'bumps' in their efforts to streamline access to services."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
+ },
+ {
+  "id": "e:1e6c34e8f16f",
+  "source": "n:org:homeward",
+  "target": "n:service:homeless-connection-line-hcl",
+  "type": "MANAGES",
+  "description": "Homeward manages Homeless Connection Line (HCL)",
+  "repo": "pillar-thriving-inclusive-communities",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/pain_points.md",
+    "sourceLocation": "lines 219-219",
+    "excerpt": "Homeward"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:1f53e7049003",
@@ -411,7 +411,7 @@
     "excerpt": "The WhatsApp bot cannot answer my specific question about my child's school enrollment."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:2146882034d6",
@@ -429,7 +429,7 @@
     "excerpt": "What lessons from statewide coordinated referral networks (Unite Us in Virginia) and state benefit portals (CommonHelp) should shape the pack’s data model and consent patterns to avoid parallel, conflicting workflows?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:241f3dc93bf6",
@@ -447,7 +447,7 @@
     "excerpt": "What lessons from GRCoC’s Connection Points pilot, the Homeless Connection Line operations, and OCWB career services can inform rva-helps intake-lite design and handoffs?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:24ec244e5387",
@@ -465,7 +465,7 @@
     "excerpt": "Fragmented Access Points and Repeated Intakes"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:25857efd9350",
@@ -483,7 +483,7 @@
     "excerpt": "Service Providers within GRCoC (e.g., CARITAS)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:280692c23845",
@@ -501,7 +501,7 @@
     "excerpt": "How will closed-loop referrals be coordinated alongside existing platforms like Unite Virginia (Unite Us) and 211 Virginia, so that the handoff of the eligibility pack reduces 'referral voids' without duplicating platforms or creating conflicting workflows?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:29bf28cc2272",
@@ -519,7 +519,7 @@
     "excerpt": "What are residents’ pain points at each entry point (Homeless Connection Line, RRHA portals, OCWB stations), and where is a single-intake model most impactful?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:2a29c55f431b",
@@ -537,7 +537,7 @@
     "excerpt": "Referral drop-offs and operational gaps"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:2de12f029bfa",
@@ -555,7 +555,7 @@
     "excerpt": "Which languages beyond English, Spanish, and Arabic are most needed in Richmond based on client data from the Office of Community Wealth Building (OCWB) and Richmond Department of Social Services (RDSS), and are there plans for interpreter-access workflows to be paired with the pack?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:2f7cec95713d",
@@ -573,7 +573,7 @@
     "excerpt": "What offline-first flows are needed for residents without stable connectivity or devices; how will QR codes work for paper-only users (printed code linked to on-device pack vs locally saved PDF)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:310a52141de4",
@@ -591,7 +591,7 @@
     "excerpt": "Employment instability and fragile outcomes post-release."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:33276a054fa5",
@@ -609,7 +609,7 @@
     "excerpt": "For the Virginia Career Works Capital Region, which Workforce Innovation and Opportunity Act (WIOA) documents can be accepted as self-attested versus those that must be third-party verified, and can the pack’s data structure be mapped to Virginia Career Works (VaWC) document categories to expedite intake?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:33a08cd69c85",
@@ -627,7 +627,7 @@
     "excerpt": "Design the system with explicit consent and role-based data sharing capabilities. The tool should provide clarity to the user on who will see their information and for what purpose, building trust and encouraging safe disclosure."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:35876c338684",
@@ -645,7 +645,7 @@
     "excerpt": "What are the rules of engagement and audit trails for sharing intake notes between city units (OCWB, OHS), RRHA, VADOC community supervision, and non-profits in the GRCoC?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:35b54664656c",
@@ -663,7 +663,7 @@
     "excerpt": "Scarcity of Affordable Housing and Restrictive Landlord Policies"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:35c8b0b4e873",
@@ -681,7 +681,7 @@
     "excerpt": "Lack of a Unified, Secure Data-Sharing System"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:381cfa729804",
@@ -699,7 +699,7 @@
     "excerpt": "There are systemic failures in providing consistent and meaningful multilingual access to services and information. Although the City of Richmond has a formal language access policy (AR 5.24) and a Language Access Plan (LAP), implementation is inconsistent across different city departments. This creates gaps in service delivery, as departments must individually operationalize the plan by designating liaisons, translating vital documents, and establishing interpretation pathways. The result is an overreliance on low-quality machine translation and a lack of sufficient bilingual staff, leading to ineffective communication."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:3b5f56ee06a6",
@@ -717,7 +717,7 @@
     "excerpt": "How do OCWB’s cohort-based workforce pathways and the City’s Community Resource & Training Center “one-stop” inform navigator placement and operating hours?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:3b96178407c3",
@@ -735,7 +735,7 @@
     "excerpt": "Ad Hoc Interpretation"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:4209a8640e32",
@@ -753,7 +753,7 @@
     "excerpt": "Historically high eviction rates and limited affordable housing supply."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:42c9ae66b05a",
@@ -771,7 +771,7 @@
     "excerpt": "Forced Re-disclosure of Sensitive Information Across Multiple Systems"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:43928e5388cb",
@@ -789,7 +789,7 @@
     "excerpt": "Stalled Applications and Delays"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:477063cadba1",
@@ -807,7 +807,7 @@
     "excerpt": "Virginia Office of New Americans"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:4846a06d37fe",
@@ -825,7 +825,7 @@
     "excerpt": "Trust and privacy concerns amid data sharing initiatives."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:4dc8513aa7ee",
@@ -843,7 +843,7 @@
     "excerpt": "How will circle-trust align with the GRCoC coordinated entry (Homeward/HCL) without duplicating diversion/assessment?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:4e8a1ab01ce2",
@@ -861,7 +861,25 @@
     "excerpt": "Shelter providers within GRCoC"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
+ },
+ {
+  "id": "e:4ff894b890f0",
+  "source": "n:org:help1rva",
+  "target": "n:dataset:help1rva-service-directory",
+  "type": "PUBLISHES",
+  "description": "Help1RVA owns/publishes \"Help1RVA Service Directory\" (Web/API (uncertain))",
+  "repo": "pillar-thriving-inclusive-communities",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D001",
+    "excerpt": "Help1RVA Service Directory"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:513284f7f5e6",
@@ -879,7 +897,7 @@
     "excerpt": "When I am released from the Richmond City Justice Center and need to complete probation check-in and secure basics (ID, benefits, shelter, job help) within 72 hours,"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:560eb5a883c7",
@@ -897,7 +915,7 @@
     "excerpt": "An examination of the pain points for residents with limited English proficiency (LEP) reveals significant concerns despite some existing support structures. The City of Richmond has a Language Access Plan, and the primary benefits portal, CommonHelp, is available in Spanish. However, the research indicates that the overall accessibility and quality of these services for LEP residents, particularly for the target Spanish and Arabic-speaking communities, are questionable. A crucial finding from the research is the lack of specific user experience reports on this topic, which suggests a data gap in understanding the true extent of the challenges faced by these populations when navigating the benefits application ecosystem. The need for the 'core-eligibility-pack-builder' project to be multilingual in English, Spanish, and Arabic further underscores the recognition of this significant barrier."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:57db00de1bf6",
@@ -915,7 +933,7 @@
     "excerpt": "What safeguards will be implemented to prevent adverse actions against clients who choose not to disclose their Social Security Number (as permitted by WIOA) or immigration details beyond what is strictly required by each specific agency?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:5a48bb91952e",
@@ -933,25 +951,7 @@
     "excerpt": "When I am a Richmond resident facing housing instability or job loss and don’t know where to start"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
- },
- {
-  "id": "e:5a623eea17e0",
-  "source": "n:org:n-a",
-  "target": "n:dataset:cross-agency-referral-pathway",
-  "type": "PUBLISHES",
-  "description": "N/A owns/publishes \"Cross-Agency Referral Pathway\" (N/A)",
-  "repo": "pillar-thriving-inclusive-communities",
-  "evidenceStatus": "reported_but_unverified",
-  "confidence": "medium",
-  "provenance": [
-   {
-    "sourceDoc": "data/source_inventory.csv",
-    "sourceLocation": "row id=D010",
-    "excerpt": "Cross-Agency Referral Pathway"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:5cd81b5ce01a",
@@ -969,7 +969,7 @@
     "excerpt": "Anonymous Browsing and Evasive Digital Tactics"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:5ed76ffdd099",
@@ -987,7 +987,7 @@
     "excerpt": "How will rva-helps align with GRCoC Access Points (Homeless Connection Line, Coordinated Outreach, EmpowerNet) and not duplicate Coordinated Entry, while still simplifying navigation for residents not yet in crisis?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:64852f0cfa40",
@@ -1005,7 +1005,7 @@
     "excerpt": "Where have similar “tell your story once” pilots succeeded or failed in Virginia localities (data-sharing MOUs, navigator training, consent UX), and who should we consult locally (Homeward, RRHA, OCWB, CRWDB, OAR, VADOC, Sheriff)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:649191b330b5",
@@ -1023,7 +1023,7 @@
     "excerpt": "Homeless Connection Line (HCL)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:66f6ffc638b7",
@@ -1041,7 +1041,7 @@
     "excerpt": "What trauma-informed design principles and language will be used in the tool's prompts to minimize the emotional burden of retelling personal histories, while still collecting sensitive but necessary information for WIOA 'barrier' and RRHA preference categories?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:69875a86e84a",
@@ -1059,7 +1059,7 @@
     "excerpt": "Insufficient resources and prioritization constraints"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:6a59213e25f8",
@@ -1077,7 +1077,7 @@
     "excerpt": "Trying to secure housing and job training after a recent eviction risk or job loss."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:6afee28beb09",
@@ -1095,25 +1095,7 @@
     "excerpt": "GRTC Transit — GTFS Feed"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
- },
- {
-  "id": "e:6bba37c5bd27",
-  "source": "n:org:greater-richmond-continuum-of-care-grcoc-homeward",
-  "target": "n:service:homeless-connection-line-hcl",
-  "type": "MANAGES",
-  "description": "Greater Richmond Continuum of Care (GRCoC) / Homeward manages Homeless Connection Line (HCL)",
-  "repo": "pillar-thriving-inclusive-communities",
-  "evidenceStatus": "reported_but_unverified",
-  "confidence": "medium",
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/rva-helps/pain_points.md",
-    "sourceLocation": "lines 219-219",
-    "excerpt": "Greater Richmond Continuum of Care (GRCoC) / Homeward"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:6c338da9b427",
@@ -1131,7 +1113,7 @@
     "excerpt": "Can the tool surface RRHA Central Intake guidance (e.g., immediate housing assistance line) contextually and capture warm handoffs without implying eligibility or queue priority?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:6d9f38fd568a",
@@ -1149,7 +1131,7 @@
     "excerpt": "Fear of Data Misuse and Stigma Leading to Service Denial"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:70d0020175ce",
@@ -1167,7 +1149,7 @@
     "excerpt": "Significant transportation burdens to reach multiple service providers"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:71b394e25a08",
@@ -1185,7 +1167,7 @@
     "excerpt": "How will the tool prioritize outreach and content for neighborhoods with high eviction risk and digital divides, ensuring mobile-first, SMS, and offline pathways through connection points and 311/phone lines?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:73c0429184b0",
@@ -1203,7 +1185,7 @@
     "excerpt": "What is the lightest-weight interface to RRHA’s applicant/resident portals and OCWB’s workflows for closed-loop status updates?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:79669f683865",
@@ -1221,7 +1203,7 @@
     "excerpt": "Louisville"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:7a704a8d12e3",
@@ -1239,7 +1221,7 @@
     "excerpt": "How will the pack note data provenance (e.g., 'pay stub uploaded on [date], verified by [agency]' vs self-attested) to reduce rework and meet audit needs?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:7a8eaca1ed3a",
@@ -1257,7 +1239,7 @@
     "excerpt": "The digital divide presents significant barriers for individuals reentering society in Richmond, particularly within the critical first 72 hours post-release. According to the Virginia Digital Opportunity Plan, formerly incarcerated individuals often lack the necessary devices, digital skills, and affordable internet access to navigate essential services. While many are pushed towards mobile-only internet access, this is often insufficient for complex and critical tasks such as completing job applications or applying for benefits through online portals like Virginia's CommonHelp. The plan explicitly notes that inmates typically cannot use tablets or other technologies while incarcerated, which limits their ability to develop the digital skills needed immediately upon release. This lack of digital literacy and access creates a major pain point, as many crucial resources and applications are increasingly online-only, effectively excluding those without the means or knowledge to engage with them. The time and cost associated with using phones for calls or data further exacerbates the problem for individuals with limited financial resources."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:7be6d41a28ba",
@@ -1275,7 +1257,7 @@
     "excerpt": "Systemic Inequity and Accessibility Barriers"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:7bec14e154c5",
@@ -1293,25 +1275,7 @@
     "excerpt": "Stalled Applications and Delays"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
- },
- {
-  "id": "e:7c966955a7c8",
-  "source": "n:org:community-organizations",
-  "target": "n:dataset:priority-language-usage-by-organization",
-  "type": "PUBLISHES",
-  "description": "Community organizations owns/publishes \"Priority Language Usage by Organization\" (Manual research)",
-  "repo": "pillar-thriving-inclusive-communities",
-  "evidenceStatus": "reported_but_unverified",
-  "confidence": "medium",
-  "provenance": [
-   {
-    "sourceDoc": "data/source_inventory.csv",
-    "sourceLocation": "row id=D011",
-    "excerpt": "Priority Language Usage by Organization"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:7ebea2038019",
@@ -1329,7 +1293,7 @@
     "excerpt": "How will the solution accommodate people experiencing homelessness, returning citizens, and survivors of violence who may lack standard proofs—and align with WIOA/DSS allowances for alternate verification and self-attestation?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:7f2123892f6a",
@@ -1347,7 +1311,7 @@
     "excerpt": "What is the precise consent model for client-controlled sharing via QR: granular (field-level) vs bundle-level consent, expiration windows, and revocation in an offline/no-server architecture?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:801c168bace5",
@@ -1365,7 +1329,7 @@
     "excerpt": "Limited Shelter Capacity and Long Waits via Coordinated Entry"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:8264c9c5a40b",
@@ -1383,7 +1347,7 @@
     "excerpt": "Systemic Inequity and Accessibility Barriers"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:8855617e7f17",
@@ -1401,7 +1365,7 @@
     "excerpt": "From the perspective of front-line staff and agencies in Richmond, significant systems coordination challenges severely hamper service delivery. A primary pain point is capacity and staffing constraints; the City of Richmond's CAPER report cites provider staffing shortages, such as for case managers, which directly affects their ability to meet client outcomes. Community insights further reveal that gaps in intake staffing can lead to shelter beds remaining empty overnight, a critical failure in a system with high demand. Another major issue is the existence of fragmented referral processes and siloed eligibility rules. For example, the Richmond Redevelopment and Housing Authority’s (RRHA) homelessness preference is only accessible via a specific referral from the Richmond Behavioral Health Authority (RBHA), forcing staff to navigate bespoke, agency-gated pathways that increase administrative friction and require duplicative data collection from clients. This is compounded by a limited supply of affordable housing and insufficient client assistance funding, which prolongs shelter stays and clogs the entire system. Furthermore, agencies recognize that logistical barriers for clients, such as first/last-mile transportation issues and per-trip costs, impede attendance at appointments and worsen referral drop-offs. The status quo is characterized by the absence of a unified, single-story intake system, bottlenecks in phone-based access points like the Homeless Connection Line, and a lack of feedback loops on referrals. The cost of these inefficiencies is high: staff spend valuable time re-collecting client histories, placements are missed, and the overall system throughput is reduced, leading to client churn and staff burnout."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:88d90bc938f1",
@@ -1419,7 +1383,7 @@
     "excerpt": "Scarcity of Affordable Housing and Restrictive Landlord Policies"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:88dc24af89b8",
@@ -1437,7 +1401,7 @@
     "excerpt": "What lessons from Unite Virginia’s closed-loop referrals and from findhelp usage in Richmond should shape circle-trust’s data model and handoff protocols?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:8e1c53b460c4",
@@ -1455,7 +1419,7 @@
     "excerpt": "What minimal, standardized intake fields will satisfy GRCoC Coordinated Entry screening while avoiding duplication with HCIS and EmpowerNet requirements?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:8f7865d5fdba",
@@ -1473,7 +1437,7 @@
     "excerpt": "Which document and evidence standards (e.g., I-9 acceptable documents list; DSS IEVS; WIOA Attachment C telephone verification form) can the pack reference to pre-label uploads and reduce rejections?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:91ad75457d5d",
@@ -1491,7 +1455,7 @@
     "excerpt": "Which integrations provide the highest ROI at MVP: • HCIS read/write for basic triage metadata? • Unite Virginia closed-loop referrals? • 2-1-1 directory sync? • Findhelp directory embedding? • VA Career Works appointment scheduling?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:933266099b38",
@@ -1509,7 +1473,7 @@
     "excerpt": "What language access and accessibility features are essential at launch (Spanish, ASL, screen readers)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:95429896fdc3",
@@ -1527,7 +1491,7 @@
     "excerpt": "Attempting to connect a resident with services from other agencies while working at a social service organization."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:97c2e9840a9b",
@@ -1545,7 +1509,7 @@
     "excerpt": "How will the project resource community-based org participation (time, training, language services) so smaller, culturally specific providers are not excluded?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:98be6ed50e1a",
@@ -1563,7 +1527,7 @@
     "excerpt": "When I am hesitant to share sensitive details"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:9904916c5a71",
@@ -1581,7 +1545,7 @@
     "excerpt": "Informal Community Networks (Friends/WhatsApp)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:996457be3cee",
@@ -1599,7 +1563,7 @@
     "excerpt": "A critical underlying issue that exacerbates navigation difficulties in Richmond is the severe scarcity of essential resources, particularly affordable housing and emergency shelter. The Greater Richmond Continuum of Care (GRCoC) experiences a 'high number of turn-aways for emergency shelter' and maintains a waiting list, especially for homeless families with children. This bottleneck is a direct result of limited shelter capacity. Beyond immediate shelter, the primary barrier to resolving homelessness is the systemic 'lack of affordable housing' and a very low rental vacancy rate, which makes it difficult for providers to place individuals and families into permanent housing. The Richmond Redevelopment and Housing Authority (RRHA) faces its own constraints, including periodically closing its housing waitlists to new applicants and managing an 'obsolete public housing stock,' further limiting the options for low-income residents. This pervasive resource scarcity means that even when a resident successfully navigates an intake process, they often face long waits for actual services, leading to prolonged instability and straining the entire support system."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:9b4e95261996",
@@ -1617,7 +1581,7 @@
     "excerpt": "Systemic Barriers Impede Access to Employment and Support Services"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:9c8f1cfd7fde",
@@ -1635,7 +1599,7 @@
     "excerpt": "What governance will include people with lived experience (e.g., GRCoC shelter focus group participants, returning citizens) to continuously improve the product and avoid harm?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:9da8683f4f6d",
@@ -1653,7 +1617,7 @@
     "excerpt": "Fear of Data Misuse and Stigma Leading to Service Denial"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:9dff3465a6d8",
@@ -1671,7 +1635,25 @@
     "excerpt": "I and my family are new to Richmond and need to find a doctor."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
+ },
+ {
+  "id": "e:9f522847d5a0",
+  "source": "n:org:city-of-richmond",
+  "target": "n:dataset:help1rva-service-directory",
+  "type": "PUBLISHES",
+  "description": "City of Richmond owns/publishes \"Help1RVA Service Directory\" (Web/API (uncertain))",
+  "repo": "pillar-thriving-inclusive-communities",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "data/source_inventory.csv",
+    "sourceLocation": "row id=D001",
+    "excerpt": "Help1RVA Service Directory"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:a3472b6d2b2e",
@@ -1689,7 +1671,7 @@
     "excerpt": "Virginia Department of Motor Vehicles (DMV)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:a35387fc6393",
@@ -1707,7 +1689,7 @@
     "excerpt": "Lack of Coordinated Reentry Services Due to Disconnected Data Systems"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:a47889852f27",
@@ -1725,7 +1707,7 @@
     "excerpt": "What languages, accessibility needs, and trauma-informed practices are required for consent and storytelling in Richmond neighborhoods most affected by housing instability and justice involvement?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:a4fd8d7809b8",
@@ -1743,7 +1725,7 @@
     "excerpt": "Which policies in the GRCoC Coordinated Entry System (e.g., prioritization, access standards) must rva-helps reflect to maintain compliance and avoid queue-jumping perceptions?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:a5abf1dcaff9",
@@ -1761,7 +1743,7 @@
     "excerpt": "Which primary user flows should launch first: residents self-service, navigator-assisted, or provider-to-provider handoffs at GRCoC Connection Points?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:a7aaa84c52e9",
@@ -1779,7 +1761,7 @@
     "excerpt": "How will rva-helps log and protect DV-related data and route to EmpowerNet without storing protected information in non-comparable systems?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:a88a13225fba",
@@ -1797,7 +1779,7 @@
     "excerpt": "What offline-first workflows are needed for residents without stable internet connectivity or personal devices, and how will QR codes function for paper-only users (e.g., a printed code linking to a locally saved PDF)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:ac2e34399e3f",
@@ -1815,7 +1797,7 @@
     "excerpt": "When I have to repeat my story to each agency (probation, OAR, DSS, DMV, shelters, workforce) right after release,"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:adea715b9f46",
@@ -1833,7 +1815,7 @@
     "excerpt": "Repetitive Data Entry and Inconsistent Requirements"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b0244e38ad5e",
@@ -1851,7 +1833,7 @@
     "excerpt": "Richmond Community Foundation Grantees"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b0f48d88194b",
@@ -1869,7 +1851,7 @@
     "excerpt": "What trauma-informed prompts minimize retelling while still collecting WIOA 'barrier' and RRHA preference information?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b375f3ed32ad",
@@ -1887,7 +1869,7 @@
     "excerpt": "Which languages beyond EN/ES/AR are most needed in Richmond (e.g., Dari/Pashto, Swahili) based on OCWB and RDSS client mix? Any interpreter-access workflows to pair with the pack?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b3cfdcd0bbce",
@@ -1905,7 +1887,7 @@
     "excerpt": "How will identity verification be handled on-device (e.g., liveness, barcode scan) without server storage, while still being acceptable to DSS/WIOA/RRHA reviewers?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b4d54c36f26d",
@@ -1923,7 +1905,7 @@
     "excerpt": "What minimal data set and document list satisfy all three: DSS verification, WIOA eligibility documentation, and RRHA eligibility packet, without collecting extra sensitive data? Which fields are strictly optional (e.g., SSN under WIOA)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b52c204e603d",
@@ -1941,7 +1923,7 @@
     "excerpt": "How can navigators view referral outcomes from workforce partners (CRWDB centers, OCWB cohorts) and reentry supports (VADOC, Sheriff programs) in one place?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b6f4b8a98182",
@@ -1959,7 +1941,7 @@
     "excerpt": "What safeguards prevent adverse actions when clients choose not to disclose SSN (per WIOA allowance) or immigration details beyond what is strictly required by each agency?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b722e9766d5d",
@@ -1977,7 +1959,7 @@
     "excerpt": "What safeguards ensure residents control data visibility across agencies and can revoke consent without losing access to help?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:b81a8b196cd9",
@@ -1995,7 +1977,7 @@
     "excerpt": "Long waits and limited access via the Homeless Connection Line (HCL)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:ba3360621bc3",
@@ -2013,7 +1995,7 @@
     "excerpt": "The challenges of reentry in Richmond disproportionately affect several marginalized groups, creating significant equity issues. Individuals without stable housing are severely impacted by systemic barriers, such as the Virginia DMV's requirement for two proofs of a physical residency, as PO boxes are not accepted. This makes obtaining a necessary ID nearly impossible for the homeless. Furthermore, access to shelter itself is gated by a centralized phone intake system, the Homeless Connection Line, which can be a bottleneck, especially as CARITAS reports a 10% rise in homelessness and more complex needs in the community. Justice-involved individuals as a group face heightened digital exclusion; they often lack devices and digital skills upon release, yet are expected to navigate online-only applications for benefits and jobs within a critical 24-72 hour window. The Virginia Digital Opportunity Plan notes that mobile-only access is insufficient for these tasks. Additionally, individuals with language barriers face extra friction, a problem acknowledged in the state's plan which calls for simplified language. Finally, the limited and variable hours of essential agencies (e.g., OAR closed on Fridays, Career Works with reduced Friday hours) place a heavy burden on workers, caregivers, and anyone reliant on public transportation, amplifying existing disparities and making it harder to complete time-sensitive tasks."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:bf3076a7ccc2",
@@ -2031,7 +2013,7 @@
     "excerpt": "The populations most affected and excluded by the current barriers to accessing services include: residents with limited English proficiency (LEP), particularly speakers of Spanish and other top languages in the region; undocumented individuals and mixed-status families; individuals with low digital literacy or without reliable access to broadband and devices; new arrivals who are unfamiliar with U.S. systems; survivors of domestic violence (DV) or sexual assault (SA); LGBTQ+ immigrants; and individuals who have had prior negative experiences with authorities."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:bfb89fb9a892",
@@ -2049,7 +2031,7 @@
     "excerpt": "For the Richmond Redevelopment and Housing Authority (RRHA), can the pack fulfill the entirety of the 'eligibility packet' requirements and verifications checklist, and are there specific forms, such as those from HUD, that must remain as RRHA originals rather than attachable proofs?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:c22bac737805",
@@ -2067,7 +2049,7 @@
     "excerpt": "For Virginia Career Works Capital Region: which WIOA documents can be accepted as self-attested vs must be third-party verified, and can the pack’s structure map to VaWC document categories for faster intake?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:c2952276a11c",
@@ -2085,7 +2067,7 @@
     "excerpt": "Fear of dead-ends and slow connections across systems."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:c5087642ed27",
@@ -2103,7 +2085,7 @@
     "excerpt": "Which navigator roles in Richmond are best positioned as ‘trusted intermediaries’ (OCWB career coaches, OHS Resource Center navigators, RRHA Resident Services Coordinators, or reentry case managers)?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:c6a25dfc5a37",
@@ -2121,7 +2103,7 @@
     "excerpt": "How will circle-trust advance Richmond’s Equity Agenda (reentry support, workforce pathways) and measure reductions in disparate outcomes by race and neighborhood?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:cdf040e6a2a8",
@@ -2139,7 +2121,7 @@
     "excerpt": "Lack of a Unified, Secure Data-Sharing System"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:cebc397f898f",
@@ -2157,25 +2139,7 @@
     "excerpt": "Greater Richmond Continuum of Care (GRCoC)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
- },
- {
-  "id": "e:cf98bc762789",
-  "source": "n:org:help1rva-city-of-richmond",
-  "target": "n:dataset:help1rva-service-directory",
-  "type": "PUBLISHES",
-  "description": "Help1RVA / City of Richmond owns/publishes \"Help1RVA Service Directory\" (Web/API (uncertain))",
-  "repo": "pillar-thriving-inclusive-communities",
-  "evidenceStatus": "reported_but_unverified",
-  "confidence": "medium",
-  "provenance": [
-   {
-    "sourceDoc": "data/source_inventory.csv",
-    "sourceLocation": "row id=D001",
-    "excerpt": "Help1RVA Service Directory"
-   }
-  ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:d24e64453a5e",
@@ -2193,7 +2157,7 @@
     "excerpt": "Virginia 211"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:d352c27c13cf",
@@ -2211,7 +2175,7 @@
     "excerpt": "For the Department of Social Services (DSS), what acceptance pathways exist for the pack's PDFs to accompany or pre-stage CommonHelp submissions, or be received by local Richmond DSS workers through methods like fax, an upload link, or at a kiosk intake?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:d4e2b7bee216",
@@ -2229,7 +2193,25 @@
     "excerpt": "Transportation presents a significant challenge for residents accessing services in Richmond. A regional micro-transit study highlights the burden of 'first/last-mile' barriers, which can prevent individuals from using transit effectively. Furthermore, the cost of transportation is a major hurdle, with user fares for services like GRTC CARE On-Demand starting at $6 per trip and Access Chesterfield trips costing as much as $33. These costs create a substantial financial burden for low-income residents. The issue is compounded by a high dependency on public transit; a report on zero-fare transit found that 85% of local bus riders lack access to a personal vehicle and 53% do not have a driver's license, underscoring their vulnerability to any frictions in transit access."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
+ },
+ {
+  "id": "e:d54b0b0de948",
+  "source": "n:org:greater-richmond-continuum-of-care-grcoc",
+  "target": "n:service:homeless-connection-line-hcl",
+  "type": "MANAGES",
+  "description": "Greater Richmond Continuum of Care (GRCoC) manages Homeless Connection Line (HCL)",
+  "repo": "pillar-thriving-inclusive-communities",
+  "evidenceStatus": "reported_but_unverified",
+  "confidence": "medium",
+  "provenance": [
+   {
+    "sourceDoc": "post-event-research/rva-helps/pain_points.md",
+    "sourceLocation": "lines 219-219",
+    "excerpt": "Greater Richmond Continuum of Care (GRCoC)"
+   }
+  ],
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:d5a882868bba",
@@ -2247,7 +2229,7 @@
     "excerpt": "Critical Barriers to Accessing Basic Needs Post-Release"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:d9fcc7bb31c9",
@@ -2265,7 +2247,7 @@
     "excerpt": "When agencies across Richmond (VADOC Probation & Parole, OAR, DSS, DMV, Virginia Career Works, CARITAS/CoC) need to coordinate first-steps,"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:daaeb30c9c8a",
@@ -2283,7 +2265,7 @@
     "excerpt": "Online Search and Digital Directories (211, FindHelp, Google)"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:db7cbf06ce26",
@@ -2301,7 +2283,7 @@
     "excerpt": "For returning citizens, what onboarding supports (IDs, housing, employment documents) are most needed post-release from Richmond City Sheriff/VDOC to reduce intake friction?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:dc8aee27ef7e",
@@ -2319,7 +2301,7 @@
     "excerpt": "I need to access a food bank or other essential service."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:de659d106736",
@@ -2337,7 +2319,7 @@
     "excerpt": "US Census ACS — Language and Nativity"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:e1efc1495720",
@@ -2355,7 +2337,7 @@
     "excerpt": "Lack of Coordinated Reentry Services Due to Disconnected Data Systems"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:e3a11a65fea2",
@@ -2373,7 +2355,7 @@
     "excerpt": "Critical Barriers to Accessing Basic Needs Post-Release"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:e54b3c38161b",
@@ -2391,7 +2373,7 @@
     "excerpt": "The service delivery system in Richmond for housing, workforce, and reentry support is fundamentally fragmented, creating significant navigation challenges for residents in need. Individuals seeking help are confronted with multiple, parallel access points—including the Homeless Connection Line (HCL), 2-1-1 Virginia, the city's 3-1-1 service, and walk-in centers—without a clear, unified pathway. This fragmentation forces residents to retell their stories and submit to separate intake processes for each agency or service, a process that is both inefficient and traumatizing. For instance, a person facing housing instability who also needs employment support will find limited 'warm handoffs' between the housing system (GRCoC) and the workforce system (Virginia Career Works/OCWB). Similarly, for returning citizens, a Virginia state report explicitly notes there is 'no unified multi-agency data sharing information system' between the Department of Corrections and partner agencies, which severely hinders coordinated reentry planning and service delivery. This systemic fragmentation results in delayed help, administrative churn, and a significant burden placed on the individual to navigate a complex and disjointed web of services."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:eaaf874c540f",
@@ -2409,7 +2391,7 @@
     "excerpt": "Systemic Barriers Impede Access to Employment and Support Services"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:efb7f3dcd0a6",
@@ -2427,7 +2409,7 @@
     "excerpt": "Significant housing access constraints for justice-involved populations."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:f01d6a7827e1",
@@ -2445,7 +2427,7 @@
     "excerpt": "Fragmented intakes and siloed eligibility pathways"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:f051b236d1ee",
@@ -2463,7 +2445,7 @@
     "excerpt": "The eligibility and documentation process for the Workforce Innovation and Opportunity Act (WIOA) programs, accessed through Virginia Career Works and the Virginia Workforce Connection (VAWC) portal, is notably more flexible than that of other local agencies. This flexibility is a core feature designed to reduce barriers and avoid delays in service delivery. According to the WIOA Title I Eligibility Guidance, the program allows for self-attestation for many of the eligibility criteria, reducing the burden on applicants to produce extensive third-party documentation upfront. A crucial distinction is the policy on Social Security Numbers (SSNs). The guidance explicitly states that providing an SSN is not required to receive WIOA services, although it is requested for reporting purposes. This makes the program more accessible to individuals who may be hesitant or unable to provide an SSN. While this flexibility is beneficial, the primary 'challenge' it presents to a resident is navigating the inconsistency between these rules and the much stricter requirements of other entities like the RRHA, which mandates original SSN cards. This difference in policy can create confusion for individuals applying to multiple programs simultaneously."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:f0854ef82a48",
@@ -2481,7 +2463,7 @@
     "excerpt": "In-Person Visits"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:f85c1665477a",
@@ -2499,7 +2481,7 @@
     "excerpt": "Applying for benefits such as SNAP through the Virginia Department of Social Services (DSS) via the CommonHelp portal presents several significant challenges for Richmond residents. A primary issue is the complex and potentially slow verification process. According to the official Virginia DSS SNAP Manual, the system relies heavily on computer matching with multiple databases to verify applicant information. If any discrepancies are found, the application can be stalled, leading to delays in receiving essential benefits. Applicants are given a tight deadline of 10 days to provide any required verification, which can be a substantial hurdle for individuals who need to obtain documents from other sources. The system's handling of questionable information, by flagging it for manual review, contributes to these processing delays. Furthermore, there are mandatory verification requirements for identity, income, and residency. The process also highlights a digital divide; the DSS website itself acknowledges this by directing residents without computer access to public libraries or DSS computer kiosks. The acceptance of faxed applications and the use of physical drop boxes, while intended as workarounds, underscore the reliance on physical documents and the challenges some residents face with purely digital submissions. Broader systemic issues, such as reports of 'paperwork barriers' and long call center wait times during the recent Medicaid unwinding process in Virginia, suggest that these administrative burdens are widespread within the state's benefits administration and likely impact DSS applicants as well."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:f92a66258099",
@@ -2517,7 +2499,7 @@
     "excerpt": "Barriers to digital access and affordability are significant for many residents. The research identifies 'those without broadband/devices' as a key excluded population. The explicit recommendation to create 'SMS/offline options' for the 804me project underscores the reality that many target users cannot reliably access or afford home internet or the data plans required for online-only services. This dependence on mobile-only or non-existent internet access prevents them from utilizing online service portals and information hubs."
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:fc59c1cfa1ce",
@@ -2535,7 +2517,7 @@
     "excerpt": "United Way Richmond Partner Directory"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:fc934b19f034",
@@ -2553,7 +2535,7 @@
     "excerpt": "How will closed-loop referrals be coordinated alongside Unite Virginia (Unite Us) and 211 Virginia so that pack handoffs reduce 'referral voids' without duplicating platforms?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:fdbe9e1e2bbf",
@@ -2571,7 +2553,7 @@
     "excerpt": "Direct Outreach to Specific Organizations"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  },
  {
   "id": "e:fffcb744cdc9",
@@ -2589,6 +2571,6 @@
     "excerpt": "How do existing platforms used locally (Unite Virginia, 2-1-1, Help1RVA, findhelp, No Wrong Door) succeed or struggle in Richmond, and where should rva-helps complement rather than replace them?"
    }
   ],
-  "extractedAt": "2026-08-02T14:50:58.353Z"
+  "extractedAt": "2026-08-02T19:59:53.324Z"
  }
 ]
