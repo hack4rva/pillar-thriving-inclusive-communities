@@ -182,23 +182,6 @@
   ]
  },
  {
-  "id": "q:circle-trust-user-questions-3",
-  "question": "What minimum data set and consent language satisfy Virginia social services confidentiality requirements while enabling cross-agency sharing for navigation?",
-  "category": "user",
-  "repo": "pillar-thriving-inclusive-communities",
-  "relatedNodeIds": [
-   "n:question:what-minimum-data-set-and-consent-language-satisfy-virginia-social-services-conf",
-   "n:proposal:circle-trust"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
-    "sourceLocation": "lines 113-113",
-    "excerpt": "What minimum data set and consent language satisfy Virginia social services confidentiality requirements while enabling cross-agency sharing for navigation?"
-   }
-  ]
- },
- {
   "id": "q:circle-trust-user-questions-4",
   "question": "How do OCWB’s cohort-based workforce pathways and the City’s Community Resource & Training Center “one-stop” inform navigator placement and operating hours?",
   "category": "user",
@@ -331,23 +314,6 @@
     "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
     "sourceLocation": "lines 210-210",
     "excerpt": "What lessons from Unite Virginia’s closed-loop referrals and from findhelp usage in Richmond should shape circle-trust’s data model and handoff protocols?"
-   }
-  ]
- },
- {
-  "id": "q:circle-trust-prior-art-questions-1",
-  "question": "How do OCWB’s cohort-based workforce pathways and the City’s Community Resource & Training Center “one-stop” inform navigator placement and operating hours?",
-  "category": "prior_art",
-  "repo": "pillar-thriving-inclusive-communities",
-  "relatedNodeIds": [
-   "n:question:how-do-ocwb-s-cohort-based-workforce-pathways-and-the-city-s-community-resource-",
-   "n:proposal:circle-trust"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/circle-trust/jtbd_analysis.md",
-    "sourceLocation": "lines 210-210",
-    "excerpt": "How do OCWB’s cohort-based workforce pathways and the City’s Community Resource & Training Center “one-stop” inform navigator placement and operating hours?"
    }
   ]
  },
@@ -709,23 +675,6 @@
   ]
  },
  {
-  "id": "q:core-eligibility-pack-builder-equity-questions-1",
-  "question": "How will the solution accommodate people experiencing homelessness, returning citizens, and survivors of violence who often lack standard proofs of identity or residence, and how will it align with WIOA/DSS allowances for alternate verification and self-attestation?",
-  "category": "equity",
-  "repo": "pillar-thriving-inclusive-communities",
-  "relatedNodeIds": [
-   "n:question:how-will-the-solution-accommodate-people-experiencing-homelessness-returning-cit",
-   "n:proposal:core-eligibility-pack-builder"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
-    "sourceLocation": "lines 273-273",
-    "excerpt": "How will the solution accommodate people experiencing homelessness, returning citizens, and survivors of violence who often lack standard proofs of identity or residence, and how will it align with WIOA/DSS allowances for alternate verification and self-attestation?"
-   }
-  ]
- },
- {
   "id": "q:core-eligibility-pack-builder-equity-questions-2",
   "question": "Which languages beyond English, Spanish, and Arabic are most needed in Richmond based on client data from the Office of Community Wealth Building (OCWB) and Richmond Department of Social Services (RDSS), and are there plans for interpreter-access workflows to be paired with the pack?",
   "category": "equity",
@@ -773,57 +722,6 @@
     "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
     "sourceLocation": "lines 273-273",
     "excerpt": "What trauma-informed design principles and language will be used in the tool's prompts to minimize the emotional burden of retelling personal histories, while still collecting sensitive but necessary information for WIOA 'barrier' and RRHA preference categories?"
-   }
-  ]
- },
- {
-  "id": "q:core-eligibility-pack-builder-prior-art-questions-0",
-  "question": "Which document and evidence standards (e.g., I-9 acceptable documents list; DSS IEVS; WIOA Attachment C telephone verification form) can the pack reference to pre-label uploads and reduce rejections?",
-  "category": "prior_art",
-  "repo": "pillar-thriving-inclusive-communities",
-  "relatedNodeIds": [
-   "n:question:which-document-and-evidence-standards-e-g-i-9-acceptable-documents-list-dss-ievs",
-   "n:proposal:core-eligibility-pack-builder"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
-    "sourceLocation": "lines 336-336",
-    "excerpt": "Which document and evidence standards (e.g., I-9 acceptable documents list; DSS IEVS; WIOA Attachment C telephone verification form) can the pack reference to pre-label uploads and reduce rejections?"
-   }
-  ]
- },
- {
-  "id": "q:core-eligibility-pack-builder-prior-art-questions-1",
-  "question": "What lessons from statewide coordinated referral networks (Unite Us in Virginia) and state benefit portals (CommonHelp) should shape the pack’s data model and consent patterns to avoid parallel, conflicting workflows?",
-  "category": "prior_art",
-  "repo": "pillar-thriving-inclusive-communities",
-  "relatedNodeIds": [
-   "n:question:what-lessons-from-statewide-coordinated-referral-networks-unite-us-in-virginia-a",
-   "n:proposal:core-eligibility-pack-builder"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
-    "sourceLocation": "lines 336-336",
-    "excerpt": "What lessons from statewide coordinated referral networks (Unite Us in Virginia) and state benefit portals (CommonHelp) should shape the pack’s data model and consent patterns to avoid parallel, conflicting workflows?"
-   }
-  ]
- },
- {
-  "id": "q:core-eligibility-pack-builder-prior-art-questions-2",
-  "question": "How will closed-loop referrals be coordinated alongside Unite Virginia (Unite Us) and 211 Virginia so that pack handoffs reduce 'referral voids' without duplicating platforms?",
-  "category": "prior_art",
-  "repo": "pillar-thriving-inclusive-communities",
-  "relatedNodeIds": [
-   "n:question:how-will-closed-loop-referrals-be-coordinated-alongside-unite-virginia-unite-us-",
-   "n:proposal:core-eligibility-pack-builder"
-  ],
-  "provenance": [
-   {
-    "sourceDoc": "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
-    "sourceLocation": "lines 336-336",
-    "excerpt": "How will closed-loop referrals be coordinated alongside Unite Virginia (Unite Us) and 211 Virginia so that pack handoffs reduce 'referral voids' without duplicating platforms?"
    }
   ]
  },

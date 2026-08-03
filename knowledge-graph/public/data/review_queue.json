@@ -26,5 +26,271 @@
    "Keep separate"
   ],
   "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us",
+  "itemType": "node",
+  "proposed": "n:source:uniteus-com-f4b6ac70 vs n:source:uniteus-com-7c0468b1",
+  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us",
+  "itemType": "node",
+  "proposed": "n:source:uniteus-com-f4b6ac70 vs n:source:uniteus-com-68b7cdbf",
+  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us",
+  "itemType": "node",
+  "proposed": "n:source:uniteus-com-f4b6ac70 vs n:source:uniteus-com-8bca4b6e",
+  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-office-of-new-americans-virginia-department-of-social-services",
+  "itemType": "node",
+  "proposed": "n:source:dss-virginia-gov-56497358 vs n:source:dss-virginia-gov-c6340fd8",
+  "sourceExcerpt": "Office of New Americans - Virginia Department of Social Services",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-unite-us-privacy-policy-uniteus-com",
+  "itemType": "node",
+  "proposed": "n:source:uniteus-com-2754a088 vs n:source:uniteus-com-7e1a474c",
+  "sourceExcerpt": "Unite Us Privacy Policy - uniteus.com",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us",
+  "itemType": "node",
+  "proposed": "n:source:uniteus-com-f4b6ac70 vs n:source:uniteus-com-0cc7f2d6",
+  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-u-s-census-bureau-quickfacts-richmond-city-virginia",
+  "itemType": "node",
+  "proposed": "n:source:census-gov-f799790e vs n:source:census-gov-76f61ac5",
+  "sourceExcerpt": "U.S. Census Bureau QuickFacts: Richmond city, Virginia",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-help1rva",
+  "itemType": "node",
+  "proposed": "n:org:help1rva vs n:program:help1rva",
+  "sourceExcerpt": "Help1RVA",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-city-of-richmond",
+  "itemType": "node",
+  "proposed": "n:org:city-of-richmond vs n:governmentagency:city-of-richmond",
+  "sourceExcerpt": "City of Richmond",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-richmond-city-health-district",
+  "itemType": "node",
+  "proposed": "n:source:vdh-virginia-gov-743eabfa vs n:governmentagency:richmond-city-health-district",
+  "sourceExcerpt": "Richmond City Health District",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-documented-info",
+  "itemType": "node",
+  "proposed": "n:source:documented-info-19d36879 vs n:program:documented-info",
+  "sourceExcerpt": "Documented.info",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-office-of-new-americans",
+  "itemType": "node",
+  "proposed": "n:dataset:virginia-office-of-new-americans vs n:governmentagency:virginia-office-of-new-americans",
+  "sourceExcerpt": "Virginia Office of New Americans",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-virginia-digital-opportunity-plan",
+  "itemType": "node",
+  "proposed": "n:source:dhcd-virginia-gov-80fe47f7 vs n:policy:virginia-digital-opportunity-plan",
+  "sourceExcerpt": "Virginia Digital Opportunity Plan",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-airs-style-guide",
+  "itemType": "node",
+  "proposed": "n:source:assets-002-noviams-com-ca31d963 vs n:policy:airs-style-guide",
+  "sourceExcerpt": "AIRS Style Guide",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-capital-region-workforce-partnership",
+  "itemType": "node",
+  "proposed": "n:source:henrico-gov-3e1312d8 vs n:organization:capital-region-workforce-partnership",
+  "sourceExcerpt": "Capital Region Workforce Partnership",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-homeward",
+  "itemType": "node",
+  "proposed": "n:org:homeward vs n:organization:homeward",
+  "sourceExcerpt": "Homeward",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-iom-data-protection-principles",
+  "itemType": "node",
+  "proposed": "n:source:iom-int-8b4340a5 vs n:policy:iom-data-protection-principles",
+  "sourceExcerpt": "IOM Data Protection Principles",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-mayor-s-office-of-immigrant-affairs",
+  "itemType": "node",
+  "proposed": "n:source:nyc-gov-f4962182 vs n:governmentagency:mayor-s-office-of-immigrant-affairs",
+  "sourceExcerpt": "Mayor's Office of Immigrant Affairs",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
+ },
+ {
+  "id": "r:dup-translation-disclaimer",
+  "itemType": "node",
+  "proposed": "n:source:virginia-gov-dddca1ae vs n:policy:translation-disclaimer",
+  "sourceExcerpt": "Translation Disclaimer",
+  "sourceLocation": "label comparison across extraction sources",
+  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
+  "confidence": "medium",
+  "alternatives": [
+   "Merge via extraction/aliases.json",
+   "Keep separate"
+  ],
+  "decisionRequested": "Decide whether these are the same entity."
  }
 ]

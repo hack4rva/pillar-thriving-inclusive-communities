@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T21:03:42.340Z",
+ "generatedAt": "2026-08-02T23:12:23.858Z",
  "repo": "pillar-thriving-inclusive-communities",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -14,8 +14,148 @@
   "post-event-research/reentry-72-hour-navigator/pain_points.md",
   "post-event-research/rva-helps/jtbd_analysis.md",
   "post-event-research/rva-helps/pain_points.md",
-  "post-event-research/whatsapp-service-finder/jtbd_analysis.md"
+  "post-event-research/whatsapp-service-finder/jtbd_analysis.md",
+  "research/00_pillar_summary_context.md",
+  "research/90_top_10_research_questions.md",
+  "research/92_red_flags.md",
+  "research/93_missing_information_gaps.md",
+  "research/A1_problem_landscape_immigrant_service_access.md",
+  "research/A2_problem_landscape_cross_agency_navigation.md",
+  "research/A5_problem_landscape_language_accessibility.md",
+  "research/B2_users_case_manager.md",
+  "research/B3_users_community_organization.md",
+  "research/B4_users_stakeholders_map.md",
+  "research/B5_users_digital_equity.md",
+  "research/C1_services_help1rva.md",
+  "research/C3_services_city_social_services.md",
+  "research/C5_services_findhelp_uniteus.md",
+  "research/D1_data_help1rva.md",
+  "research/D3_data_census_immigrants.md",
+  "research/E1_prior_art_immigrant_service_tools.md",
+  "research/E2_prior_art_multilingual_tools.md",
+  "research/E3_prior_art_help1rva_alternatives.md",
+  "research/E4_prior_art_failures.md",
+  "research/E5_prior_art_weekend_viable.md",
+  "research/G2_risks_pii_exposure.md",
+  "research/G4_risks_data_walls.md",
+  "research/G5_risks_guardrails.md",
+  "research/H2_mvp_service_discovery.md",
+  "research/H3_mvp_cross_agency.md",
+  "research/H4_mvp_language_access.md",
+  "research/H5_mvp_scope_boundaries.md",
+  "research/I2_demo_service_discovery_pitch.md",
+  "research/I4_demo_credibility.md",
+  "research/I5_demo_framing.md"
  ],
+ "researchCorpus": {
+  "reportsRead": 31,
+  "reportsOffBrief": [
+   {
+    "file": "research/A3_problem_landscape_compare_statements.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/A4_problem_landscape_trust_barriers.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/B1_users_immigrant_refugee_resident.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/C2_services_refugee_ecosystem.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/C4_services_gaps.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/D4_data_refugee_resettlement.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/D5_data_quality_gaps.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F1_opportunities_ranked.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F2_opportunities_service_discovery.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F3_opportunities_cross_agency.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F4_opportunities_where_software.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/F5_opportunities_do_not_build.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G1_risks_false_safety.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/G3_risks_language_quality.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/H1_mvp_48hr_framework.md",
+    "localMentionsPerKWord": 0.46
+   },
+   {
+    "file": "research/I1_demo_archetypes.md",
+    "localMentionsPerKWord": 0
+   },
+   {
+    "file": "research/I3_demo_cross_agency_pitch.md",
+    "localMentionsPerKWord": 0
+   }
+  ],
+  "reportsWithoutReferences": [
+   {
+    "file": "research/01_master_research_prompt.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/C6_services_irc_ccc_encircle_profiles.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/C7_services_directory_comparison_help1rva_211.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/D2_data_community_org_directories.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/D6_data_communication_channels.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/D7_data_org_profiles_detailed.md",
+    "reason": "no References section"
+   },
+   {
+    "file": "research/INDEX.md",
+    "reason": "corpus scaffolding, not findings"
+   },
+   {
+    "file": "research/validation_report.md",
+    "reason": "corpus scaffolding, not findings"
+   }
+  ],
+  "claimsIndexed": 527,
+  "primarySourcesCited": 287
+ },
  "provenanceVerification": {
   "exact": 0,
   "moved": 0,
@@ -23,10 +163,14 @@
   "missing": 0,
   "external": 0
  },
- "warnings": [],
+ "warnings": [
+  "[demote] 34 sentence-shaped Problem/Need nodes moved to the evidence layer",
+  "[corpus] dropped 0 stale-anchor, 95 unresolved-endpoint, 0 not-an-organization and 88 not-a-name records",
+  "[merge] duplicate node id n:geographicregion:richmond: provenance merged"
+ ],
  "metrics": {
-  "totalNodes": 157,
-  "totalEdges": 143,
+  "totalNodes": 807,
+  "totalEdges": 1652,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -36,42 +180,27 @@
   "flowsWithUnknownDestination": 0,
   "flowsWithUnknownSource": 0,
   "fundingWithUnknownDestinationUSD": 0,
-  "intendedBeneficiaryNodes": 4,
-  "needsTotal": 33,
+  "intendedBeneficiaryNodes": 24,
+  "needsTotal": 18,
   "needsWithNoFunding": [
-   "n:need:attempting-to-connect-a-resident-with-services-from-other-agencies-while-working",
    "n:need:critical-barriers-to-accessing-basic-needs-post-release",
    "n:need:employment-instability-and-fragile-outcomes-post-release",
-   "n:need:fear-of-data-misuse-and-stigma-leading-to-service-denial",
    "n:need:fear-of-dead-ends-and-slow-connections-across-systems",
    "n:need:forced-re-disclosure-of-sensitive-information-across-multiple-systems",
    "n:need:fragmented-access-points-and-repeated-intakes",
    "n:need:fragmented-intakes-and-siloed-eligibility-pathways",
-   "n:need:i-and-my-family-are-new-to-richmond-and-need-to-find-a-doctor",
-   "n:need:i-need-to-access-a-food-bank-or-other-essential-service",
    "n:need:insufficient-resources-and-prioritization-constraints",
    "n:need:lack-of-a-unified-secure-data-sharing-system",
-   "n:need:lack-of-coordinated-reentry-services-due-to-disconnected-data-systems",
-   "n:need:limited-shelter-capacity-and-long-waits-via-coordinated-entry",
-   "n:need:long-waits-and-limited-access-via-the-homeless-connection-line-hcl",
-   "n:need:reentering-the-community-under-supervision-after-a-period-of-incarceration",
    "n:need:referral-drop-offs-and-operational-gaps",
    "n:need:repetitive-data-entry-and-inconsistent-requirements",
    "n:need:scarcity-of-affordable-housing-and-restrictive-landlord-policies",
    "n:need:significant-housing-access-constraints-for-justice-involved-populations",
    "n:need:significant-transportation-burdens-to-reach-multiple-service-providers",
    "n:need:stalled-applications-and-delays",
-   "n:need:systemic-barriers-impede-access-to-employment-and-support-services",
+   "n:need:substance-use-disorder",
    "n:need:systemic-inequity-and-accessibility-barriers",
-   "n:need:the-whatsapp-bot-cannot-answer-my-specific-question-about-my-child-s-school-enro",
    "n:need:trust-and-privacy-concerns-amid-data-sharing-initiatives",
-   "n:need:trying-to-secure-housing-and-job-training-after-a-recent-eviction-risk-or-job-lo",
-   "n:need:when-agencies-across-richmond-vadoc-probation-parole-oar-dss-dmv-virginia-career",
-   "n:need:when-i-am-a-case-worker-at-a-richmond-connection-point",
-   "n:need:when-i-am-a-richmond-resident-facing-housing-instability-or-job-loss-and-don-t-k",
-   "n:need:when-i-am-hesitant-to-share-sensitive-details",
-   "n:need:when-i-am-released-from-the-richmond-city-justice-center-and-need-to-complete-pr",
-   "n:need:when-i-have-to-repeat-my-story-to-each-agency-probation-oar-dss-dmv-shelters-wor"
+   "n:need:when-i-am-hesitant-to-share-sensitive-details"
   ],
   "fundingFlowsWithNoDocumentedOutcome": 0,
   "outcomeNote": "No outcome measurements are documented anywhere in the corpus (see q:outcome-measurements).",
@@ -79,11 +208,11 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 143,
+  "reportedButUnverifiedRelationships": 430,
   "brokenReferences": 0,
-  "duplicateCandidates": 2,
-  "reviewQueueSize": 2,
-  "evidenceRecords": 0,
+  "duplicateCandidates": 21,
+  "reviewQueueSize": 21,
+  "evidenceRecords": 561,
   "provenanceCoverage": 100,
   "provenanceVerification": {
    "exact": 0,
@@ -92,6 +221,8 @@
    "missing": 0,
    "external": 0
   },
+  "questionsDeduplicated": 6,
+  "questionsResolvedSinceLogged": 0,
   "externalResearch": {
    "researchedAt": null,
    "evidenceRecords": 0,
