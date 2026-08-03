@@ -1,0 +1,26 @@
+{
+  "804me": {
+    "name": "804Me",
+    "fullTitle": "804Me — Community Resource Navigation Hub"
+  },
+  "circle-trust": {
+    "name": "Circle Trust",
+    "fullTitle": "Circle Trust — Community Coordination Infrastructure"
+  },
+  "core-eligibility-pack-builder": {
+    "name": "Core Eligibility Pack Builder",
+    "fullTitle": "Core Eligibility Pack Builder"
+  },
+  "reentry-72-hour-navigator": {
+    "name": "Reentry 72-Hour Navigator",
+    "fullTitle": "Reentry 72-Hour Navigator"
+  },
+  "rva-helps": {
+    "name": "RVA Helps",
+    "fullTitle": "RVA Helps"
+  },
+  "whatsapp-service-finder": {
+    "name": "WhatsApp Service Finder",
+    "fullTitle": "WhatsApp Service Finder"
+  }
+}

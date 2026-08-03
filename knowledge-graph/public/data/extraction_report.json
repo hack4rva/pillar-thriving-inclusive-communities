@@ -1,11 +1,10 @@
 {
- "generatedAt": "2026-08-02T23:12:23.858Z",
+ "generatedAt": "2026-08-03T01:24:06.337Z",
  "repo": "pillar-thriving-inclusive-communities",
  "filesExamined": [
   "admin/evidence_log.md",
   "data/source_inventory.csv",
   "post-event-research/804me/jtbd_analysis.md",
-  "post-event-research/804me/pain_points.md",
   "post-event-research/circle-trust/jtbd_analysis.md",
   "post-event-research/circle-trust/pain_points.md",
   "post-event-research/core-eligibility-pack-builder/jtbd_analysis.md",
@@ -164,13 +163,13 @@
   "external": 0
  },
  "warnings": [
-  "[demote] 34 sentence-shaped Problem/Need nodes moved to the evidence layer",
+  "[demote] 44 sentence-shaped Problem/Need nodes moved to the evidence layer",
   "[corpus] dropped 0 stale-anchor, 95 unresolved-endpoint, 0 not-an-organization and 88 not-a-name records",
   "[merge] duplicate node id n:geographicregion:richmond: provenance merged"
  ],
  "metrics": {
-  "totalNodes": 807,
-  "totalEdges": 1652,
+  "totalNodes": 797,
+  "totalEdges": 1642,
   "financialFlows": 0,
   "financialEdges": 0,
   "totalDocumentedFundingUSD": 0,
@@ -208,11 +207,11 @@
   "claimsLackingPrimaryEvidence": [],
   "inferredRelationships": 0,
   "disputedRelationships": 0,
-  "reportedButUnverifiedRelationships": 430,
+  "reportedButUnverifiedRelationships": 420,
   "brokenReferences": 0,
-  "duplicateCandidates": 21,
-  "reviewQueueSize": 21,
-  "evidenceRecords": 561,
+  "duplicateCandidates": 20,
+  "reviewQueueSize": 20,
+  "evidenceRecords": 571,
   "provenanceCoverage": 100,
   "provenanceVerification": {
    "exact": 0,
