@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03T01:24:06.337Z",
+ "generatedAt": "2026-08-03T02:19:54.253Z",
  "repo": "pillar-thriving-inclusive-communities",
  "filesExamined": [
   "admin/evidence_log.md",
@@ -209,8 +209,8 @@
   "disputedRelationships": 0,
   "reportedButUnverifiedRelationships": 420,
   "brokenReferences": 0,
-  "duplicateCandidates": 20,
-  "reviewQueueSize": 20,
+  "duplicateCandidates": 17,
+  "reviewQueueSize": 17,
   "evidenceRecords": 571,
   "provenanceCoverage": 100,
   "provenanceVerification": {

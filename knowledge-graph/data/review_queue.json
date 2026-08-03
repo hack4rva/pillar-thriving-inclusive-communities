@@ -14,10 +14,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us",
+  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us-rginia-get-help-ric",
   "itemType": "node",
-  "proposed": "n:source:uniteus-com-f4b6ac70 vs n:source:uniteus-com-7c0468b1",
-  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us",
+  "proposed": "n:source:uniteus-com-7c0468b1 vs n:source:uniteus-com-68b7cdbf",
+  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us (…rginia/get-help/richmond-city-resources)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -28,24 +28,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us",
-  "itemType": "node",
-  "proposed": "n:source:uniteus-com-f4b6ac70 vs n:source:uniteus-com-68b7cdbf",
-  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us",
+  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us-networks-virginia",
   "itemType": "node",
   "proposed": "n:source:uniteus-com-f4b6ac70 vs n:source:uniteus-com-8bca4b6e",
-  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us",
+  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us (/networks/virginia)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -56,10 +42,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-office-of-new-americans-virginia-department-of-social-services",
+  "id": "r:dup-office-of-new-americans-virginia-department-of-social-services-community-ona",
   "itemType": "node",
   "proposed": "n:source:dss-virginia-gov-56497358 vs n:source:dss-virginia-gov-c6340fd8",
-  "sourceExcerpt": "Office of New Americans - Virginia Department of Social Services",
+  "sourceExcerpt": "Office of New Americans - Virginia Department of Social Services (/community/ona)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
@@ -70,38 +56,10 @@
   "decisionRequested": "Decide whether these are the same entity."
  },
  {
-  "id": "r:dup-unite-us-privacy-policy-uniteus-com",
+  "id": "r:dup-unite-us-privacy-policy-uniteus-com-privacy-policy",
   "itemType": "node",
   "proposed": "n:source:uniteus-com-2754a088 vs n:source:uniteus-com-7e1a474c",
-  "sourceExcerpt": "Unite Us Privacy Policy - uniteus.com",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-unite-virginia-closed-loop-coordinated-care-network-unite-us",
-  "itemType": "node",
-  "proposed": "n:source:uniteus-com-f4b6ac70 vs n:source:uniteus-com-0cc7f2d6",
-  "sourceExcerpt": "Unite Virginia – Closed-Loop Coordinated Care Network | Unite Us",
-  "sourceLocation": "label comparison across extraction sources",
-  "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
-  "confidence": "medium",
-  "alternatives": [
-   "Merge via extraction/aliases.json",
-   "Keep separate"
-  ],
-  "decisionRequested": "Decide whether these are the same entity."
- },
- {
-  "id": "r:dup-u-s-census-bureau-quickfacts-richmond-city-virginia",
-  "itemType": "node",
-  "proposed": "n:source:census-gov-f799790e vs n:source:census-gov-76f61ac5",
-  "sourceExcerpt": "U.S. Census Bureau QuickFacts: Richmond city, Virginia",
+  "sourceExcerpt": "Unite Us Privacy Policy - uniteus.com (/privacy-policy)",
   "sourceLocation": "label comparison across extraction sources",
   "rationale": "Two nodes share the same normalized label; they may be the same entity and need alias resolution.",
   "confidence": "medium",
